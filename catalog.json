@@ -36,3 +36,21 @@
     }
   ]
 }
+    {
+      "id": "death-and-co:last-word",
+      "name": "Test",
+      "creatorName": "Death & Co",
+      "glass": "coupe",
+      "garnish": "Cherry",
+      "instructions": "Shake with ice.\nDouble strain into a chilled coupe.",
+      "story": "Classic equal-parts sour revived by modern bars.",
+      "tags": ["last word riff", "refreshing"],
+      "ingredients": [
+        { "name": "Gin", "qty": 22.5, "unit": "ml" },
+        { "name": "Green Chartreuse", "qty": 22.5, "unit": "ml" },
+        { "name": "Maraschino liqueur", "qty": 22.5, "unit": "ml" },
+        { "name": "Lime juice", "qty": 22.5, "unit": "ml" }
+      ]
+    }
+  ]
+}
