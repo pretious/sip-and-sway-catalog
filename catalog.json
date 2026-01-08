@@ -4,7 +4,7 @@
   "cocktails": [
     {
       "id": "sipsway:lastword:001",
-      "name": "Last Word",
+      "name": "Tester",
       "creatorName": "Sip & Sway",
       "glass": "coupe",
       "garnish": "Lime twist",
@@ -26,7 +26,7 @@
   "cocktails": [
     {
       "id": "death-and-co:last-word",
-      "name": "Last Word",
+      "name": "Tested",
       "creatorName": "Death & Co",
       "glass": "coupe",
       "garnish": "Cherry",
