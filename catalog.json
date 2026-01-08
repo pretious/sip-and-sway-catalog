@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "generatedAt": "2026-01-07T12:00:00Z",
+  "cocktails": [
+    {
+      "id": "sipsway:lastword:001",
+      "name": "Last Word",
+      "creatorName": "Sip & Sway",
+      "glass": "coupe",
+      "garnish": "Lime twist",
+      "instructions": "Shake all ingredients with ice, fine strain, serve up.",
+      "story": "",
+      "tags": ["Last Word Riffs", "Refreshing"],
+      "ingredients": [
+        { "name": "Gin", "qty": 22.5, "unit": "ml" },
+        { "name": "Green Chartreuse", "qty": 22.5, "unit": "ml" },
+        { "name": "Maraschino liqueur", "qty": 22.5, "unit": "ml" },
+        { "name": "Lime juice", "qty": 22.5, "unit": "ml" }
+      ]
+    }
+  ]
+}
