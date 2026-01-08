@@ -33,11 +33,9 @@
         { "name": "Maraschino liqueur", "qty": 22.5, "unit": "ml" },
         { "name": "Lime juice", "qty": 22.5, "unit": "ml" }
       ]
-    }
-  ]
-}
+    },
     {
-      "id": "death-and-co:last-word",
+      "id": "death-and-co:last-word:test",
       "name": "Test",
       "creatorName": "Death & Co",
       "glass": "coupe",
