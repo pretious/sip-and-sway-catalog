@@ -1,102 +1,84 @@
 import csv
 import json
-from datetime import datetime, timezone
+import re
+from pathlib import Path
 
-INPUT = "sources/death_and_co_raw.csv"
-OUTPUT = "catalog_deathandco.json"
+SRC = Path("sources/death_and_co_raw.csv")
+OUT = Path("catalog_deathandco.json")
 
-OZ_TO_ML = 29.5735
+def norm(s):
+    return s.strip().title()
 
-def is_cocktail_header(row):
-    # this file is weird; cocktail names appear as ALL CAPS in column 3,
-    # and quantity column is blank on those rows
-    return (
-        len(row) >= 6
-        and row[2].strip() != ""
-        and row[2].strip() == row[2].strip().upper()
-        and row[5].strip() == ""
-    )
-
-def is_ingredient_row(row):
-    # ingredient name in column 3, quantity in column 6
-    return (
-        len(row) >= 6
-        and row[2].strip() != ""
-        and row[5].strip() != ""
-    )
-
-def make_id(name: str) -> str:
-    slug = (
-        name.lower()
-            .strip()
-            .replace("&", "and")
-            .replace("/", "-")
-            .replace("’", "")
-            .replace("'", "")
-    )
-    while "  " in slug:
-        slug = slug.replace("  ", " ")
-    slug = slug.replace(" ", "-")
-    return f"deathandco:{slug}"
-
-catalog = {
-    "version": 1,
-    "generatedAt": datetime.now(timezone.utc).isoformat(),
-    "cocktails": []
-}
-
+cocktails = []
 current = None
+instructions_buf = []
+garnish = None
 
-with open(INPUT, newline="", encoding="utf-8") as f:
+with SRC.open(newline="", encoding="utf-8") as f:
     reader = csv.reader(f)
+
     for row in reader:
         if len(row) < 6:
             continue
 
-        # Cocktail header row
-        if is_cocktail_header(row):
-            if current:
-                catalog["cocktails"].append(current)
+        cocktail_name = row[2].strip()
+        ingredient = row[3].strip()
+        qty = row[5].strip()
+        text = row[6].strip() if len(row) > 6 else ""
 
-            raw_name = row[2].strip()
-            # title-case for display, but keep stable id based on title-cased name
-            name = raw_name.title()
-
-            current = {
-                "id": make_id(name),
-                "name": name,
-                "creatorName": "Death & Co",
-                "glass": None,
-                "garnish": None,
-                "instructions": "See Death & Co source",
-                "story": None,
-                "tags": [],
-                "ingredients": []
-            }
+        # Skip section headers & empty rows
+        if cocktail_name == "" or cocktail_name.isupper() and ingredient == "":
             continue
 
+        # New cocktail detected
+        if current is None or cocktail_name != current["name"]:
+            if current:
+                current["instructions"] = " ".join(instructions_buf).strip()
+                if garnish:
+                    current["garnish"] = garnish
+                cocktails.append(current)
+
+            current = {
+                "id": cocktail_name.lower().replace(" ", "-"),
+                "name": norm(cocktail_name),
+                "glass": None,
+                "garnish": None,
+                "instructions": "",
+                "story": None,
+                "tags": ["death-and-co"],
+                "ingredients": []
+            }
+
+            instructions_buf = []
+            garnish = None
+
         # Ingredient row
-        if current and is_ingredient_row(row):
-            ing_name = row[2].strip()
-
-            qty_ml = None
-            try:
-                oz = float(row[5].strip())
-                qty_ml = round(oz * OZ_TO_ML, 1)
-            except:
-                qty_ml = None
-
+        if ingredient:
             current["ingredients"].append({
-                "name": ing_name,
-                "qty": qty_ml,
-                "unit": "ml" if qty_ml is not None else None
+                "name": norm(ingredient),
+                "qty": float(qty) if qty not in ("", "remainder") else None,
+                "unit": "oz" if qty not in ("", "remainder") else None
             })
 
-# Append last cocktail
+        # Instruction / garnish text
+        if "GARNISH:" in text.upper():
+            garnish = text.replace("GARNISH:", "").strip()
+        elif text:
+            instructions_buf.append(text)
+
+# flush last cocktail
 if current:
-    catalog["cocktails"].append(current)
+    current["instructions"] = " ".join(instructions_buf).strip()
+    if garnish:
+        current["garnish"] = garnish
+    cocktails.append(current)
 
-with open(OUTPUT, "w", encoding="utf-8") as f:
-    json.dump(catalog, f, indent=2, ensure_ascii=False)
+output = {
+    "version": 1,
+    "generatedAt": None,
+    "cocktails": cocktails
+}
 
-print(f"✅ Converted {len(catalog['cocktails'])} Death & Co cocktails → {OUTPUT}")
+OUT.write_text(json.dumps(output, indent=2), encoding="utf-8")
+
+print(f"✅ Converted {len(cocktails)} Death & Co cocktails → {OUT.name}")
