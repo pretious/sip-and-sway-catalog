@@ -3,6 +3,7 @@ import json
 from collections import defaultdict
 from datetime import date
 
+
 INPUT = "sources/death_and_co_raw.csv"
 OUTPUT = "catalog.json"
 
