@@ -1,4 +1,7 @@
-[
+{
+  "version": 1,
+  "generatedAt": null,
+  "cocktails": [
   {
     "id": "20th-century",
     "name": "20th Century",
