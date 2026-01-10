@@ -178,9 +178,7 @@
         "unit": "dashes"
       }
     ]
-  }
-]
-[
+  },
   {
     "id": "20th-century",
     "name": "20th Century",
@@ -463,9 +461,7 @@
         "unit": "whole"
       }
     ]
-  }
-]
-[
+  },
   {
     "id": "20th-century",
     "name": "20th Century",
@@ -1048,9 +1044,7 @@
         "unit": "dashes"
       }
     ]
-  }
-]
-[
+  },
   {
     "id": "fish-house-punch",
     "name": "Fish House Punch",
@@ -1479,9 +1473,7 @@
         "unit": "oz"
       }
     ]
-  }
-]
-[
+  },
   {
     "id": "rusty-nail",
     "name": "Rusty Nail",
@@ -1831,9 +1823,7 @@
         "unit": "dashes"
       }
     ]
-  }
-]
-[
+  },
   {
     "id": "black-star",
     "name": "Blackstar",
@@ -1992,10 +1982,9 @@
       { "name": "Clear Creek Kirschwasser", "qty": 1, "unit": "oz" },
       { "name": "Demerara Syrup", "qty": 1, "unit": "barspoon" },
       { "name": "Peychaud’s Bitters", "qty": 2, "unit": "dashes" }
+      }
     ]
-  }
-]
-[
+  },
   {
     "id": "americano-highball",
     "name": "Americano Highball",
@@ -2437,9 +2426,7 @@
         "unit": "dashes"
       }
     ]
-  }
-]
-[
+  },
   {
     "id": "flying-dutchman",
     "name": "Flying Dutchman",
@@ -2557,9 +2544,7 @@
       { "name": "Eurovanille Vanilla Syrup", "qty": 0.25, "unit": "oz" },
       { "name": "Whole Black Peppercorns", "qty": 8, "unit": "whole" }
     ]
-  }
-]
-[
+  },
   {
     "id": "fish-house-punch",
     "name": "Fish House Punch",
@@ -2724,10 +2709,9 @@
       { "name": "Simple Syrup", "qty": 0.5, "unit": "oz" },
       { "name": "Cucumber Slices", "qty": 3, "unit": "slices" },
       { "name": "Fever-Tree Ginger Ale", "qty": 1, "unit": "oz" }
+      }
     ]
-  }
-]
-[
+  },
   {
     "id": "paddington",
     "name": "Paddington",
@@ -2812,10 +2796,9 @@
       { "name": "Galliano L’Autentico", "qty": 0.5, "unit": "oz" },
       { "name": "The Bitter Truth Grapefruit Bitters", "qty": 1, "unit": "dash" },
       { "name": "The Bitter Truth Lemon Bitters", "qty": 1, "unit": "dash" }
+      }
     ]
-  }
-]
-[
+  },
   {
     "id": "perfect-pear",
     "name": "Perfect Pear",
@@ -2880,9 +2863,7 @@
       { "name": "Dolin Sweet Vermouth", "qty": 0.75, "unit": "oz" },
       { "name": "Cherry Heering", "qty": 0.5, "unit": "oz" }
     ]
-  }
-]
-[
+  },
   {
     "id": "sazerac",
     "name": "Sazerac",
