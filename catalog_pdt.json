@@ -2,2964 +2,1217 @@
   "version": 1,
   "generatedAt": null,
   "cocktails": [
-  {
-    "id": "20th-century",
-    "name": "20th Century",
-    "creatorName": "C.A. Tuck",
-    "glass": "Chilled Coupe",
-    "garnish": "Lemon Twist",
-    "instructions": "Shake with ice and strain into a chilled coupe. Garnish with a lemon twist.",
-    "story": "The British bartender C.A. Tuck named this cocktail after the 20th Century Limited, a luxury train that ran between New York City and Chicago from 1902 until 1967.",
-    "tags": [
-      "gin",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Beefeater Gin",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Lillet Blanc",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Marie Brizard White Crème de Cacao",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Lemon Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "bentons-old-fashioned",
-    "name": "Benton's Old Fashioned",
-    "creatorName": "Don Lee",
-    "glass": "Chilled Rocks Glass",
-    "garnish": "Orange Twist",
-    "instructions": "Stir with ice and strain into a chilled rocks glass filled with one large ice cube. Garnish with an orange twist.",
-    "story": "In 2007, Don Lee 'fat-washed' four bottles of Four Roses Bourbon with two ounces of Allan Benton's smoky Tennessee bacon fat for our winter menu.",
-    "tags": [
-      "pdt-original",
-      "bourbon",
-      "fat-washed"
-    ],
-    "ingredients": [
-      {
-        "name": "Benton’s Bacon-Infused Four Roses Bourbon",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Deep Mountain Grade B Maple Syrup",
-        "qty": 0.25,
-        "unit": "oz"
-      },
-      {
-        "name": "Angostura Bitters",
-        "qty": 2,
-        "unit": "dashes"
-      }
-    ]
-  },
-  {
-    "id": "blood-and-sand",
-    "name": "Blood and Sand",
-    "creatorName": "Harry Craddock",
-    "glass": "Chilled Coupe",
-    "garnish": null,
-    "instructions": "Shake with ice and strain into a chilled coupe. No garnish.",
-    "story": "Named after the 1922 Rudolph Valentino movie of the same name, this recipe originally called for equal parts of each ingredient.",
-    "tags": [
-      "scotch",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Famous Grouse Blended Scotch Whisky",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Orange Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Cherry Heering",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Carpano Antica Sweet Vermouth",
-        "qty": 0.5,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "el-puente",
-    "name": "El Puente",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Coupe",
-    "garnish": "Grapefruit Twist",
-    "instructions": "Shake with ice and strain into a chilled, Del Maguey Vida Mezcal-rinsed coupe. Garnish with a grapefruit twist.",
-    "story": "This cocktail was created to 'bridge' the figurative gap between tequila and mezcal by featuring the two side by side in a cocktail.",
-    "tags": [
-      "tequila",
-      "mezcal",
-      "summer-2007"
-    ],
-    "ingredients": [
-      {
-        "name": "José Cuervo Platino Tequila",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Grapefruit Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Martini Bianco Vermouth",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "St. Germain Elderflower Liqueur",
-        "qty": 0.5,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "falling-leaves",
-    "name": "Falling Leaves",
-    "creatorName": "Audrey Saunders",
-    "glass": "Chilled Coupe",
-    "garnish": "Star Anise Pod",
-    "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a star anise pod.",
-    "story": "Audrey Saunders created this autumnal, wine-based cocktail at Bemelman’s Bar, in the Carlyle Hotel, in 2004.",
-    "tags": [
-      "riesling",
-      "brandy"
-    ],
-    "ingredients": [
-      {
-        "name": "Dr. Konstantin Frank Dry Riesling",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Clear Creek Pear Brandy",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Marie Brizard Orange Curaçao",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Honey Syrup",
-        "qty": 0.25,
-        "unit": "oz"
-      },
-      {
-        "name": "Peychaud’s Bitters",
-        "qty": 3,
-        "unit": "dashes"
-      }
-    ]
-  },
-  {
-    "id": "20th-century",
-    "name": "20th Century",
-    "creatorName": "C.A. Tuck",
-    "glass": "Chilled Coupe",
-    "garnish": "Lemon Twist",
-    "instructions": "Shake with ice and strain into a chilled coupe. Garnish with a lemon twist.",
-    "story": "The British bartender C.A. Tuck named this cocktail after the 20th Century Limited, a luxury train that ran between New York City and Chicago from 1902 until 1967.",
-    "tags": [
-      "gin",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Beefeater Gin",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Lillet Blanc",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Marie Brizard White Crème de Cacao",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Lemon Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "bentons-old-fashioned",
-    "name": "Benton's Old Fashioned",
-    "creatorName": "Don Lee",
-    "glass": "Chilled Rocks Glass",
-    "garnish": "Orange Twist",
-    "instructions": "Stir with ice and strain into a chilled rocks glass filled with one large ice cube. Garnish with an orange twist.",
-    "story": "In 2007, Don Lee 'fat-washed' four bottles of Four Roses Bourbon with two ounces of Allan Benton's smoky Tennessee bacon fat for our winter menu.",
-    "tags": [
-      "pdt-original",
-      "bourbon",
-      "fat-washed"
-    ],
-    "ingredients": [
-      {
-        "name": "Benton’s Bacon-Infused Four Roses Bourbon",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Deep Mountain Grade B Maple Syrup",
-        "qty": 0.25,
-        "unit": "oz"
-      },
-      {
-        "name": "Angostura Bitters",
-        "qty": 2,
-        "unit": "dashes"
-      }
-    ]
-  },
-  {
-    "id": "blood-and-sand",
-    "name": "Blood and Sand",
-    "creatorName": "Harry Craddock",
-    "glass": "Chilled Coupe",
-    "garnish": null,
-    "instructions": "Shake with ice and strain into a chilled coupe. No garnish.",
-    "story": "Named after the 1922 Rudolph Valentino movie of the same name, this recipe originally called for equal parts of each ingredient.",
-    "tags": [
-      "scotch",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Famous Grouse Blended Scotch Whisky",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Orange Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Cherry Heering",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Carpano Antica Sweet Vermouth",
-        "qty": 0.5,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "bobby-burns",
-    "name": "Bobby Burns",
-    "creatorName": "Harry Craddock",
-    "glass": "Chilled Coupe",
-    "garnish": "Lemon Twist",
-    "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a lemon twist.",
-    "story": "Robert Burns is widely regarded as Scotland’s national bard. Like many of the world’s greatest authors, he has a cocktail named after him.",
-    "tags": [
-      "scotch",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Benromach 12-Year-Old Single Malt Scotch Whisky",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Martini Sweet Vermouth",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Bénédictine",
-        "qty": 0.5,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "camerons-kick",
-    "name": "Cameron's Kick",
-    "creatorName": "Harry McElhone",
-    "glass": "Chilled Coupe",
-    "garnish": null,
-    "instructions": "Shake with ice and strain into a chilled coupe. No garnish.",
-    "story": "There should be a law against creating great drinks with provocative titles and not including a story. This one is still shrouded in mystery.",
-    "tags": [
-      "scotch",
-      "irish-whiskey",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Famous Grouse Blended Scotch Whisky",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Jameson Irish Whiskey",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Lemon Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Kassatly Chtaura Orgeat",
-        "qty": 0.5,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "caprice",
-    "name": "Caprice",
-    "creatorName": "Hyman and Gale",
-    "glass": "Chilled Coupe",
-    "garnish": "Orange Twist",
-    "instructions": "Stir with ice and strain into a chilled coupe. Garnish with an orange twist.",
-    "story": "Abe Marco and Hyman Gale imported fine wine and spirits in Chicago. Their manual includes an extensive wine and spirits overview and a fine collection of classic and unusual concoctions.",
-    "tags": [
-      "gin",
-      "vermouth"
-    ],
-    "ingredients": [
-      {
-        "name": "Beefeater Gin",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Dolin Dry Vermouth",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Bénédictine",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "House Orange Bitters",
-        "qty": 1,
-        "unit": "dash"
-      }
-    ]
-  },
-  {
-    "id": "coconut-colada",
-    "name": "Coconut Colada",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Coupe",
-    "garnish": "Lime Wheel",
-    "instructions": "Shake with ice and strain into a chilled coupe. Garnish with a lime wheel.",
-    "story": "In 2006, a guest asked me to make her a Piña Colada at Gramercy Tavern. We didn’t stock Coco López, so I used a scoop of coconut sorbet in place of the rich cream.",
-    "tags": [
-      "rum",
-      "pdt-original"
-    ],
-    "ingredients": [
-      {
-        "name": "Flor de Caña Silver Dry Rum",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Pineapple Juice",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Lime Juice",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Ciao Bella Coconut Sorbet",
-        "qty": 1,
-        "unit": "scoop"
-      }
-    ]
-  },
-  {
-    "id": "coda",
-    "name": "Coda",
-    "creatorName": "Daniel Eun",
-    "glass": "Chilled Fizz Glass",
-    "garnish": "Grated Nutmeg",
-    "instructions": "Dry-shake, then shake with ice and strain into a chilled fizz glass. Garnish with grated nutmeg.",
-    "story": "In music, a coda (Italian for “tail”) is a passage that brings conclusion to a particular piece.",
-    "tags": [
-      "rum",
-      "pdt-original",
-      "egg"
-    ],
-    "ingredients": [
-      {
-        "name": "Pampero Aniversario Rum",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Neisson Rhum Blanc",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Lime Juice",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "St. Elizabeth Allspice Dram",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Demerara Syrup",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Whole Organic Egg",
-        "qty": 1,
-        "unit": "whole"
-      }
-    ]
-  },
-  {
-    "id": "20th-century",
-    "name": "20th Century",
-    "creatorName": "C.A. Tuck",
-    "glass": "Chilled Coupe",
-    "garnish": "Lemon Twist",
-    "instructions": "Shake with ice and strain into a chilled coupe. Garnish with a lemon twist.",
-    "story": "The British bartender C.A. Tuck named this cocktail after the 20th Century Limited, a luxury train that ran between New York City and Chicago from 1902 until 1967.",
-    "tags": [
-      "gin",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Beefeater Gin",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Lillet Blanc",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Marie Brizard White Crème de Cacao",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Lemon Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "allies-cocktail",
-    "name": "Allies Cocktail",
-    "creatorName": "Kevin Martin",
-    "glass": "Chilled Coupe",
-    "garnish": "Orange Twist",
-    "instructions": "Stir with ice and strain into a chilled coupe. Garnish with an orange twist.",
-    "story": "Named for the Allies of World War I, this cocktail features gin and vermouth, and is named for the Chunnel that connects England and France.",
-    "tags": [
-      "gin",
-      "vermouth"
-    ],
-    "ingredients": [
-      {
-        "name": "Plymouth Gin",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Lillet Blanc",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Green Chartreuse",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "St. Germain Elderflower Liqueur",
-        "qty": 1,
-        "unit": "barspoon"
-      },
-      {
-        "name": "Regan’s Orange Bitters",
-        "qty": 1,
-        "unit": "dash"
-      }
-    ]
-  },
-  {
-    "id": "americano-highball",
-    "name": "Americano Highball",
-    "creatorName": "Antoine",
-    "glass": "Chilled Collins Glass",
-    "garnish": "Half an Orange Wheel",
-    "instructions": "Build in a chilled Collins glass. Add ice and top with 2.5 oz. Club Soda. Garnish with half an orange wheel.",
-    "story": "Originally called the Milano-Torino, this drink was so popular among American tourists, the Italian barmen renamed it in their honor.",
-    "tags": [
-      "vermouth",
-      "campari",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Carpano Antica Sweet Vermouth",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Campari",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Club Soda",
-        "qty": 2.5,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "algonquin",
-    "name": "Algonquin",
-    "creatorName": "Selmer Fougner",
-    "glass": "Chilled Coupe",
-    "garnish": null,
-    "instructions": "Stir with ice and strain into a chilled coupe. No garnish.",
-    "story": "This drink was named after the historic Manhattan hotel where a number of famous writers, artists, and actors (members of the Algonquin Round Table) gathered for lunch before Prohibition went into effect.",
-    "tags": [
-      "whiskey",
-      "rye",
-      "vermouth"
-    ],
-    "ingredients": [
-      {
-        "name": "Rittenhouse Bonded Rye Whiskey",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Dolin Dry Vermouth",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Pineapple Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "bentons-old-fashioned",
-    "name": "Benton's Old Fashioned",
-    "creatorName": "Don Lee",
-    "glass": "Chilled Rocks Glass",
-    "garnish": "Orange Twist",
-    "instructions": "Stir with ice and strain into a chilled rocks glass filled with one large ice cube. Garnish with an orange twist.",
-    "story": "In 2007, Don Lee 'fat-washed' four bottles of Four Roses Bourbon with two ounces of Allan Benton's smoky Tennessee bacon fat for our winter menu.",
-    "tags": [
-      "bourbon",
-      "fat-washed"
-    ],
-    "ingredients": [
-      {
-        "name": "Benton’s Bacon-Infused Four Roses Bourbon",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Deep Mountain Grade B Maple Syrup",
-        "qty": 0.25,
-        "unit": "oz"
-      },
-      {
-        "name": "Angostura Bitters",
-        "qty": 2,
-        "unit": "dashes"
-      }
-    ]
-  },
-  {
-    "id": "blood-and-sand",
-    "name": "Blood and Sand",
-    "creatorName": "Harry Craddock",
-    "glass": "Chilled Coupe",
-    "garnish": null,
-    "instructions": "Shake with ice and strain into a chilled coupe. No garnish.",
-    "story": "Named after the 1922 Rudolph Valentino movie of the same name, this recipe originally called for equal parts of each ingredient.",
-    "tags": [
-      "scotch",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Famous Grouse Blended Scotch Whisky",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Orange Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Cherry Heering",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Carpano Antica Sweet Vermouth",
-        "qty": 0.5,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "coconut-colada",
-    "name": "Coconut Colada",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Coupe",
-    "garnish": "Lime Wheel",
-    "instructions": "Shake with ice and strain into a chilled coupe. Garnish with a lime wheel.",
-    "story": "In 2006, a guest asked me to make her a Piña Colada at Gramercy Tavern. We didn’t stock Coco López, so I used a scoop of coconut sorbet in place of the rich cream.",
-    "tags": [
-      "rum",
-      "fruit"
-    ],
-    "ingredients": [
-      {
-        "name": "Flor de Caña Silver Dry Rum",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Pineapple Juice",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Lime Juice",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Ciao Bella Coconut Sorbet",
-        "qty": 1,
-        "unit": "scoop"
-      }
-    ]
-  },
-  {
-    "id": "coda",
-    "name": "Coda",
-    "creatorName": "Daniel Eun",
-    "glass": "Chilled Fizz Glass",
-    "garnish": "Grated Nutmeg",
-    "instructions": "Dry-shake, then shake with ice and strain into a chilled fizz glass. Garnish with grated nutmeg.",
-    "story": "In music, a coda (Italian for “tail”) is a passage that brings conclusion to a particular piece.",
-    "tags": [
-      "rum",
-      "egg"
-    ],
-    "ingredients": [
-      {
-        "name": "Pampero Aniversario Rum",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Neisson Rhum Blanc",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Lime Juice",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "St. Elizabeth Allspice Dram",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Demerara Syrup",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Whole Organic Egg",
-        "qty": 1,
-        "unit": "whole"
-      }
-    ]
-  },
-  {
-    "id": "death-bed",
-    "name": "Death Bed",
-    "creatorName": "John Deragon",
-    "glass": "Chilled Collins Glass",
-    "garnish": "Lime Wheel and Brandied Cherries",
-    "instructions": "Build in a chilled Collins glass. Fill with pebble ice and swizzle. Add more ice and garnish with a lime wheel and brandied cherries on a pick.",
-    "story": "John Deragon created this cocktail to assuage the aches and pains of a cold that had left him bedridden.",
-    "tags": [
-      "rum",
-      "fruit"
-    ],
-    "ingredients": [
-      {
-        "name": "Pampero Aniversario Rum",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Barbancourt Rhum Blanc",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Cherry Heering",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Lime Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Pineapple Juice",
-        "qty": 0.5,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "daiquiri",
-    "name": "Daiquiri",
-    "creatorName": "Jacques Straub",
-    "glass": "Chilled Coupe",
-    "garnish": "Lime Wheel",
-    "instructions": "Shake with ice and strain into a chilled coupe. Garnish with a lime wheel.",
-    "story": "Charles H. Baker claims his friends Harry Stout and Jennings Cox created the Daiquiri in a village of the same name situated outside the Bacardi plant in Santiago de Cuba.",
-    "tags": [
-      "rum",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Banks 5 Island Rum",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Lime Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Simple Syrup",
-        "qty": 0.75,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "el-puente",
-    "name": "El Puente",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Coupe",
-    "garnish": "Grapefruit Twist",
-    "instructions": "Shake with ice and strain into a chilled, Del Maguey Vida Mezcal-rinsed coupe. Garnish with a grapefruit twist.",
-    "story": "This cocktail was created to “bridge” the figurative gap between tequila and mezcal by featuring the two side by side in a cocktail.",
-    "tags": [
-      "tequila",
-      "mezcal"
-    ],
-    "ingredients": [
-      {
-        "name": "José Cuervo Platino Tequila",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Grapefruit Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Martini Bianco Vermouth",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "St. Germain Elderflower Liqueur",
-        "qty": 0.5,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "ephemeral",
-    "name": "Ephemeral",
-    "creatorName": "David Shenaut",
-    "glass": "Chilled Coupe",
-    "garnish": "Grapefruit Twist",
-    "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a grapefruit twist.",
-    "story": "David Shenaut created this cocktail for friend and bar regular Matthew Schuler, who brought him his first bottle of celery bitters.",
-    "tags": [
-      "gin",
-      "vermouth"
-    ],
-    "ingredients": [
-      {
-        "name": "Ransom Old Tom Gin",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Dolin Blanc Vermouth",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "St. Germain Elderflower Liqueur",
-        "qty": 1,
-        "unit": "barspoon"
-      },
-      {
-        "name": "The Bitter Truth Celery Bitters",
-        "qty": 1,
-        "unit": "dash"
-      }
-    ]
-  },
-  {
-    "id": "espresso-bongo",
-    "name": "Espresso Bongo",
-    "creatorName": "Jeff Berry",
-    "glass": "Chilled Tiki Mug",
-    "garnish": null,
-    "instructions": "Shake with ice and pour unstrained into a chilled tiki mug. No garnish.",
-    "story": "Tiki cocktail guru and author Jeff “Beachbum” Berry created this cocktail, named after the 1959 British beatnik movie Expresso Bongo.",
-    "tags": [
-      "rum",
-      "tiki",
-      "coffee"
-    ],
-    "ingredients": [
-      {
-        "name": "Appleton Reserve Rum",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Illy Espresso Liqueur",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Lime Juice",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Pineapple Juice",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Orange Juice",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Boiron Passion Fruit Purée",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Simple Syrup",
-        "qty": 0.5,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "falling-leaves",
-    "name": "Falling Leaves",
-    "creatorName": "Audrey Saunders",
-    "glass": "Chilled Coupe",
-    "garnish": "Star Anise Pod",
-    "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a star anise pod.",
-    "story": "Audrey Saunders created this autumnal, winebased cocktail at Bemelman’s Bar, in the Carlyle Hotel, in 2004.",
-    "tags": [
-      "wine",
-      "brandy"
-    ],
-    "ingredients": [
-      {
-        "name": "Dr. Konstantin Frank Dry Riesling",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Clear Creek Pear Brandy",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Marie Brizard Orange Curaçao",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Honey Syrup",
-        "qty": 0.25,
-        "unit": "oz"
-      },
-      {
-        "name": "Peychaud’s Bitters",
-        "qty": 3,
-        "unit": "dashes"
-      }
-    ]
-  },
-  {
-    "id": "field-cocktail",
-    "name": "Field Cocktail",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Coupe",
-    "garnish": "Pineapple Leaf",
-    "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a pineapple leaf.",
-    "story": "This cognacdriven variation on the rye-based Algonquin Cocktail is a tribute to Colin Peter Field, who runs the Hemingway Bar in Paris’s Ritz Hotel.",
-    "tags": [
-      "cognac",
-      "vermouth"
-    ],
-    "ingredients": [
-      {
-        "name": "Pierre Ferrand Ambre Cognac",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Noilly Prat Dry Vermouth",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Pineapple Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "figetaboutit",
-    "name": "Figetaboutit",
-    "creatorName": "Lindsay Nader",
-    "glass": "Chilled Coupe",
-    "garnish": "Orange Twist and Brandied Cherries",
-    "instructions": "Shake with ice and fine-strain into a chilled coupe. Garnish with an orange twist wrapped around three brandied cherries on a pick.",
-    "story": "When Lindsay Nader and I were debating potential names for her bittersweet Italian-American whiskey sour, barman Sean Hoard smiled and said “figetaboutit.”",
-    "tags": [
-      "bourbon",
-      "amaretto"
-    ],
-    "ingredients": [
-      {
-        "name": "Bulleit Bourbon",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Lemon Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Luxardo Amaretto",
-        "qty": 0.25,
-        "unit": "oz"
-      },
-      {
-        "name": "St. Dalfour Fig Jam",
-        "qty": 1,
-        "unit": "barspoon"
-      },
-      {
-        "name": "Angostura Bitters",
-        "qty": 2,
-        "unit": "dashes"
-      }
-    ]
-  },
-  {
-    "id": "fish-house-punch",
-    "name": "Fish House Punch",
-    "creatorName": "Jerry Thomas",
-    "glass": "Chilled Rocks Glass",
-    "garnish": "Grated Nutmeg",
-    "instructions": "Shake with ice and strain into a chilled rocks glass filled with ice. Garnish with grated nutmeg.",
-    "story": "The original recipe was mixed with a peach eau de vie aged in wood barrels that hasn’t been produced commercially in over a century.",
-    "tags": [
-      "rum",
-      "cognac",
-      "punch"
-    ],
-    "ingredients": [
-      {
-        "name": "Gosling’s Black Seal Rum",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Pierre Ferrand Ambre Cognac",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Mathilde Pêche",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Lemon Juice",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Simple Syrup",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Lime Juice",
-        "qty": 0.25,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "flora-astoria",
-    "name": "Flora Astoria",
-    "creatorName": "Lindsay Nader and Anne Robinson",
-    "glass": "Chilled Coupe",
-    "garnish": "Sprig of Dried Lavender",
-    "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a sprig of dried lavender.",
-    "story": "Lindsay Nader and Anne Robinson collaborated on this flowery spin on the classic Astoria cocktail, named after the annex added to the Old Waldorf hotel in 1897.",
-    "tags": [
-      "gin",
-      "vermouth",
-      "floral"
-    ],
-    "ingredients": [
-      {
-        "name": "Hendrick’s Gin",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Dolin Blanc Vermouth",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Dolin Dry Vermouth",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "John D. Taylor’s Velvet Falernum",
-        "qty": 1,
-        "unit": "barspoon"
-      },
-      {
-        "name": "Lavender Tincture",
-        "qty": 4,
-        "unit": "dashes"
-      }
-    ]
-  },
-  {
-    "id": "honeymoon-cocktail",
-    "name": "Honeymoon Cocktail",
-    "creatorName": "Hugo Ensslin",
-    "glass": "Chilled Coupe",
-    "garnish": null,
-    "instructions": "Shake with ice and strain into a chilled coupe. No garnish.",
-    "story": "This cocktail has a spirituous backbone that is sure to cast a fog over the most amorous honeymoon.",
-    "tags": [
-      "apple-brandy",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Laird’s Bonded Apple Brandy",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Marie Brizard Orange Curaçao",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Bénédictine",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Lemon Juice",
-        "qty": 0.5,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "lake-george",
-    "name": "Lake George",
-    "creatorName": "Brian Shebairo",
-    "glass": "Chilled Coupe",
-    "garnish": null,
-    "instructions": "Shake with ice and strain into a chilled coupe. No garnish.",
-    "story": "Brian came up with this cocktail while vacationing along the sunny shores of Lake George.",
-    "tags": [
-      "irish-whiskey",
-      "scotch",
-      "pdt-original"
-    ],
-    "ingredients": [
-      {
-        "name": "Jameson Irish Whiskey",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Glenlivet 12-Year-Old Single Malt Scotch Whisky",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Drambuie",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Lemon Juice",
-        "qty": 0.5,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "la-louche",
-    "name": "La Louche",
-    "creatorName": "Charlotte Voisey",
-    "glass": "Chilled Coupe",
-    "garnish": null,
-    "instructions": "Shake with ice and strain into a chilled coupe. No garnish.",
-    "story": "“Louche” means “questionable, mischievous behavior.” Consider this cocktail as its inspiration.",
-    "tags": [
-      "gin",
-      "lillet-rouge"
-    ],
-    "ingredients": [
-      {
-        "name": "Hendricks Gin",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Lillet Rouge",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Lime Juice",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Yellow Chartreuse",
-        "qty": 0.25,
-        "unit": "oz"
-      },
-      {
-        "name": "Simple Syrup",
-        "qty": 0.25,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "nth-degree",
-    "name": "Nth Degree",
-    "creatorName": "Nate Dumas",
-    "glass": "Chilled Rocks Glass",
-    "garnish": "Orange and Lemon Twist",
-    "instructions": "Muddle the sugar cube and bitters. Add everything else, then stir with ice and strain over one large cube into a chilled rocks glass. Garnish with an orange and lemon twist.",
-    "story": "Nate was intrigued by spirituous, old-fashioned-style cocktails at Milk & Honey that split a cocktail’s base between two complementary spirits.",
-    "tags": [
-      "rhum",
-      "apple-brandy"
-    ],
-    "ingredients": [
-      {
-        "name": "Rhum Clément V.S.O.P.",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Laird’s Bonded Apple Brandy",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Green Chartreuse",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Demerara Sugar Cube",
-        "qty": 1,
-        "unit": "cube"
-      },
-      {
-        "name": "Fee Brothers Whiskey Barrel Aged Bitters",
-        "qty": 2,
-        "unit": "dashes"
-      }
-    ]
-  },
-  {
-    "id": "pearl-button",
-    "name": "Pearl Button",
-    "creatorName": "John Deragon",
-    "glass": "Chilled Collins Glass",
-    "garnish": "Half a Grapefruit Wheel",
-    "instructions": "Shake with ice and strain into a chilled Collins glass filled with ice. Top with 1.5 oz. of San Pellegrino Limonata. Garnish with half a grapefruit wheel.",
-    "story": "The combination of ingredients gave off an opalescent glimmer, reminding John of the pearl buttons on the vest he wore behind the bar.",
-    "tags": [
-      "cachaça",
-      "limonata"
-    ],
-    "ingredients": [
-      {
-        "name": "Mãe De Ouro Cachaça",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Lillet Blanc",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Lime Juice",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "San Pellegrino Limonata",
-        "qty": 1.5,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "primavera",
-    "name": "Primavera",
-    "creatorName": "Sean Hoard",
-    "glass": "Chilled Coupe",
-    "garnish": "Orange Twist",
-    "instructions": "Muddle the Cointreau and vegetables. Add everything else, then shake with ice and fine-strain into a chilled St. George Absinthe-rinsed coupe. Garnish with an orange twist.",
-    "story": "Before the flowers blossom and the berries ripen, root vegetables such as fennel and celery are all you can get at the market until flowering shoots such as asparagus appear.",
-    "tags": [
-      "aquavit",
-      "vegetable"
-    ],
-    "ingredients": [
-      {
-        "name": "Krogstad Aquavit",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Cointreau",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Lemon Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Asparagus Tips (1.5-inch)",
-        "qty": 2,
-        "unit": "tips"
-      },
-      {
-        "name": "Fennel Bulb (1/4-inch slice)",
-        "qty": 1,
-        "unit": "slice"
-      },
-      {
-        "name": "Celery Stalk (2-inch)",
-        "qty": 1,
-        "unit": "stalk"
-      }
-    ]
-  },
-  {
-    "id": "prince-edward",
-    "name": "Prince Edward",
-    "creatorName": "Stan Jones",
-    "glass": "Chilled Coupe",
-    "garnish": "Orange Twist",
-    "instructions": "Stir with ice and strain into a chilled coupe. Garnish with an orange twist.",
-    "story": "Stan Jones’s recipe didn’t include bitters, but I felt a couple dashes of orange bitters improved the drink.",
-    "tags": [
-      "scotch",
-      "lillet-blanc"
-    ],
-    "ingredients": [
-      {
-        "name": "Compass Box Oak Cross Blended Malt Scotch Whisky",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Lillet Blanc",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Drambuie",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "House Orange Bitters",
-        "qty": 2,
-        "unit": "dashes"
-      }
-    ]
-  },
-  {
-    "id": "rosita",
-    "name": "Rosita",
-    "creatorName": "Gary Regan",
-    "glass": "Chilled Coupe",
-    "garnish": "Orange Twist",
-    "instructions": "Stir with ice and strain into a chilled coupe. Garnish with an orange twist.",
-    "story": "Gary Regan popularized this drink, sans the dash of bitters, which he added along with a tad more tequila.",
-    "tags": [
-      "tequila",
-      "vermouth",
-      "campari"
-    ],
-    "ingredients": [
-      {
-        "name": "Partida Reposado Tequila",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Martini Sweet Vermouth",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Dolin Dry Vermouth",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Campari",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Angostura Bitters",
-        "qty": 1,
-        "unit": "dash"
-      }
-    ]
-  },
-  {
-    "id": "royal-bermuda-yachtclub-cocktail",
-    "name": "Royal Bermuda Yachtclub Cocktail",
-    "creatorName": "Crosby Gaige",
-    "glass": "Chilled Coupe",
-    "garnish": "Lime Wheel",
-    "instructions": "Shake with ice and strain into a chilled coupe. Garnish with a lime wheel.",
-    "story": "After reading about this drink in Vintage Spirits and Forgotten Cocktails in 2004, I picked up a bottle of Velvet Falernum and have stocked it in all the bars I’ve run ever since.",
-    "tags": [
-      "rum",
-      "falernum"
-    ],
-    "ingredients": [
-      {
-        "name": "Mount Gay Eclipse Amber Rum",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Lime Juice",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Cointreau",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "John D. Taylor’s Velvet Falernum",
-        "qty": 0.5,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "rusty-nail",
-    "name": "Rusty Nail",
-    "creatorName": "David Wondrich",
-    "glass": "Chilled Rocks Glass",
-    "garnish": "Lemon Twist",
-    "instructions": "Stir with ice and strain over one large cube into a chilled rocks glass. Garnish with a lemon twist.",
-    "story": "According to David Wondrich, the B.I.F. cocktail, composed of Scotch and Drambuie, first appeared in 1937. Now known as the Rusty Nail, the recipe under this name didn’t appear in popular cocktail books until the 1970's.",
-    "tags": [
-      "scotch",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Famous Grouse Blended Scotch Whisky",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Drambuie",
-        "qty": 0.75,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "sazerac",
-    "name": "Sazerac",
-    "creatorName": "Stanley Clisby Arthur",
-    "glass": "Chilled Rocks Glass",
-    "garnish": "Lemon Twist",
-    "instructions": "Stir with ice and strain into a chilled, Pernod Absinthe-rinsed rocks glass (no ice). Garnish with a lemon twist.",
-    "story": "The Sazerac is the official cocktail of New Orleans.",
-    "tags": [
-      "whiskey",
-      "rye",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Wild Turkey Rye Whiskey",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Peychaud’s Bitters",
-        "qty": 3,
-        "unit": "dashes"
-      },
-      {
-        "name": "Simple Syrup",
-        "qty": 1,
-        "unit": "barspoon"
-      }
-    ]
-  },
-  {
-    "id": "shiso-malt-sour",
-    "name": "Shiso Malt Sour",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Rocks Glass",
-    "garnish": "Shiso Leaf",
-    "instructions": "Shake with ice and strain over one large cube into a chilled rocks glass. Garnish with a shiso leaf.",
-    "story": "This cocktail was inspired by the refreshing Japanese highball and the herbaceous shiso leaf common in Japanese cuisine.",
-    "tags": [
-      "whiskey",
-      "japanese-malt",
-      "shiso"
-    ],
-    "ingredients": [
-      {
-        "name": "Yamazaki 12-Year-Old Single Malt Whisky",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Lemon Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Simple Syrup",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Shiso Leaf",
-        "qty": 1,
-        "unit": "whole"
-      }
-    ]
-  },
-  {
-    "id": "silver-lining",
-    "name": "Silver Lining",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Coupe",
-    "garnish": "Grated Nutmeg",
-    "instructions": "Shake with ice and strain into a chilled coupe. Garnish with grated nutmeg.",
-    "story": "A light, refreshing whiskey sour variation intended to show the softer side of rye.",
-    "tags": [
-      "whiskey",
-      "rye"
-    ],
-    "ingredients": [
-      {
-        "name": "Rittenhouse Bonded Rye Whiskey",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Lemon Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Simple Syrup",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Egg White",
-        "qty": 1,
-        "unit": "whole"
-      }
-    ]
-  },
-  {
-    "id": "ti-punch",
-    "name": "Ti' Punch",
-    "creatorName": "Ed Hamilton",
-    "glass": "Chilled Rocks Glass",
-    "garnish": null,
-    "instructions": "Squeeze the lime disc into a chilled rocks glass. Add everything else and top with pebble ice. Swizzle twice. No garnish.",
-    "story": "Ed Hamilton, who exports rhum from Martinique, is largely responsible for importing this Caribbean classic to the United States.",
-    "tags": [
-      "rhum",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Neisson Rhum Réserve Spéciale",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Martinique Sugar Cane Syrup",
-        "qty": 1,
-        "unit": "barspoon"
-      },
-      {
-        "name": "Lime Disc",
-        "qty": 1,
-        "unit": "whole"
-      }
-    ]
-  },
-  {
-    "id": "tipperary-cocktail",
-    "name": "Tipperary Cocktail",
-    "creatorName": "Hugo Ensslin",
-    "glass": "Chilled Coupe",
-    "garnish": "Lemon Twist",
-    "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a lemon twist.",
-    "story": "Named after the county in Ireland, this classic appears in Ensslin's 1916 guide.",
-    "tags": [
-      "whiskey",
-      "irish-whiskey",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Bushmills Irish Whiskey",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Martini Sweet Vermouth",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Green Chartreuse",
-        "qty": 0.5,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "up-to-date",
-    "name": "Up To Date",
-    "creatorName": "Hugo Ensslin",
-    "glass": "Chilled Coupe",
-    "garnish": "Lemon Twist",
-    "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a lemon twist.",
-    "story": "Another classic from Hugo Ensslin's 1916 collection.",
-    "tags": [
-      "whiskey",
-      "rye",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Wild Turkey Rye Whiskey",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Lustau Manzanilla Sherry",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Grand Marnier",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Angostura Bitters",
-        "qty": 2,
-        "unit": "dashes"
-      }
-    ]
-  },
-  {
-    "id": "vaccari",
-    "name": "Vaccari",
-    "creatorName": "Naren Young",
-    "glass": "Chilled Rocks Glass",
-    "garnish": "Grapefruit Twist",
-    "instructions": "Stir with ice and strain over a large cube into a chilled rocks glass. Garnish with a grapefruit twist.",
-    "story": "This cocktail, named after the creator of Galliano, should be recommended to someone craving a spirituous drink on a hot summer day.",
-    "tags": [
-      "scotch",
-      "chamomile"
-    ],
-    "ingredients": [
-      {
-        "name": "Chamomile-Infused Compass Box Asyla Blended Scotch Whisky",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Dolin Dry Vermouth",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Galliano L’Autentico",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "The Bitter Truth Grapefruit Bitters",
-        "qty": 1,
-        "unit": "dash"
-      },
-      {
-        "name": "The Bitter Truth Lemon Bitters",
-        "qty": 1,
-        "unit": "dash"
-      }
-    ]
-  },
-  {
-    "id": "vauvert-slim",
-    "name": "Vauvert Slim",
-    "creatorName": "Ryan Noreiks",
-    "glass": "Chilled Egg Coupe",
-    "garnish": "Mint Leaf",
-    "instructions": "Muddle 6 mint leaves with lime juice. Add everything else and dry-shake. Shake with ice and fine-strain into a chilled, Laphroaig 10-Year-Old Single Malt Scotch-rinsed egg coupe. Garnish with a mint leaf.",
-    "story": "Vauvert was home to a Carthusian monastery where Francois Hannibal d’Estrees presented the monks with a manuscript for 'elixir of long life' in 1605.",
-    "tags": [
-      "chartreuse",
-      "mint"
-    ],
-    "ingredients": [
-      {
-        "name": "Grapefruit Juice",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Green Chartreuse",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Lime Juice",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Mint Leaves",
-        "qty": 7,
-        "unit": "whole"
-      },
-      {
-        "name": "Egg White",
-        "qty": 1,
-        "unit": "whole"
-      }
-    ]
-  },
-  {
-    "id": "vieux-carre",
-    "name": "Vieux Carré",
-    "creatorName": "Walter Bergeron",
-    "glass": "Chilled Rocks Glass",
-    "garnish": "Lemon Twist",
-    "instructions": "Stir with ice and strain over one large cube into a chilled rocks glass. Garnish with a lemon twist.",
-    "story": "Named after the French Quarter in New Orleans, this recipe was first served at the Hotel Monteleone in the late 1930s.",
-    "tags": [
-      "rye",
-      "cognac",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Rittenhouse Bonded Rye Whiskey",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Pierre Ferrand Ambre Cognac",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Martini Sweet Vermouth",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Bénédictine",
-        "qty": 0.25,
-        "unit": "oz"
-      },
-      {
-        "name": "Angostura Bitters",
-        "qty": 2,
-        "unit": "dashes"
-      },
-      {
-        "name": "Peychaud’s Bitters",
-        "qty": 2,
-        "unit": "dashes"
-      }
-    ]
-  },
-  {
-    "id": "black-star",
-    "name": "Blackstar",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Coupe",
-    "garnish": "Star Anise Pod",
-    "instructions": "Shake with ice and strain into a chilled coupe. Garnish with a star anise pod.",
-    "story": "The Blackstar was created with Smirnoff Black, a full-bodied vodka that isn’t available in the U.S., and named after the whole star anise pod that floats on the surface as an aromatic garnish.",
-    "tags": ["vodka", "pdt-original"],
-    "ingredients": [
-      { "name": "Smirnoff Black Vodka", "qty": 2, "unit": "oz" },
-      { "name": "Lime Juice", "qty": 0.75, "unit": "oz" },
-      { "name": "Grapefruit Juice", "qty": 0.75, "unit": "oz" },
-      { "name": "Borsci Sambuca", "qty": 0.25, "unit": "oz" },
-      { "name": "Simple Syrup", "qty": 0.25, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "black-thorn-english",
-    "name": "Black Thorn (English)",
-    "creatorName": null,
-    "glass": "Chilled Coupe",
-    "garnish": "Orange Twist",
-    "instructions": "Stir with ice and strain into a chilled coupe. Garnish with an orange twist.",
-    "story": "The sloe berries used to produce Plymouth Sloe Gin are harvested from blackthorn bushes that grow uncultivated throughout England.",
-    "tags": ["gin", "sloe-gin", "classic"],
-    "ingredients": [
-      { "name": "Plymouth Gin", "qty": 1.5, "unit": "oz" },
-      { "name": "Plymouth Sloe Gin", "qty": 0.75, "unit": "oz" },
-      { "name": "Carpano Antica Sweet Vermouth", "qty": 0.75, "unit": "oz" },
-      { "name": "House Orange Bitters", "qty": 2, "unit": "dashes" }
-    ]
-  },
-  {
-    "id": "black-thorn-irish",
-    "name": "Black Thorn (Irish)",
-    "creatorName": "Harry Johnson",
-    "glass": "Chilled Coupe",
-    "garnish": "Lemon Twist",
-    "instructions": "Stir with ice and strain into a chilled, St. George Absinthe-rinsed coupe. Garnish with a lemon twist.",
-    "story": "Although this drink wasn’t named after the Irish whiskey (which was launched in 1934), the higher proportion of malt whiskey in Black Bush gives it the body to stand up to the absinthe and bitters.",
-    "tags": ["irish-whiskey", "absinthe", "classic"],
-    "ingredients": [
-      { "name": "Black Bush Irish Whiskey", "qty": 2, "unit": "oz" },
-      { "name": "Dolin Dry Vermouth", "qty": 1, "unit": "oz" },
-      { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" }
-    ]
-  },
-  {
-    "id": "black-thorn-rose",
-    "name": "Black Thorn Rose",
-    "creatorName": "David Slape",
-    "glass": "Chilled Coupe",
-    "garnish": null,
-    "instructions": "Stir with ice and strain into a chilled coupe. No garnish.",
-    "story": "To enhance the primary botanical in Hendrick’s Gin, David came up with this rose-accented variation on the classic that employs Lillet Rouge, Dubonnet’s Bordelaise brethren.",
-    "tags": ["gin", "floral", "pdt-original"],
-    "ingredients": [
-      { "name": "Hendrick’s Gin", "qty": 2, "unit": "oz" },
-      { "name": "Plymouth Sloe Gin", "qty": 0.5, "unit": "oz" },
-      { "name": "Lillet Rouge", "qty": 0.5, "unit": "oz" },
-      { "name": "Mymoune Rose Syrup", "qty": 1, "unit": "barspoon" }
-    ]
-  },
-  {
-    "id": "blinker",
-    "name": "Blinker",
-    "creatorName": "Patrick Gavin Duffy",
-    "glass": "Chilled Coupe",
-    "garnish": null,
-    "instructions": "Shake with ice and strain into a chilled coupe. No garnish.",
-    "story": "Ted Haigh’s Vintage Spirits and Forgotten Cocktails jump-started the classic cocktail renaissance in 2004 by featuring lost drinks such as the Blinker.",
-    "tags": ["rye", "raspberry", "classic"],
-    "ingredients": [
-      { "name": "Wild Turkey Rye Whiskey", "qty": 2, "unit": "oz" },
-      { "name": "Grapefruit Juice", "qty": 1, "unit": "oz" },
-      { "name": "Simple Syrup", "qty": 0.25, "unit": "oz" },
-      { "name": "Bonne Maman Raspberry Preserves", "qty": 1, "unit": "barspoon" }
-    ]
-  },
-  {
-    "id": "cafe-arroz",
-    "name": "Café Arroz",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Coupe",
-    "garnish": "Grated Cinnamon",
-    "instructions": "Shake with ice and strain into a chilled coupe. Garnish with grated cinnamon.",
-    "story": "Tequila and horchata, two staples of Mexican cuisine, just happen to work really well in place of vodka and cream in the White Russian cocktail.",
-    "tags": ["tequila", "horchata", "pdt-original"],
-    "ingredients": [
-      { "name": "Horchata", "qty": 2, "unit": "oz" },
-      { "name": "Gran Centenario Reposado Tequila", "qty": 1.5, "unit": "oz" },
-      { "name": "Kahlúa", "qty": 0.5, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "duboudreau-cocktail",
-    "name": "Duboudreau Cocktail",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Coupe",
-    "garnish": "Lemon Twist",
-    "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a lemon twist.",
-    "story": "Seattle-based mixologist Jamie Boudreau created a Fernet and elderflower-accented rye cocktail called the Cooper Cocktail. I added Dubonnet and named it after him.",
-    "tags": ["rye", "fernet", "pdt-original"],
-    "ingredients": [
-      { "name": "Rittenhouse Bonded Rye Whiskey", "qty": 2, "unit": "oz" },
-      { "name": "Dubonnet Rouge", "qty": 0.75, "unit": "oz" },
-      { "name": "Fernet-Branca", "qty": 0.25, "unit": "oz" },
-      { "name": "St. Germain Elderflower Liqueur", "qty": 0.25, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "foreign-legion",
-    "name": "Foreign Legion",
-    "creatorName": "Greg Sanderson",
-    "glass": "Chilled Rocks Glass",
-    "garnish": "Orange Twist",
-    "instructions": "Stir with ice and strain over an ice sphere into a chilled rocks glass. Garnish with an orange twist.",
-    "story": "Jonathon Sabathe helped Greg perfect the proportions of this rich rum drink he served during a guest-bartending stint at PDT.",
-    "tags": ["rum", "aperol", "sherry"],
-    "ingredients": [
-      { "name": "Mount Gay X.O. Rum", "qty": 1.5, "unit": "oz" },
-      { "name": "Aperol", "qty": 0.5, "unit": "oz" },
-      { "name": "Dubonnet Rouge", "qty": 0.5, "unit": "oz" },
-      { "name": "Lustau Manzanilla Sherry", "qty": 0.5, "unit": "oz" },
-      { "name": "Marie Brizard Dark Crème de Cacao", "qty": 1, "unit": "barspoon" },
-      { "name": "Fee Brothers Rhubarb Bitters", "qty": 1, "unit": "dash" }
-    ]
-  },
-  {
-    "id": "negroni",
-    "name": "Negroni",
-    "creatorName": "J. S. Brucart",
-    "glass": "Chilled Coupe or Rocks Glass",
-    "garnish": "Orange Twist",
-    "instructions": "Stir with ice and strain into chilled coupe or over ice in a chilled rocks glass. Garnish with an orange twist.",
-    "story": "The combination of gin, sweet vermouth, and Campari showed up as the Camparinette and the Campari Cardinal in French and Spanish cocktail books before being recognized universally as the Negroni.",
-    "tags": ["gin", "campari", "classic"],
-    "ingredients": [
-      { "name": "Beefeater Gin", "qty": 1.25, "unit": "oz" },
-      { "name": "Campari", "qty": 1.25, "unit": "oz" },
-      { "name": "Martini Sweet Vermouth", "qty": 1.25, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "new-amsterdam",
-    "name": "New Amsterdam",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Coupe",
-    "garnish": "Lemon Twist",
-    "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a lemon twist.",
-    "story": "Manhattan was first colonized by Dutch traders, who renamed the island and surrounding area New Amsterdam.",
-    "tags": ["genever", "kirschwasser", "pdt-original"],
-    "ingredients": [
-      { "name": "Bols Genever", "qty": 2, "unit": "oz" },
-      { "name": "Clear Creek Kirschwasser", "qty": 1, "unit": "oz" },
-      { "name": "Demerara Syrup", "qty": 1, "unit": "barspoon" },
-      { "name": "Peychaud’s Bitters", "qty": 2, "unit": "dashes" }
-    ]
-  },
-  {
-    "id": "americano-highball",
-    "name": "Americano Highball",
-    "creatorName": "Antoine",
-    "glass": "Chilled Collins Glass",
-    "garnish": "Half an Orange Wheel",
-    "instructions": "Build in a chilled Collins glass. Add ice and top with 2.5 oz. club soda. Garnish with half an orange wheel.",
-    "story": "Originally called the Milano-Torino, this drink was so popular among American tourists, the Italian barmen renamed it in their honor.",
-    "tags": [
-      "vermouth",
-      "campari",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Carpano Antica Sweet Vermouth",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Campari",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Club Soda",
-        "qty": 2.5,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "algonquin",
-    "name": "Algonquin",
-    "creatorName": "Selmer Fougner",
-    "glass": "Chilled Coupe",
-    "garnish": null,
-    "instructions": "Stir with ice and strain into a chilled coupe. No garnish.",
-    "story": "This drink was named after the historic Manhattan hotel where a number of famous writers, artists, and actors (members of the Algonquin Round Table) gathered for lunch before Prohibition went into effect.",
-    "tags": [
-      "rye",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Rittenhouse Bonded Rye Whiskey",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Dolin Dry Vermouth",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Pineapple Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "coconut-colada",
-    "name": "Coconut Colada",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Coupe",
-    "garnish": "Lime Wheel",
-    "instructions": "Shake with ice and strain into a chilled coupe. Garnish with a lime wheel.",
-    "story": "In 2006, a guest asked me to make her a Piña Colada at Gramercy Tavern. We didn’t stock Coco López, so I used a scoop of coconut sorbet in place of the rich cream.",
-    "tags": [
-      "rum",
-      "pdt-original"
-    ],
-    "ingredients": [
-      {
-        "name": "Flor de Caña Silver Dry Rum",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Pineapple Juice",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Lime Juice",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Ciao Bella Coconut Sorbet",
-        "qty": 1,
-        "unit": "scoop"
-      }
-    ]
-  },
-  {
-    "id": "coda",
-    "name": "Coda",
-    "creatorName": "Daniel Eun",
-    "glass": "Chilled Fizz Glass",
-    "garnish": "Grated Nutmeg",
-    "instructions": "Dry-shake, then shake with ice and strain into a chilled fizz glass. Garnish with grated nutmeg.",
-    "story": "In music, a coda (Italian for “tail”) is a passage that brings conclusion to a particular piece.",
-    "tags": [
-      "rum",
-      "pdt-original"
-    ],
-    "ingredients": [
-      {
-        "name": "Pampero Aniversario Rum",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Neisson Rhum Blanc",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Lime Juice",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "St. Elizabeth Allspice Dram",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Demerara Syrup",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Organic Egg",
-        "qty": 1,
-        "unit": "whole"
-      }
-    ]
-  },
-  {
-    "id": "death-bed",
-    "name": "Death Bed",
-    "creatorName": "John Deragon",
-    "glass": "Chilled Collins Glass",
-    "garnish": "Lime Wheel and Brandied Cherries",
-    "instructions": "Build in a chilled Collins glass. Fill with pebble ice and swizzle. Add more ice and garnish with a lime wheel and brandied cherries on a pick.",
-    "story": "John Deragon created this cocktail to assuage the aches and pains of a cold that had left him bedridden.",
-    "tags": [
-      "rum",
-      "pdt-original"
-    ],
-    "ingredients": [
-      {
-        "name": "Pampero Aniversario Rum",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Barbancourt Rhum Blanc",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Cherry Heering",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Lime Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Pineapple Juice",
-        "qty": 0.5,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "daiquiri",
-    "name": "Daiquiri",
-    "creatorName": "Jacques Straub",
-    "glass": "Chilled Coupe",
-    "garnish": "Lime Wheel",
-    "instructions": "Shake with ice and strain into a chilled coupe. Garnish with a lime wheel.",
-    "story": "Charles H. Baker claims his friends Harry Stout and Jennings Cox created the Daiquiri in a village of the same name situated outside the Bacardi plant in Santiago de Cuba.",
-    "tags": [
-      "rum",
-      "classic"
-    ],
-    "ingredients": [
-      {
-        "name": "Banks 5 Island Rum",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Lime Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Simple Syrup",
-        "qty": 0.75,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "el-puente",
-    "name": "El Puente",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Coupe",
-    "garnish": "Grapefruit Twist",
-    "instructions": "Shake with ice and strain into a chilled, Del Maguey Vida Mezcal-rinsed coupe. Garnish with a grapefruit twist.",
-    "story": "This cocktail was created to “bridge” the figurative gap between tequila and mezcal by featuring the two side by side in a cocktail.",
-    "tags": [
-      "tequila",
-      "mezcal",
-      "pdt-original"
-    ],
-    "ingredients": [
-      {
-        "name": "José Cuervo Platino Tequila",
-        "qty": 1.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Grapefruit Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Martini Bianco Vermouth",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "St. Germain Elderflower Liqueur",
-        "qty": 0.5,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "ephemeral",
-    "name": "Ephemeral",
-    "creatorName": "David Shenaut",
-    "glass": "Chilled Coupe",
-    "garnish": "Grapefruit Twist",
-    "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a grapefruit twist.",
-    "story": "David Shenaut created this cocktail for friend and bar regular Matthew Schuler, who brought him his first bottle of celery bitters.",
-    "tags": [
-      "gin",
-      "classic-style"
-    ],
-    "ingredients": [
-      {
-        "name": "Ransom Old Tom Gin",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Dolin Blanc Vermouth",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "St. Germain Elderflower Liqueur",
-        "qty": 1,
-        "unit": "barspoon"
-      },
-      {
-        "name": "The Bitter Truth Celery Bitters",
-        "qty": 1,
-        "unit": "dash"
-      }
-    ]
-  },
-  {
-    "id": "espresso-bongo",
-    "name": "Espresso Bongo",
-    "creatorName": "Jeff Berry",
-    "glass": "Chilled Tiki Mug",
-    "garnish": null,
-    "instructions": "Shake with ice and pour unstrained into a chilled tiki mug. No garnish.",
-    "story": "Tiki cocktail guru and author Jeff “Beachbum” Berry created this cocktail, named after the 1959 British beatnik movie Expresso Bongo.",
-    "tags": [
-      "rum",
-      "tiki"
-    ],
-    "ingredients": [
-      {
-        "name": "Appleton Reserve Rum",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Illy Espresso Liqueur",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Lime Juice",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Pineapple Juice",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Orange Juice",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Boiron Passion Fruit Purée",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Simple Syrup",
-        "qty": 0.5,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "falling-leaves",
-    "name": "Falling Leaves",
-    "creatorName": "Audrey Saunders",
-    "glass": "Chilled Coupe",
-    "garnish": "Star Anise Pod",
-    "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a star anise pod.",
-    "story": "Audrey Saunders created this autumnal, winebased cocktail at Bemelman’s Bar, in the Carlyle Hotel, in 2004.",
-    "tags": [
-      "wine",
-      "brandy"
-    ],
-    "ingredients": [
-      {
-        "name": "Dr. Konstantin Frank Dry Riesling",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Clear Creek Pear Brandy",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Marie Brizard Orange Curaçao",
-        "qty": 0.5,
-        "unit": "oz"
-      },
-      {
-        "name": "Honey Syrup",
-        "qty": 0.25,
-        "unit": "oz"
-      },
-      {
-        "name": "Peychaud’s Bitters",
-        "qty": 3,
-        "unit": "dashes"
-      }
-    ]
-  },
-  {
-    "id": "field-cocktail",
-    "name": "Field Cocktail",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Coupe",
-    "garnish": "Pineapple Leaf",
-    "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a pineapple leaf.",
-    "story": "This cognacdriven variation on the rye-based Algonquin Cocktail is a tribute to Colin Peter Field, who runs the Hemingway Bar in Paris’s Ritz Hotel.",
-    "tags": [
-      "cognac",
-      "pdt-original"
-    ],
-    "ingredients": [
-      {
-        "name": "Pierre Ferrand Ambre Cognac",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Noilly Prat Dry Vermouth",
-        "qty": 1,
-        "unit": "oz"
-      },
-      {
-        "name": "Pineapple Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      }
-    ]
-  },
-  {
-    "id": "figetaboutit",
-    "name": "Figetaboutit",
-    "creatorName": "Lindsay Nader",
-    "glass": "Chilled Coupe",
-    "garnish": "Orange Twist and Brandied Cherries",
-    "instructions": "Shake with ice and fine-strain into a chilled coupe. Garnish with an orange twist wrapped around three brandied cherries on a pick.",
-    "story": "When Lindsay Nader and I were debating potential names for her bittersweet Italian-American whiskey sour, barman Sean Hoard smiled and said “figetaboutit.”",
-    "tags": [
-      "bourbon",
-      "pdt-original"
-    ],
-    "ingredients": [
-      {
-        "name": "Bulleit Bourbon",
-        "qty": 2,
-        "unit": "oz"
-      },
-      {
-        "name": "Lemon Juice",
-        "qty": 0.75,
-        "unit": "oz"
-      },
-      {
-        "name": "Luxardo Amaretto",
-        "qty": 0.25,
-        "unit": "oz"
-      },
-      {
-        "name": "St. Dalfour Fig Jam",
-        "qty": 1,
-        "unit": "barspoon"
-      },
-      {
-        "name": "Angostura Bitters",
-        "qty": 2,
-        "unit": "dashes"
-      }
-    ]
-  },
-  {
-    "id": "flying-dutchman",
-    "name": "Flying Dutchman",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Coupe",
-    "garnish": "One Brandied Cherry",
-    "instructions": "Shake with ice and strain into a chilled coupe. Garnish with one brandied cherry.",
-    "story": "An ancestor of the Aviation Cocktail, the name references Dutch genever, not the cursed ship forever lost at sea.",
-    "tags": ["genever", "plum-brandy", "pdt-original"],
-    "ingredients": [
-      { "name": "Clear Creek Plum Brandy", "qty": 0.75, "unit": "oz" },
-      { "name": "Bols Genever", "qty": 0.75, "unit": "oz" },
-      { "name": "Crème Yvette", "qty": 0.5, "unit": "oz" },
-      { "name": "Lemon Juice", "qty": 0.5, "unit": "oz" },
-      { "name": "Pineapple Juice", "qty": 0.5, "unit": "oz" },
-      { "name": "Luxardo Maraschino Liqueur", "qty": 1, "unit": "barspoon" }
-    ]
-  },
-  {
-    "id": "fog-cutter",
-    "name": "Fog Cutter",
-    "creatorName": "Jules Bergeron",
-    "glass": "Chilled Tiki Mug",
-    "garnish": "Mint Sprig",
-    "instructions": "Shake with ice and pour unstrained into a chilled tiki mug. Float .5 oz. of Lustau Cream Sherry on top. Garnish with a mint sprig.",
-    "story": "Tiki historian Jeff Berry called this drink “the Long Island Iced Tea of exotic drinks.”",
-    "tags": ["rum", "cognac", "gin", "tiki"],
-    "ingredients": [
-      { "name": "Lemon Juice", "qty": 1.5, "unit": "oz" },
-      { "name": "Bacardi 8 Rum", "qty": 1, "unit": "oz" },
-      { "name": "Hine V.S.O.P. Cognac", "qty": 1, "unit": "oz" },
-      { "name": "Orange Juice", "qty": 0.75, "unit": "oz" },
-      { "name": "Tanqueray Gin", "qty": 0.5, "unit": "oz" },
-      { "name": "Kassatly Chtaura Orgeat", "qty": 0.5, "unit": "oz" },
-      { "name": "Lustau Cream Sherry", "qty": 0.5, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "framboise-fizz",
-    "name": "Framboise Fizz",
-    "creatorName": "Michael Klein",
-    "glass": "Chilled Egg Coupe",
-    "garnish": null,
-    "instructions": "Shake with ice and strain into a chilled egg coupe. Top with 2 oz. of Lindemans Framboise Lambic. No garnish.",
-    "story": "Michael Klein chose Framboise, a Belgian ale produced by combining fresh raspberries and young lambic, to complement two old friends: tequila and chocolate.",
-    "tags": ["tequila", "beer", "pdt-original"],
-    "ingredients": [
-      { "name": "Siete Leguas Reposado Tequila", "qty": 1.5, "unit": "oz" },
-      { "name": "Marie Brizard White Crème de Cacao", "qty": 0.75, "unit": "oz" },
-      { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
-      { "name": "Lindemans Framboise Lambic", "qty": 2, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "platanos-en-mole-old-fashioned",
-    "name": "Plátanos en Mole Old Fashioned",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Rocks Glass",
-    "garnish": "Pinch of Ground Chili",
-    "instructions": "Stir with ice and strain over one large cube into a chilled rocks glass. Garnish with a pinch of ground chili.",
-    "story": "Inspired by the classic dessert, this cocktail was first served at the Star Chefs International Chef’s Conference in New York City.",
-    "tags": ["rum", "banana", "mole", "pdt-original"],
-    "ingredients": [
-      { "name": "Zacapa 23 Centenario Rum", "qty": 2, "unit": "oz" },
-      { "name": "Brizard Crème de Banane", "qty": 0.25, "unit": "oz" },
-      { "name": "Bittermens Xocolatl Mole Bitters", "qty": 12, "unit": "drops" }
-    ]
-  },
-  {
-    "id": "prince-of-wales",
-    "name": "Prince of Wales",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Coupe",
-    "garnish": null,
-    "instructions": "Stir with ice and strain into a chilled coupe. No garnish.",
-    "story": "Albert Edward, Prince of Wales and son of Queen Victoria, was the first member of the British royal family to visit North America, in 1860.",
-    "tags": ["cognac", "sherry", "pdt-original"],
-    "ingredients": [
-      { "name": "Hine V.S.O.P. Cognac", "qty": 1, "unit": "oz" },
-      { "name": "Blandy’s Sercial Madeira", "qty": 1, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "rye-witch",
-    "name": "Rye Witch",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Rocks Glass",
-    "garnish": null,
-    "instructions": "Add the bitters and sugar cube to a mixing glass and muddle to a paste. Add everything else, then stir with ice and strain into a chilled rocks glass. Twist an orange peel over the surface and discard.",
-    "story": "I tend to include “witch,” “strega” in Italian, in a drink’s title whenever we mix with it.",
-    "tags": ["rye", "strega", "pdt-original"],
-    "ingredients": [
-      { "name": "Rittenhouse Bonded Rye Whiskey", "qty": 2, "unit": "oz" },
-      { "name": "Strega", "qty": 0.25, "unit": "oz" },
-      { "name": "Lustau Palo Cortado Sherry", "qty": 0.25, "unit": "oz" },
-      { "name": "Sugar Cube", "qty": 1, "unit": "whole" },
-      { "name": "House Orange Bitters", "qty": 2, "unit": "dashes" }
-    ]
-  },
-  {
-    "id": "sage-old-buck",
-    "name": "Sage Old Buck",
-    "creatorName": "Jim Meehan and Lydia Reissmueller",
-    "glass": "Chilled Collins Glass",
-    "garnish": "Smacked Sage Leaf",
-    "instructions": "Muddle the black peppercorns with the simple syrup. Add everything else, then shake with ice and fine-strain into a chilled Collins glass filled with ice. Garnish with a smacked sage leaf.",
-    "story": "We sorted all the produce and chose vanilla, black pepper, and sage to pair with the malt.",
-    "tags": ["scotch", "sage", "pdt-original"],
-    "ingredients": [
-      { "name": "Benromach 12-Year-Old Single Malt Scotch Whisky", "qty": 1.5, "unit": "oz" },
-      { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
-      { "name": "House Ginger Beer", "qty": 0.75, "unit": "oz" },
-      { "name": "Simple Syrup", "qty": 0.75, "unit": "oz" },
-      { "name": "Belle de Brillet", "qty": 0.5, "unit": "oz" },
-      { "name": "Eurovanille Vanilla Syrup", "qty": 0.25, "unit": "oz" },
-      { "name": "Whole Black Peppercorns", "qty": 8, "unit": "whole" }
-    ]
-  },
-  {
-    "id": "fish-house-punch",
-    "name": "Fish House Punch",
-    "creatorName": null,
-    "glass": "Chilled Rocks Glass",
-    "garnish": "Grated Nutmeg",
-    "instructions": "Stir with ice and strain into a chilled rocks glass. Garnish with grated nutmeg.",
-    "story": "The original recipe was mixed with a large quantity of spirits in a punch bowl for the members of the State in Schuylkill, a social club founded in Philadelphia in 1732.",
-    "tags": ["rum", "cognac", "peach-brandy", "punch", "classic"],
-    "ingredients": [
-      { "name": "Appleton V/X Rum", "qty": 1.5, "unit": "oz" },
-      { "name": "Pierre Ferrand Ambre Cognac", "qty": 0.75, "unit": "oz" },
-      { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
-      { "name": "Simple Syrup", "qty": 0.5, "unit": "oz" },
-      { "name": "Combier Crème de Pêche de Vigne", "qty": 0.25, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "gold-rush",
-    "name": "Gold Rush",
-    "creatorName": "T. J. Siegal",
-    "glass": "Chilled Rocks Glass",
-    "garnish": null,
-    "instructions": "Shake with ice and strain into a chilled rocks glass filled with ice. No garnish.",
-    "story": "T. J. Siegal created this modern classic at Milk & Honey. It is essentially a Whiskey Sour with honey syrup instead of simple syrup.",
-    "tags": ["bourbon", "honey", "pdt-original"],
-    "ingredients": [
-      { "name": "Elijah Craig 12-Year-Old Bourbon", "qty": 2, "unit": "oz" },
-      { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
-      { "name": "Honey Syrup", "qty": 0.75, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "harvest-moon",
-    "name": "Harvest Moon",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Rocks Glass",
-    "garnish": "Grated Nutmeg",
-    "instructions": "Stir with ice and strain over one large cube into a chilled rocks glass. Garnish with grated nutmeg.",
-    "story": "This cocktail was inspired by the seasonal transition from summer to fall, using local ingredients like Chardonnay from Long Island.",
-    "tags": ["chardonnay", "batavia-arrack", "pdt-original"],
-    "ingredients": [
-      { "name": "Channing Daughters Scuttlehole Chardonnay", "qty": 1, "unit": "oz" },
-      { "name": "Lemon Juice", "qty": 0.5, "unit": "oz" },
-      { "name": "Simple Syrup", "qty": 0.5, "unit": "oz" },
-      { "name": "van Oosten Batavia Arrack", "qty": 0.25, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "honeymoon-cocktail",
-    "name": "Honeymoon Cocktail",
-    "creatorName": "Hugo Ensslin",
-    "glass": "Chilled Coupe",
-    "garnish": null,
-    "instructions": "Shake with ice and strain into a chilled coupe. No garnish.",
-    "story": "This cocktail has a spirituous backbone that is sure to cast a fog over the most amorous honeymoon.",
-    "tags": ["apple-brandy", "benedictine", "classic"],
-    "ingredients": [
-      { "name": "Laird’s Bonded Apple Brandy", "qty": 2, "unit": "oz" },
-      { "name": "Marie Brizard Orange Curaçao", "qty": 0.5, "unit": "oz" },
-      { "name": "Bénédictine", "qty": 0.5, "unit": "oz" },
-      { "name": "Lemon Juice", "qty": 0.5, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "pearl-button",
-    "name": "Pearl Button",
-    "creatorName": "John Deragon",
-    "glass": "Chilled Collins Glass",
-    "garnish": "Half a Grapefruit Wheel",
-    "instructions": "Shake with ice and strain into a chilled Collins glass filled with ice. Top with 1.5 oz. of San Pellegrino Limonata. Garnish with half a grapefruit wheel.",
-    "story": "The combination of ingredients gave off an opalescent glimmer, reminding John of the pearl buttons on the vest he wore behind the bar.",
-    "tags": ["cachaca", "limonata", "pdt-original"],
-    "ingredients": [
-      { "name": "Mãe De Ouro Cachaça", "qty": 2, "unit": "oz" },
-      { "name": "Lillet Blanc", "qty": 0.75, "unit": "oz" },
-      { "name": "Lime Juice", "qty": 0.5, "unit": "oz" },
-      { "name": "San Pellegrino Limonata", "qty": 1.5, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "pearl-of-puebla",
-    "name": "Pearl of Puebla",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Coupe",
-    "garnish": null,
-    "instructions": "Muddle the oregano and agave nectar. Add everything else, then shake with ice and fine-strain into a chilled coupe. No garnish.",
-    "story": "Fashioned as a Mexican rendition of Audrey Saunders’s French Pearl, this uses two staples of Puebla cuisine: mezcal and fresh oregano.",
-    "tags": ["mezcal", "oregano", "pdt-original"],
-    "ingredients": [
-      { "name": "Sombra Mezcal", "qty": 2, "unit": "oz" },
-      { "name": "Yellow Chartreuse", "qty": 0.75, "unit": "oz" },
-      { "name": "Lime Juice", "qty": 0.75, "unit": "oz" },
-      { "name": "Fresh Oregano", "qty": 4, "unit": "sprigs" },
-      { "name": "Ricard Pastis", "qty": 1, "unit": "barspoon" },
-      { "name": "Agave Nectar", "qty": 1, "unit": "barspoon" }
-    ]
-  },
-  {
-    "id": "perfect-pear",
-    "name": "Perfect Pear",
-    "creatorName": "Marco Dionysos",
-    "glass": "Chilled Coupe",
-    "garnish": null,
-    "instructions": "Shake with ice and strain into a chilled, half sugar-rimmed coupe. No garnish.",
-    "story": "Marco created this drink for his ex-wife, Sarah, naming it in honor of their marriage and the King Crimson song “Three of a Perfect Pair.”",
-    "tags": ["pear-brandy", "classic-style"],
-    "ingredients": [
-      { "name": "Clear Creek Pear Brandy", "qty": 2, "unit": "oz" },
-      { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
-      { "name": "Orange Juice", "qty": 0.5, "unit": "oz" },
-      { "name": "Simple Syrup", "qty": 0.5, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "pharaoh-cooler",
-    "name": "Pharaoh Cooler",
-    "creatorName": "Jack McGarry",
-    "glass": "Chilled Collins Glass",
-    "garnish": null,
-    "instructions": "Shake with ice and strain into a chilled Collins glass filled with ice. Top with 1 oz. Club Soda. No garnish.",
-    "story": "Named after the mythic Egyptian origin of watermelon seeds, this drink was so good we put it on the menu after Jack McGarry mixed it at PDT.",
-    "tags": ["tequila", "watermelon", "pdt-original"],
-    "ingredients": [
-      { "name": "Partida Blanco Tequila", "qty": 1.5, "unit": "oz" },
-      { "name": "Watermelon Juice", "qty": 1, "unit": "oz" },
-      { "name": "House Grenadine", "qty": 0.75, "unit": "oz" },
-      { "name": "Lime Juice", "qty": 0.5, "unit": "oz" },
-      { "name": "Marivani Rose Flower Water", "qty": 4, "unit": "drops" },
-      { "name": "Club Soda", "qty": 1, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "persephone",
-    "name": "Persephone",
-    "creatorName": "David Slape",
-    "glass": "Chilled Coupe",
-    "garnish": null,
-    "instructions": "Stir with ice and strain into a chilled coupe. No garnish.",
-    "story": "According to Greek Mythology, the seasons were a result of Persephone’s abduction by Hades; nature suffered while her mother, Demeter, searched for her.",
-    "tags": ["applejack", "sloe-gin", "pdt-original"],
-    "ingredients": [
-      { "name": "Laird’s Applejack", "qty": 1, "unit": "oz" },
-      { "name": "Dolin Sweet Vermouth", "qty": 0.75, "unit": "oz" },
-      { "name": "Plymouth Sloe Gin", "qty": 0.5, "unit": "oz" },
-      { "name": "Lemon Juice", "qty": 0.5, "unit": "oz" },
-      { "name": "Simple Syrup", "qty": 0.5, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "pimms-cup",
-    "name": "Pimms Cup",
-    "creatorName": "Lucius Beebe",
-    "glass": "Chilled Collins Glass",
-    "garnish": "Cucumber Wheel",
-    "instructions": "Muddle the cucumber and simple syrup. Add Pimms and lemon juice, then shake with ice and strain into a chilled Collins glass filled with ice. Top with 1 oz. Fever-Tree Ginger Ale. Garnish with a cucumber wheel.",
-    "story": "James Pimm became famous for his “house cup,” a gin sling with a proprietary mix of liqueurs and fruit extracts in the 19th century.",
-    "tags": ["pimms", "ginger-ale", "classic"],
-    "ingredients": [
-      { "name": "Pimms #1 Cup", "qty": 2, "unit": "oz" },
-      { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
-      { "name": "Simple Syrup", "qty": 0.5, "unit": "oz" },
-      { "name": "Cucumber Slices", "qty": 3, "unit": "slices" },
-      { "name": "Fever-Tree Ginger Ale", "qty": 1, "unit": "oz" }
-      }
-    ]
-  },
-  {
-    "id": "paddington",
-    "name": "Paddington",
-    "creatorName": "David Slape",
-    "glass": "Chilled Coupe",
-    "garnish": "Grapefruit Twist",
-    "instructions": "Shake with ice and strain into a chilled, St. George Absinthe-rinsed coupe. Garnish with a grapefruit twist.",
-    "story": "Named after the marmalade-loving bear from Michael Bond’s children’s stories, this is a variation on the Fitzgerald cocktail that substitutes rum for gin.",
-    "tags": ["rum", "marmalade", "pdt-original"],
-    "ingredients": [
-      { "name": "Banks 5 Island Rum", "qty": 1.5, "unit": "oz" },
-      { "name": "Lillet Blanc", "qty": 0.5, "unit": "oz" },
-      { "name": "Grapefruit Juice", "qty": 0.5, "unit": "oz" },
-      { "name": "Lemon Juice", "qty": 0.5, "unit": "oz" },
-      { "name": "Wilkin & Sons Tawny Orange Marmalade", "qty": 1, "unit": "barspoon" }
-    ]
-  },
-  {
-    "id": "pumpkin-toddy",
-    "name": "Pumpkin Toddy",
-    "creatorName": "Jane Danger",
-    "glass": "Pre-heated Heatproof Mug",
-    "garnish": "Grated Cinnamon",
-    "instructions": "Add everything to a pre-heated heatproof mug and stir. Top with 5 oz. hot water and stir. Garnish with grated cinnamon.",
-    "story": "Originally, toddies were prepared hot or cold in the 18th century with a spirit, sugar, water, and sometimes nutmeg. The formula has become considerably more involved in the 21st century.",
-    "tags": ["apple-brandy", "rye", "pumpkin", "hot", "pdt-original"],
-    "ingredients": [
-      { "name": "Laird’s Bonded Apple Brandy", "qty": 1, "unit": "oz" },
-      { "name": "Rittenhouse Bonded Rye Whiskey", "qty": 0.5, "unit": "oz" },
-      { "name": "Lemon Juice", "qty": 0.5, "unit": "oz" },
-      { "name": "Deep Mountain Grade B Maple Syrup", "qty": 0.5, "unit": "oz" },
-      { "name": "Libby’s Pumpkin Purée", "qty": 1, "unit": "tsp" },
-      { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" },
-      { "name": "Hot Water", "qty": 5, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "sazerac",
-    "name": "Sazerac",
-    "creatorName": "William Boothby",
-    "glass": "Chilled Rocks Glass",
-    "garnish": "Lemon Twist",
-    "instructions": "Muddle the sugar and bitters, then add the whiskey and ice. Stir and strain into a chilled, Vieux Pontarlier Absinthe-rinsed rocks glass. Twist a lemon peel over the surface and discard.",
-    "story": "This cocktail became synonymous with both Sazerac de Forge et Fils Cognac, which was originally used to prepare the drink, and later with the Sazerac coffee house that Thomas Handy took over in the 1870s.",
-    "tags": ["rye", "absinthe", "classic"],
-    "ingredients": [
-      { "name": "Rittenhouse Bonded Rye Whiskey", "qty": 2, "unit": "oz" },
-      { "name": "Peychaud’s Bitters", "qty": 3, "unit": "dashes" },
-      { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" },
-      { "name": "Demerara Sugar Cube", "qty": 1, "unit": "whole" }
-    ]
-  },
-  {
-    "id": "seelbach-cocktail",
-    "name": "Seelbach Cocktail",
-    "creatorName": "Adam Seger",
-    "glass": "Chilled Coupe",
-    "garnish": "Orange Twist",
-    "instructions": "Stir with ice and strain into a chilled coupe. Top with 2 oz. Moët Imperial Champagne. Garnish with an orange twist.",
-    "story": "Chicagoan Adam Seger discovered this pre-Prohibition recipe during his tenure at Louisville’s historic Seelbach Hotel in 1995.",
-    "tags": ["bourbon", "champagne", "classic"],
-    "ingredients": [
-      { "name": "Bulleit Bourbon", "qty": 1, "unit": "oz" },
-      { "name": "Cointreau", "qty": 0.5, "unit": "oz" },
-      { "name": "Peychaud’s Bitters", "qty": 3, "unit": "dashes" },
-      { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" },
-      { "name": "Moët Imperial Champagne", "qty": 2, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "vaccari",
-    "name": "Vaccari",
-    "creatorName": "Naren Young",
-    "glass": "Chilled Rocks Glass",
-    "garnish": "Grapefruit Twist",
-    "instructions": "Stir with ice and strain over a large cube into a chilled rocks glass. Garnish with a grapefruit twist.",
-    "story": "This cocktail, named after the creator of Galliano, should be recommended to someone craving a spirituous drink on a hot summer day.",
-    "tags": ["scotch", "chamomile", "galliano", "pdt-original"],
-    "ingredients": [
-      { "name": "Chamomile-Infused Compass Box Asyla Blended Scotch Whisky", "qty": 1.5, "unit": "oz" },
-      { "name": "Dolin Dry Vermouth", "qty": 0.75, "unit": "oz" },
-      { "name": "Galliano L’Autentico", "qty": 0.5, "unit": "oz" },
-      { "name": "The Bitter Truth Grapefruit Bitters", "qty": 1, "unit": "dash" },
-      { "name": "The Bitter Truth Lemon Bitters", "qty": 1, "unit": "dash" }
-      }
-    ]
-  },
-  {
-    "id": "perfect-pear",
-    "name": "Perfect Pear",
-    "creatorName": "Marco Dionysos",
-    "glass": "Chilled Coupe",
-    "garnish": null,
-    "instructions": "Shake with ice and strain into a chilled, half sugar-rimmed coupe. No garnish.",
-    "story": "Marco created this drink for his ex-wife, Sarah, naming it in honor of their marriage and the King Crimson song “Three of a Perfect Pair.”",
-    "tags": ["pear-brandy", "fruit", "pdt-original"],
-    "ingredients": [
-      { "name": "Clear Creek Pear Brandy", "qty": 2, "unit": "oz" },
-      { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
-      { "name": "Orange Juice", "qty": 0.5, "unit": "oz" },
-      { "name": "Simple Syrup", "qty": 0.5, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "pearl-of-puebla",
-    "name": "Pearl of Puebla",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Coupe",
-    "garnish": null,
-    "instructions": "Muddle the oregano and agave nectar. Add everything else, then shake with ice and fine-strain into a chilled coupe. No garnish.",
-    "story": "Fashioned as a Mexican rendition of Audrey Saunders’s French Pearl, this uses two staples of Puebla cuisine: mezcal and fresh oregano.",
-    "tags": ["mezcal", "oregano", "pdt-original"],
-    "ingredients": [
-      { "name": "Sombra Mezcal", "qty": 2, "unit": "oz" },
-      { "name": "Yellow Chartreuse", "qty": 0.75, "unit": "oz" },
-      { "name": "Lime Juice", "qty": 0.75, "unit": "oz" },
-      { "name": "Fresh Oregano", "qty": 4, "unit": "sprigs" },
-      { "name": "Ricard Pastis", "qty": 1, "unit": "barspoon" },
-      { "name": "Agave Nectar", "qty": 1, "unit": "barspoon" }
-    ]
-  },
-  {
-    "id": "professor",
-    "name": "Professor",
-    "creatorName": "Michael Klein",
-    "glass": "Chilled Coupe",
-    "garnish": null,
-    "instructions": "Stir with ice and strain into a chilled coupe. No garnish.",
-    "story": "The Professor is Michael’s rum-based variation on the Chancellor cocktail from Frederick Birmingham’s Esquire Drink Book.",
-    "tags": ["rum", "port", "pdt-original"],
-    "ingredients": [
-      { "name": "Mount Gay Eclipse Rum", "qty": 2, "unit": "oz" },
-      { "name": "Dolin Dry Vermouth", "qty": 0.75, "unit": "oz" },
-      { "name": "Noval 10-Year-Old Tawny Port", "qty": 0.75, "unit": "oz" },
-      { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" }
-    ]
-  },
-  {
-    "id": "remember-the-maine",
-    "name": "Remember the Maine",
-    "creatorName": "Charles H. Baker",
-    "glass": "Chilled Coupe",
-    "garnish": "One Brandied Cherry",
-    "instructions": "Stir with ice and strain into a chilled, St. George Absinthe-rinsed coupe. Garnish with one brandied cherry.",
-    "story": "Baker describes this as a hazy memory from Havana during the 1933 revolution, noting it should be 'handled with care.'",
-    "tags": ["rye", "cherry-heering", "classic"],
-    "ingredients": [
-      { "name": "Rittenhouse Bonded Rye Whiskey", "qty": 2, "unit": "oz" },
-      { "name": "Dolin Sweet Vermouth", "qty": 0.75, "unit": "oz" },
-      { "name": "Cherry Heering", "qty": 0.5, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "sazerac",
-    "name": "Sazerac",
-    "creatorName": "William Boothby",
-    "glass": "Chilled Rocks Glass",
-    "garnish": "Lemon Twist",
-    "instructions": "Muddle the sugar and bitters, then add the whiskey and ice. Stir and strain into a chilled, Vieux Pontarlier Absinthe-rinsed rocks glass. Twist a lemon peel over the surface and discard.",
-    "story": "This cocktail became synonymous with both Sazerac de Forge et Fils Cognac, which was originally used to prepare the drink, and later with the Sazerac coffee house that Thomas Handy took over in the 1870s, when he changed the base spirit to rye whiskey.",
-    "tags": ["rye", "absinthe", "classic"],
-    "ingredients": [
-      { "name": "Rittenhouse Bonded Rye Whiskey", "qty": 2, "unit": "oz" },
-      { "name": "Peychaud’s Bitters", "qty": 3, "unit": "dashes" },
-      { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" },
-      { "name": "Demerara Sugar Cube", "qty": 1, "unit": "whole" }
-    ]
-  },
-  {
-    "id": "seelbach-cocktail",
-    "name": "Seelbach Cocktail",
-    "creatorName": "Adam Seger",
-    "glass": "Chilled Coupe",
-    "garnish": "Orange Twist",
-    "instructions": "Stir with ice and strain into a chilled coupe. Top with 2 oz. Moët Imperial Champagne. Garnish with an orange twist.",
-    "story": "Chicagoan Adam Seger discovered this pre-Prohibition recipe during his tenure at Louisville’s historic Seelbach Hotel in 1995.",
-    "tags": ["bourbon", "champagne", "classic"],
-    "ingredients": [
-      { "name": "Bulleit Bourbon", "qty": 1, "unit": "oz" },
-      { "name": "Cointreau", "qty": 0.5, "unit": "oz" },
-      { "name": "Peychaud’s Bitters", "qty": 7, "unit": "dashes" },
-      { "name": "Angostura Bitters", "qty": 7, "unit": "dashes" },
-      { "name": "Moët Imperial Champagne", "qty": 2, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "shiso-malt-sour",
-    "name": "Shiso Malt Sour",
-    "creatorName": "Jim Meehan",
-    "glass": "Chilled Coupe",
-    "garnish": "Shiso Leaf",
-    "instructions": "Dry-shake, then shake with ice and strain into a chilled coupe. Garnish with a shiso leaf.",
-    "story": "This cocktail highlights the delicate herbal notes of shiso leaf paired with the complexity of Japanese malt whisky.",
-    "tags": ["whisky", "shiso", "pdt-original"],
-    "ingredients": [
-      { "name": "Yamazaki 12-Year-Old Single Malt Whisky", "qty": 2, "unit": "oz" },
-      { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
-      { "name": "Simple Syrup", "qty": 0.5, "unit": "oz" },
-      { "name": "Egg White", "qty": 1, "unit": "whole" },
-      { "name": "Shiso Leaves", "qty": 2, "unit": "leaves" }
-    ]
-  },
-  {
-    "id": "ti-punch",
-    "name": "Ti-Punch",
-    "creatorName": "Ed Hamilton",
-    "glass": "Chilled Rocks Glass",
-    "garnish": null,
-    "instructions": "Squeeze the lime disc on both sides (to express the oil from the peel and juice from the flesh) into a chilled rocks glass. Add everything else and top with pebble ice. Swizzle, then top with more pebble ice and swizzle again.",
-    "story": "Ed Hamilton, who exports rhum from Martinique, is largely responsible for importing this Caribbean classic to the United States.",
-    "tags": ["rhum", "classic"],
-    "ingredients": [
-      { "name": "Neisson Rhum Réserve Spéciale", "qty": 2, "unit": "oz" },
-      { "name": "Martinique Sugar Cane Syrup", "qty": 1, "unit": "barspoon" },
-      { "name": "Lime Disc", "qty": 1, "unit": "whole" }
-    ]
-  },
-  {
-    "id": "tom-collins",
-    "name": "Tom Collins",
-    "creatorName": "Jerry Thomas",
-    "glass": "Chilled Collins Glass",
-    "garnish": "Lemon Wheel and Brandied Cherry",
-    "instructions": "Shake with ice and strain into a chilled Collins glass filled with ice. Top with 2 oz. Club Soda. Garnish with a lemon wheel and a brandied cherry.",
-    "story": "This cocktail was named after John Collins, a waiter at Limmer’s Hotel in London, who was famous for his gin punch.",
-    "tags": ["gin", "classic"],
-    "ingredients": [
-      { "name": "Hayman’s Old Tom Gin", "qty": 2, "unit": "oz" },
-      { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
-      { "name": "Simple Syrup", "qty": 0.75, "unit": "oz" },
-      { "name": "Club Soda", "qty": 2, "unit": "oz" }
-    ]
-  },
-  {
-    "id": "vieux-carre",
-    "name": "Vieux Carré",
-    "creatorName": "Walter Bergeron",
-    "glass": "Chilled Rocks Glass",
-    "garnish": "Lemon Twist",
-    "instructions": "Stir with ice and strain over a large cube into a chilled rocks glass. Garnish with a lemon twist.",
-    "story": "Named after the French Quarter in New Orleans, this drink was created at the Hotel Monteleone’s Carousel Bar in the 1930s.",
-    "tags": ["rye", "cognac", "vermouth", "classic"],
-    "ingredients": [
-      { "name": "Rittenhouse Bonded Rye Whiskey", "qty": 1, "unit": "oz" },
-      { "name": "Pierre Ferrand Ambre Cognac", "qty": 1, "unit": "oz" },
-      { "name": "Carpano Antica Sweet Vermouth", "qty": 1, "unit": "oz" },
-      { "name": "Bénédictine", "qty": 1, "unit": "barspoon" },
-      { "name": "Peychaud’s Bitters", "qty": 2, "unit": "dashes" },
-      { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" }
-    ]
-  }
-]
+    {
+      "id": "pdt-20th-century",
+      "name": "20th Century",
+      "creatorName": "C.A. Tuck",
+      "glass": "Chilled Coupe",
+      "garnish": "Lemon Twist",
+      "instructions": "Shake with ice and strain into a chilled coupe. Garnish with a lemon twist.",
+      "story": "The British bartender C.A. Tuck named this cocktail after the 20th Century Limited, a luxury train that ran between New York City and Chicago from 1902 until 1967.",
+      "tags": ["gin", "classic"],
+      "ingredients": [
+        { "name": "Beefeater Gin", "qty": 1.5, "unit": "oz" },
+        { "name": "Lillet Blanc", "qty": 0.75, "unit": "oz" },
+        { "name": "Marie Brizard White Crème de Cacao", "qty": 0.5, "unit": "oz" },
+        { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" }
+      ]
+    },
+    {
+      "id": "pdt-bentons-old-fashioned",
+      "name": "Benton's Old Fashioned",
+      "creatorName": "Don Lee",
+      "glass": "Chilled Rocks Glass",
+      "garnish": "Orange Twist",
+      "instructions": "Stir with ice and strain into a chilled rocks glass filled with one large ice cube. Garnish with an orange twist.",
+      "story": "In 2007, Don Lee 'fat-washed' four bottles of Four Roses Bourbon with two ounces of Allan Benton's smoky Tennessee bacon fat for our winter menu.",
+      "tags": ["pdt-original", "bourbon", "fat-washed"],
+      "ingredients": [
+        { "name": "Benton’s Bacon-Infused Four Roses Bourbon", "qty": 2, "unit": "oz" },
+        { "name": "Deep Mountain Grade B Maple Syrup", "qty": 0.25, "unit": "oz" },
+        { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" }
+      ]
+    },
+    {
+      "id": "pdt-blood-and-sand",
+      "name": "Blood and Sand",
+      "creatorName": "Harry Craddock",
+      "glass": "Chilled Coupe",
+      "garnish": null,
+      "instructions": "Shake with ice and strain into a chilled coupe. No garnish.",
+      "story": "Named after the 1922 Rudolph Valentino movie of the same name, this recipe originally called for equal parts of each ingredient.",
+      "tags": ["scotch", "classic"],
+      "ingredients": [
+        { "name": "Famous Grouse Blended Scotch Whisky", "qty": 1.5, "unit": "oz" },
+        { "name": "Orange Juice", "qty": 0.75, "unit": "oz" },
+        { "name": "Cherry Heering", "qty": 0.5, "unit": "oz" },
+        { "name": "Carpano Antica Sweet Vermouth", "qty": 0.5, "unit": "oz" }
+      ]
+    },
+    {
+      "id": "pdt-el-puente",
+      "name": "El Puente",
+      "creatorName": "Jim Meehan",
+      "glass": "Chilled Coupe",
+      "garnish": "Grapefruit Twist",
+      "instructions": "Shake with ice and strain into a chilled, Del Maguey Vida Mezcal-rinsed coupe. Garnish with a grapefruit twist.",
+      "story": "This cocktail was created to 'bridge' the figurative gap between tequila and mezcal by featuring the two side by side in a cocktail.",
+      "tags": ["tequila", "mezcal", "summer-2007"],
+      "ingredients": [
+        { "name": "José Cuervo Platino Tequila", "qty": 1.5, "unit": "oz" },
+        { "name": "Grapefruit Juice", "qty": 0.75, "unit": "oz" },
+        { "name": "Martini Bianco Vermouth", "qty": 0.5, "unit": "oz" },
+        { "name": "St. Germain Elderflower Liqueur", "qty": 0.5, "unit": "oz" }
+      ]
+    },
+    {
+      "id": "pdt-falling-leaves",
+      "name": "Falling Leaves",
+      "creatorName": "Audrey Saunders",
+      "glass": "Chilled Coupe",
+      "garnish": "Star Anise Pod",
+      "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a star anise pod.",
+      "story": "Audrey Saunders created this autumnal, wine-based cocktail at Bemelman’s Bar, in the Carlyle Hotel, in 2004.",
+      "tags": ["riesling", "brandy"],
+      "ingredients": [
+        { "name": "Dr. Konstantin Frank Dry Riesling", "qty": 2, "unit": "oz" },
+        { "name": "Clear Creek Pear Brandy", "qty": 1, "unit": "oz" },
+        { "name": "Marie Brizard Orange Curaçao", "qty": 0.5, "unit": "oz" },
+        { "name": "Honey Syrup", "qty": 0.25, "unit": "oz" },
+        { "name": "Peychaud’s Bitters", "qty": 3, "unit": "dashes" }
+      ]
+    },
+
+    {
+      "id": "pdt-bobby-burns",
+      "name": "Bobby Burns",
+      "creatorName": "Harry Craddock",
+      "glass": "Chilled Coupe",
+      "garnish": "Lemon Twist",
+      "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a lemon twist.",
+      "story": "Robert Burns is widely regarded as Scotland’s national bard. Like many of the world’s greatest authors, he has a cocktail named after him.",
+      "tags": ["scotch", "classic"],
+      "ingredients": [
+        { "name": "Benromach 12-Year-Old Single Malt Scotch Whisky", "qty": 2, "unit": "oz" },
+        { "name": "Martini Sweet Vermouth", "qty": 0.75, "unit": "oz" },
+        { "name": "Bénédictine", "qty": 0.5, "unit": "oz" }
+      ]
+    },
+    {
+      "id": "pdt-camerons-kick",
+      "name": "Cameron's Kick",
+      "creatorName": "Harry McElhone",
+      "glass": "Chilled Coupe",
+      "garnish": null,
+      "instructions": "Shake with ice and strain into a chilled coupe. No garnish.",
+      "story": "There should be a law against creating great drinks with provocative titles and not including a story. This one is still shrouded in mystery.",
+      "tags": ["scotch", "irish-whiskey", "classic"],
+      "ingredients": [
+        { "name": "Famous Grouse Blended Scotch Whisky", "qty": 1, "unit": "oz" },
+        { "name": "Jameson Irish Whiskey", "qty": 1, "unit": "oz" },
+        { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
+        { "name": "Kassatly Chtaura Orgeat", "qty": 0.5, "unit": "oz" }
+      ]
+    },
+    {
+      "id": "pdt-caprice",
+      "name": "Caprice",
+      "creatorName": "Hyman and Gale",
+      "glass": "Chilled Coupe",
+      "garnish": "Orange Twist",
+      "instructions": "Stir with ice and strain into a chilled coupe. Garnish with an orange twist.",
+      "story": "Abe Marco and Hyman Gale imported fine wine and spirits in Chicago. Their manual includes an extensive wine and spirits overview and a fine collection of classic and unusual concoctions.",
+      "tags": ["gin", "vermouth"],
+      "ingredients": [
+        { "name": "Beefeater Gin", "qty": 1.5, "unit": "oz" },
+        { "name": "Dolin Dry Vermouth", "qty": 1.5, "unit": "oz" },
+        { "name": "Bénédictine", "qty": 0.5, "unit": "oz" },
+        { "name": "House Orange Bitters", "qty": 1, "unit": "dash" }
+      ]
+    },
+    {
+      "id": "pdt-coconut-colada",
+      "name": "Coconut Colada",
+      "creatorName": "Jim Meehan",
+      "glass": "Chilled Coupe",
+      "garnish": "Lime Wheel",
+      "instructions": "Shake with ice and strain into a chilled coupe. Garnish with a lime wheel.",
+      "story": "In 2006, a guest asked me to make her a Piña Colada at Gramercy Tavern. We didn’t stock Coco López, so I used a scoop of coconut sorbet in place of the rich cream.",
+      "tags": ["rum", "pdt-original"],
+      "ingredients": [
+        { "name": "Flor de Caña Silver Dry Rum", "qty": 2, "unit": "oz" },
+        { "name": "Pineapple Juice", "qty": 1, "unit": "oz" },
+        { "name": "Lime Juice", "qty": 0.5, "unit": "oz" },
+        { "name": "Ciao Bella Coconut Sorbet", "qty": 1, "unit": "scoop" }
+      ]
+    },
+    {
+      "id": "pdt-coda",
+      "name": "Coda",
+      "creatorName": "Daniel Eun",
+      "glass": "Chilled Fizz Glass",
+      "garnish": "Grated Nutmeg",
+      "instructions": "Dry-shake, then shake with ice and strain into a chilled fizz glass. Garnish with grated nutmeg.",
+      "story": "In music, a coda (Italian for “tail”) is a passage that brings conclusion to a particular piece.",
+      "tags": ["rum", "pdt-original", "egg"],
+      "ingredients": [
+        { "name": "Pampero Aniversario Rum", "qty": 1, "unit": "oz" },
+        { "name": "Neisson Rhum Blanc", "qty": 1, "unit": "oz" },
+        { "name": "Lime Juice", "qty": 1, "unit": "oz" },
+        { "name": "St. Elizabeth Allspice Dram", "qty": 0.5, "unit": "oz" },
+        { "name": "Demerara Syrup", "qty": 0.5, "unit": "oz" },
+        { "name": "Whole Organic Egg", "qty": 1, "unit": "whole" }
+      ]
+    },
+    {
+      "id": "pdt-allies-cocktail",
+      "name": "Allies Cocktail",
+      "creatorName": "Kevin Martin",
+      "glass": "Chilled Coupe",
+      "garnish": "Orange Twist",
+      "instructions": "Stir with ice and strain into a chilled coupe. Garnish with an orange twist.",
+      "story": "Named for the Allies of World War I, this cocktail features gin and vermouth, and is named for the Chunnel that connects England and France.",
+      "tags": ["gin", "vermouth"],
+      "ingredients": [
+        { "name": "Plymouth Gin", "qty": 1.5, "unit": "oz" },
+        { "name": "Lillet Blanc", "qty": 0.75, "unit": "oz" },
+        { "name": "Green Chartreuse", "qty": 0.75, "unit": "oz" },
+        { "name": "St. Germain Elderflower Liqueur", "qty": 1, "unit": "barspoon" },
+        { "name": "Regan’s Orange Bitters", "qty": 1, "unit": "dash" }
+      ]
+    },
+    {
+      "id": "pdt-americano-highball",
+      "name": "Americano Highball",
+      "creatorName": "Antoine",
+      "glass": "Chilled Collins Glass",
+      "garnish": "Half an Orange Wheel",
+      "instructions": "Build in a chilled Collins glass. Add ice and top with 2.5 oz. Club Soda. Garnish with half an orange wheel.",
+      "story": "Originally called the Milano-Torino, this drink was so popular among American tourists, the Italian barmen renamed it in their honor.",
+      "tags": ["vermouth", "campari", "classic"],
+      "ingredients": [
+        { "name": "Carpano Antica Sweet Vermouth", "qty": 1.5, "unit": "oz" },
+        { "name": "Campari", "qty": 1.5, "unit": "oz" },
+        { "name": "Club Soda", "qty": 2.5, "unit": "oz" }
+      ]
+    },
+    {
+      "id": "pdt-algonquin",
+      "name": "Algonquin",
+      "creatorName": "Selmer Fougner",
+      "glass": "Chilled Coupe",
+      "garnish": null,
+      "instructions": "Stir with ice and strain into a chilled coupe. No garnish.",
+      "story": "This drink was named after the historic Manhattan hotel where a number of famous writers, artists, and actors (members of the Algonquin Round Table) gathered for lunch before Prohibition went into effect.",
+      "tags": ["whiskey", "rye", "vermouth"],
+      "ingredients": [
+        { "name": "Rittenhouse Bonded Rye Whiskey", "qty": 2, "unit": "oz" },
+        { "name": "Dolin Dry Vermouth", "qty": 0.75, "unit": "oz" },
+        { "name": "Pineapple Juice", "qty": 0.75, "unit": "oz" }
+      ]
+    },
+    {
+      "id": "pdt-pimms-cup",
+      "name": "Pimms Cup",
+      "creatorName": "Lucius Beebe",
+      "glass": "Chilled Collins Glass",
+      "garnish": "Cucumber Wheel",
+      "instructions": "Muddle the cucumber and simple syrup. Add Pimms and lemon juice, then shake with ice and strain into a chilled Collins glass filled with ice. Top with 1 oz. Fever-Tree Ginger Ale. Garnish with a cucumber wheel.",
+      "story": "James Pimm became famous for his “house cup,” a gin sling with a proprietary mix of liqueurs and fruit extracts in the 19th century.",
+      "tags": ["pimms", "ginger-ale", "classic"],
+      "ingredients": [
+        { "name": "Pimms #1 Cup", "qty": 2, "unit": "oz" },
+        { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
+        { "name": "Simple Syrup", "qty": 0.5, "unit": "oz" },
+        { "name": "Cucumber Slices", "qty": 3, "unit": "slices" },
+        { "name": "Fever-Tree Ginger Ale", "qty": 1, "unit": "oz" }
+      ]
+    },
+    {
+  "id": "pdt-gold-rush",
+  "name": "Gold Rush",
+  "creatorName": "T. J. Siegal",
+  "glass": "Chilled Rocks Glass",
+  "garnish": null,
+  "instructions": "Shake with ice and strain into a chilled rocks glass filled with ice. No garnish.",
+  "story": "T. J. Siegal created this modern classic at Milk & Honey. It is essentially a Whiskey Sour with honey syrup instead of simple syrup.",
+  "tags": ["bourbon", "honey", "pdt-original"],
+  "ingredients": [
+    { "name": "Elijah Craig 12-Year-Old Bourbon", "qty": 2, "unit": "oz" },
+    { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
+    { "name": "Honey Syrup", "qty": 0.75, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-harvest-moon",
+  "name": "Harvest Moon",
+  "creatorName": "Jim Meehan",
+  "glass": "Chilled Rocks Glass",
+  "garnish": "Grated Nutmeg",
+  "instructions": "Stir with ice and strain over one large cube into a chilled rocks glass. Garnish with grated nutmeg.",
+  "story": "This cocktail was inspired by the seasonal transition from summer to fall, using local ingredients like Chardonnay from Long Island.",
+  "tags": ["chardonnay", "batavia-arrack", "pdt-original"],
+  "ingredients": [
+    { "name": "Channing Daughters Scuttlehole Chardonnay", "qty": 1, "unit": "oz" },
+    { "name": "Lemon Juice", "qty": 0.5, "unit": "oz" },
+    { "name": "Simple Syrup", "qty": 0.5, "unit": "oz" },
+    { "name": "van Oosten Batavia Arrack", "qty": 0.25, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-honeymoon-cocktail",
+  "name": "Honeymoon Cocktail",
+  "creatorName": "Hugo Ensslin",
+  "glass": "Chilled Coupe",
+  "garnish": null,
+  "instructions": "Shake with ice and strain into a chilled coupe. No garnish.",
+  "story": "This cocktail has a spirituous backbone that is sure to cast a fog over the most amorous honeymoon.",
+  "tags": ["apple-brandy", "benedictine", "classic"],
+  "ingredients": [
+    { "name": "Laird's Bonded Apple Brandy", "qty": 2, "unit": "oz" },
+    { "name": "Marie Brizard Orange Curacao", "qty": 0.5, "unit": "oz" },
+    { "name": "Benedictine", "qty": 0.5, "unit": "oz" },
+    { "name": "Lemon Juice", "qty": 0.5, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-pearl-of-puebla",
+  "name": "Pearl of Puebla",
+  "creatorName": "Jim Meehan",
+  "glass": "Chilled Coupe",
+  "garnish": null,
+  "instructions": "Muddle the oregano and agave nectar. Add everything else, then shake with ice and fine-strain into a chilled coupe. No garnish.",
+  "story": "Fashioned as a Mexican rendition of Audrey Saunders's French Pearl, this uses two staples of Puebla cuisine: mezcal and fresh oregano.",
+  "tags": ["mezcal", "oregano", "pdt-original"],
+  "ingredients": [
+    { "name": "Sombra Mezcal", "qty": 2, "unit": "oz" },
+    { "name": "Yellow Chartreuse", "qty": 0.75, "unit": "oz" },
+    { "name": "Lime Juice", "qty": 0.75, "unit": "oz" },
+    { "name": "Fresh Oregano", "qty": 4, "unit": "sprigs" },
+    { "name": "Ricard Pastis", "qty": 1, "unit": "barspoon" },
+    { "name": "Agave Nectar", "qty": 1, "unit": "barspoon" }
+  ]
+},
+{
+  "id": "pdt-perfect-pear",
+  "name": "Perfect Pear",
+  "creatorName": "Marco Dionysos",
+  "glass": "Chilled Coupe",
+  "garnish": null,
+  "instructions": "Shake with ice and strain into a chilled, half sugar-rimmed coupe. No garnish.",
+  "story": "Marco created this drink for his ex-wife, Sarah, naming it in honor of their marriage and the King Crimson song \"Three of a Perfect Pair.\"",
+  "tags": ["pear-brandy", "classic-style"],
+  "ingredients": [
+    { "name": "Clear Creek Pear Brandy", "qty": 2, "unit": "oz" },
+    { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
+    { "name": "Orange Juice", "qty": 0.5, "unit": "oz" },
+    { "name": "Simple Syrup", "qty": 0.5, "unit": "oz" }
+  ]
+},
+    {
+  "id": "pdt-blinker",
+  "name": "Blinker",
+  "creatorName": "Patrick Gavin Duffy",
+  "glass": "Chilled Coupe",
+  "garnish": null,
+  "instructions": "Shake with ice and strain into a chilled coupe. No garnish.",
+  "story": "Ted Haigh’s Vintage Spirits and Forgotten Cocktails jump-started the classic cocktail renaissance in 2004 by featuring lost drinks such as the Blinker.",
+  "tags": ["rye", "raspberry", "classic"],
+  "ingredients": [
+    { "name": "Wild Turkey Rye Whiskey", "qty": 2, "unit": "oz" },
+    { "name": "Grapefruit Juice", "qty": 1, "unit": "oz" },
+    { "name": "Simple Syrup", "qty": 0.25, "unit": "oz" },
+    { "name": "Bonne Maman Raspberry Preserves", "qty": 1, "unit": "barspoon" }
+  ]
+},
+{
+  "id": "pdt-cafe-arroz",
+  "name": "Cafe Arroz",
+  "creatorName": "Jim Meehan",
+  "glass": "Chilled Coupe",
+  "garnish": "Grated Cinnamon",
+  "instructions": "Shake with ice and strain into a chilled coupe. Garnish with grated cinnamon.",
+  "story": "Tequila and horchata, two staples of Mexican cuisine, just happen to work really well in place of vodka and cream in the White Russian cocktail.",
+  "tags": ["tequila", "horchata", "pdt-original"],
+  "ingredients": [
+    { "name": "Horchata", "qty": 2, "unit": "oz" },
+    { "name": "Gran Centenario Reposado Tequila", "qty": 1.5, "unit": "oz" },
+    { "name": "Kahlua", "qty": 0.5, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-duboudreau-cocktail",
+  "name": "Duboudreau Cocktail",
+  "creatorName": "Jim Meehan",
+  "glass": "Chilled Coupe",
+  "garnish": "Lemon Twist",
+  "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a lemon twist.",
+  "story": "Seattle-based mixologist Jamie Boudreau created a Fernet and elderflower-accented rye cocktail called the Cooper Cocktail. I added Dubonnet and named it after him.",
+  "tags": ["rye", "fernet", "pdt-original"],
+  "ingredients": [
+    { "name": "Rittenhouse Bonded Rye Whiskey", "qty": 2, "unit": "oz" },
+    { "name": "Dubonnet Rouge", "qty": 0.75, "unit": "oz" },
+    { "name": "Fernet-Branca", "qty": 0.25, "unit": "oz" },
+    { "name": "St. Germain Elderflower Liqueur", "qty": 0.25, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-foreign-legion",
+  "name": "Foreign Legion",
+  "creatorName": "Greg Sanderson",
+  "glass": "Chilled Rocks Glass",
+  "garnish": "Orange Twist",
+  "instructions": "Stir with ice and strain over an ice sphere into a chilled rocks glass. Garnish with an orange twist.",
+  "story": "Jonathon Sabathe helped Greg perfect the proportions of this rich rum drink he served during a guest-bartending stint at PDT.",
+  "tags": ["rum", "aperol", "sherry"],
+  "ingredients": [
+    { "name": "Mount Gay X.O. Rum", "qty": 1.5, "unit": "oz" },
+    { "name": "Aperol", "qty": 0.5, "unit": "oz" },
+    { "name": "Dubonnet Rouge", "qty": 0.5, "unit": "oz" },
+    { "name": "Lustau Manzanilla Sherry", "qty": 0.5, "unit": "oz" },
+    { "name": "Marie Brizard Dark Creme de Cacao", "qty": 1, "unit": "barspoon" },
+    { "name": "Fee Brothers Rhubarb Bitters", "qty": 1, "unit": "dash" }
+  ]
+},
+{
+  "id": "pdt-negroni",
+  "name": "Negroni",
+  "creatorName": "J. S. Brucart",
+  "glass": "Chilled Coupe or Rocks Glass",
+  "garnish": "Orange Twist",
+  "instructions": "Stir with ice and strain into a chilled coupe or over ice in a chilled rocks glass. Garnish with an orange twist.",
+  "story": "The combination of gin, sweet vermouth, and Campari showed up as the Camparinette and the Campari Cardinal in French and Spanish cocktail books before being recognized universally as the Negroni.",
+  "tags": ["gin", "campari", "classic"],
+  "ingredients": [
+    { "name": "Beefeater Gin", "qty": 1.25, "unit": "oz" },
+    { "name": "Campari", "qty": 1.25, "unit": "oz" },
+    { "name": "Martini Sweet Vermouth", "qty": 1.25, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-death-bed",
+  "name": "Death Bed",
+  "creatorName": "John Deragon",
+  "glass": "Chilled Collins Glass",
+  "garnish": "Lime Wheel and Brandied Cherries",
+  "instructions": "Build in a chilled Collins glass. Fill with pebble ice and swizzle. Add more ice and garnish with a lime wheel and brandied cherries on a pick.",
+  "story": "John Deragon created this cocktail to assuage the aches and pains of a cold that had left him bedridden.",
+  "tags": ["rum", "fruit"],
+  "ingredients": [
+    { "name": "Pampero Aniversario Rum", "qty": 1, "unit": "oz" },
+    { "name": "Barbancourt Rhum Blanc", "qty": 0.75, "unit": "oz" },
+    { "name": "Cherry Heering", "qty": 0.75, "unit": "oz" },
+    { "name": "Lime Juice", "qty": 0.75, "unit": "oz" },
+    { "name": "Pineapple Juice", "qty": 0.5, "unit": "oz" }
+  ]
+},
+    {
+  "id": "pdt-new-amsterdam",
+  "name": "New Amsterdam",
+  "creatorName": "Jim Meehan",
+  "glass": "Chilled Coupe",
+  "garnish": "Lemon Twist",
+  "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a lemon twist.",
+  "story": "Manhattan was first colonized by Dutch traders, who renamed the island and surrounding area New Amsterdam.",
+  "tags": ["genever", "kirschwasser", "pdt-original"],
+  "ingredients": [
+    { "name": "Bols Genever", "qty": 2, "unit": "oz" },
+    { "name": "Clear Creek Kirschwasser", "qty": 1, "unit": "oz" },
+    { "name": "Demerara Syrup", "qty": 1, "unit": "barspoon" },
+    { "name": "Peychaud's Bitters", "qty": 2, "unit": "dashes" }
+  ]
+},
+{
+  "id": "pdt-figetaboutit",
+  "name": "Figetaboutit",
+  "creatorName": "Lindsay Nader",
+  "glass": "Chilled Coupe",
+  "garnish": "Orange Twist and Brandied Cherries",
+  "instructions": "Shake with ice and fine-strain into a chilled coupe. Garnish with an orange twist wrapped around three brandied cherries on a pick.",
+  "story": "When Lindsay Nader and I were debating potential names for her bittersweet Italian-American whiskey sour, barman Sean Hoard smiled and said figetaboutit.",
+  "tags": ["bourbon", "pdt-original"],
+  "ingredients": [
+    { "name": "Bulleit Bourbon", "qty": 2, "unit": "oz" },
+    { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
+    { "name": "Luxardo Amaretto", "qty": 0.25, "unit": "oz" },
+    { "name": "St. Dalfour Fig Jam", "qty": 1, "unit": "barspoon" },
+    { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" }
+  ]
+},
+{
+  "id": "pdt-flying-dutchman",
+  "name": "Flying Dutchman",
+  "creatorName": "Jim Meehan",
+  "glass": "Chilled Coupe",
+  "garnish": "One Brandied Cherry",
+  "instructions": "Shake with ice and strain into a chilled coupe. Garnish with one brandied cherry.",
+  "story": "An ancestor of the Aviation Cocktail, the name references Dutch genever, not the cursed ship forever lost at sea.",
+  "tags": ["genever", "plum-brandy", "pdt-original"],
+  "ingredients": [
+    { "name": "Clear Creek Plum Brandy", "qty": 0.75, "unit": "oz" },
+    { "name": "Bols Genever", "qty": 0.75, "unit": "oz" },
+    { "name": "Creme Yvette", "qty": 0.5, "unit": "oz" },
+    { "name": "Lemon Juice", "qty": 0.5, "unit": "oz" },
+    { "name": "Pineapple Juice", "qty": 0.5, "unit": "oz" },
+    { "name": "Luxardo Maraschino Liqueur", "qty": 1, "unit": "barspoon" }
+  ]
+},
+{
+  "id": "pdt-fog-cutter",
+  "name": "Fog Cutter",
+  "creatorName": "Jules Bergeron",
+  "glass": "Chilled Tiki Mug",
+  "garnish": "Mint Sprig",
+  "instructions": "Shake with ice and pour unstrained into a chilled tiki mug. Float 0.5 oz of Lustau Cream Sherry on top. Garnish with a mint sprig.",
+  "story": "Tiki historian Jeff Berry called this drink the Long Island Iced Tea of exotic drinks.",
+  "tags": ["rum", "cognac", "gin", "tiki"],
+  "ingredients": [
+    { "name": "Lemon Juice", "qty": 1.5, "unit": "oz" },
+    { "name": "Bacardi 8 Rum", "qty": 1, "unit": "oz" },
+    { "name": "Hine VSOP Cognac", "qty": 1, "unit": "oz" },
+    { "name": "Orange Juice", "qty": 0.75, "unit": "oz" },
+    { "name": "Tanqueray Gin", "qty": 0.5, "unit": "oz" },
+    { "name": "Kassatly Chtaura Orgeat", "qty": 0.5, "unit": "oz" },
+    { "name": "Lustau Cream Sherry", "qty": 0.5, "unit": "oz" }
+  ]
+},
+    {
+  "id": "pdt-platanos-en-mole-old-fashioned",
+  "name": "Platanos en Mole Old Fashioned",
+  "creatorName": "Jim Meehan",
+  "glass": "Chilled Rocks Glass",
+  "garnish": "Pinch of Ground Chili",
+  "instructions": "Stir with ice and strain over one large cube into a chilled rocks glass. Garnish with a pinch of ground chili.",
+  "story": "Inspired by the classic dessert, this cocktail was first served at the Star Chefs International Chefs Conference in New York City.",
+  "tags": ["rum", "banana", "mole", "pdt-original"],
+  "ingredients": [
+    { "name": "Zacapa 23 Centenario Rum", "qty": 2, "unit": "oz" },
+    { "name": "Brizard Creme de Banane", "qty": 0.25, "unit": "oz" },
+    { "name": "Bittermens Xocolatl Mole Bitters", "qty": 12, "unit": "drops" }
+  ]
+},
+{
+  "id": "pdt-prince-of-wales",
+  "name": "Prince of Wales",
+  "creatorName": "Jim Meehan",
+  "glass": "Chilled Coupe",
+  "garnish": null,
+  "instructions": "Stir with ice and strain into a chilled coupe. No garnish.",
+  "story": "Albert Edward, Prince of Wales and son of Queen Victoria, was the first member of the British royal family to visit North America in 1860.",
+  "tags": ["cognac", "sherry", "pdt-original"],
+  "ingredients": [
+    { "name": "Hine VSOP Cognac", "qty": 1, "unit": "oz" },
+    { "name": "Blandys Sercial Madeira", "qty": 1, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-rye-witch",
+  "name": "Rye Witch",
+  "creatorName": "Jim Meehan",
+  "glass": "Chilled Rocks Glass",
+  "garnish": null,
+  "instructions": "Add the bitters and sugar cube to a mixing glass and muddle to a paste. Add everything else, then stir with ice and strain into a chilled rocks glass. Twist an orange peel over the surface and discard.",
+  "story": "I tend to include witch, strega in Italian, in a drink's title whenever we mix with it.",
+  "tags": ["rye", "strega", "pdt-original"],
+  "ingredients": [
+    { "name": "Rittenhouse Bonded Rye Whiskey", "qty": 2, "unit": "oz" },
+    { "name": "Strega", "qty": 0.25, "unit": "oz" },
+    { "name": "Lustau Palo Cortado Sherry", "qty": 0.25, "unit": "oz" },
+    { "name": "Sugar Cube", "qty": 1, "unit": "whole" },
+    { "name": "House Orange Bitters", "qty": 2, "unit": "dashes" }
+  ]
+},
+{
+  "id": "pdt-sage-old-buck",
+  "name": "Sage Old Buck",
+  "creatorName": "Jim Meehan and Lydia Reissmueller",
+  "glass": "Chilled Collins Glass",
+  "garnish": "Smacked Sage Leaf",
+  "instructions": "Muddle the black peppercorns with the simple syrup. Add everything else, then shake with ice and fine-strain into a chilled Collins glass filled with ice. Garnish with a smacked sage leaf.",
+  "story": "We sorted all the produce and chose vanilla, black pepper, and sage to pair with the malt.",
+  "tags": ["scotch", "sage", "pdt-original"],
+  "ingredients": [
+    { "name": "Benromach 12-Year-Old Single Malt Scotch Whisky", "qty": 1.5, "unit": "oz" },
+    { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
+    { "name": "House Ginger Beer", "qty": 0.75, "unit": "oz" },
+    { "name": "Simple Syrup", "qty": 0.75, "unit": "oz" },
+    { "name": "Belle de Brillet", "qty": 0.5, "unit": "oz" },
+    { "name": "Eurovanille Vanilla Syrup", "qty": 0.25, "unit": "oz" },
+    { "name": "Whole Black Peppercorns", "qty": 8, "unit": "whole" }
+  ]
+},
+{
+  "id": "pdt-framboise-fizz",
+  "name": "Framboise Fizz",
+  "creatorName": "Michael Klein",
+  "glass": "Chilled Egg Coupe",
+  "garnish": null,
+  "instructions": "Shake with ice and strain into a chilled egg coupe. Top with 2 oz of Lindemans Framboise Lambic. No garnish.",
+  "story": "Michael Klein chose Framboise, a Belgian ale produced by combining fresh raspberries and young lambic, to complement two old friends: tequila and chocolate.",
+  "tags": ["tequila", "beer", "pdt-original"],
+  "ingredients": [
+    { "name": "Siete Leguas Reposado Tequila", "qty": 1.5, "unit": "oz" },
+    { "name": "Marie Brizard White Creme de Cacao", "qty": 0.75, "unit": "oz" },
+    { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
+    { "name": "Lindemans Framboise Lambic", "qty": 2, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-daiquiri",
+  "name": "Daiquiri",
+  "creatorName": "Jacques Straub",
+  "glass": "Chilled Coupe",
+  "garnish": "Lime Wheel",
+  "instructions": "Shake with ice and strain into a chilled coupe. Garnish with a lime wheel.",
+  "story": "Charles H. Baker claims his friends Harry Stout and Jennings Cox created the Daiquiri in a village of the same name situated outside the Bacardi plant in Santiago de Cuba.",
+  "tags": ["rum", "classic"],
+  "ingredients": [
+    { "name": "Banks 5 Island Rum", "qty": 2, "unit": "oz" },
+    { "name": "Lime Juice", "qty": 0.75, "unit": "oz" },
+    { "name": "Simple Syrup", "qty": 0.75, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-ephemeral",
+  "name": "Ephemeral",
+  "creatorName": "David Shenaut",
+  "glass": "Chilled Coupe",
+  "garnish": "Grapefruit Twist",
+  "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a grapefruit twist.",
+  "story": "David Shenaut created this cocktail for friend and bar regular Matthew Schuler, who brought him his first bottle of celery bitters.",
+  "tags": ["gin", "vermouth"],
+  "ingredients": [
+    { "name": "Ransom Old Tom Gin", "qty": 2, "unit": "oz" },
+    { "name": "Dolin Blanc Vermouth", "qty": 1, "unit": "oz" },
+    { "name": "St. Germain Elderflower Liqueur", "qty": 1, "unit": "barspoon" },
+    { "name": "The Bitter Truth Celery Bitters", "qty": 1, "unit": "dash" }
+  ]
+},
+{
+  "id": "pdt-espresso-bongo",
+  "name": "Espresso Bongo",
+  "creatorName": "Jeff Berry",
+  "glass": "Chilled Tiki Mug",
+  "garnish": null,
+  "instructions": "Shake with ice and pour unstrained into a chilled tiki mug. No garnish.",
+  "story": "Tiki cocktail guru and author Jeff \"Beachbum\" Berry created this cocktail, named after the 1959 British beatnik movie Expresso Bongo.",
+  "tags": ["rum", "tiki", "coffee"],
+  "ingredients": [
+    { "name": "Appleton Reserve Rum", "qty": 2, "unit": "oz" },
+    { "name": "Illy Espresso Liqueur", "qty": 0.5, "unit": "oz" },
+    { "name": "Lime Juice", "qty": 0.5, "unit": "oz" },
+    { "name": "Pineapple Juice", "qty": 0.5, "unit": "oz" },
+    { "name": "Orange Juice", "qty": 0.5, "unit": "oz" },
+    { "name": "Boiron Passion Fruit Puree", "qty": 0.5, "unit": "oz" },
+    { "name": "Simple Syrup", "qty": 0.5, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-field-cocktail",
+  "name": "Field Cocktail",
+  "creatorName": "Jim Meehan",
+  "glass": "Chilled Coupe",
+  "garnish": "Pineapple Leaf",
+  "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a pineapple leaf.",
+  "story": "This cognac-driven variation on the rye-based Algonquin Cocktail is a tribute to Colin Peter Field, who runs the Hemingway Bar in Paris's Ritz Hotel.",
+  "tags": ["cognac", "vermouth"],
+  "ingredients": [
+    { "name": "Pierre Ferrand Ambre Cognac", "qty": 2, "unit": "oz" },
+    { "name": "Noilly Prat Dry Vermouth", "qty": 1, "unit": "oz" },
+    { "name": "Pineapple Juice", "qty": 0.75, "unit": "oz" }
+  ]
+},
+    {
+  "id": "pdt-fish-house-punch",
+  "name": "Fish House Punch",
+  "creatorName": "Jerry Thomas",
+  "glass": "Chilled Rocks Glass",
+  "garnish": "Grated Nutmeg",
+  "instructions": "Shake with ice and strain into a chilled rocks glass filled with ice. Garnish with grated nutmeg.",
+  "story": "The original recipe was mixed with a peach eau de vie aged in wood barrels that has not been produced commercially in over a century.",
+  "tags": ["rum", "cognac", "punch"],
+  "ingredients": [
+    { "name": "Goslings Black Seal Rum", "qty": 1.5, "unit": "oz" },
+    { "name": "Pierre Ferrand Ambre Cognac", "qty": 0.5, "unit": "oz" },
+    { "name": "Mathilde Peche", "qty": 0.5, "unit": "oz" },
+    { "name": "Lemon Juice", "qty": 0.5, "unit": "oz" },
+    { "name": "Simple Syrup", "qty": 0.5, "unit": "oz" },
+    { "name": "Lime Juice", "qty": 0.25, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-flora-astoria",
+  "name": "Flora Astoria",
+  "creatorName": "Lindsay Nader and Anne Robinson",
+  "glass": "Chilled Coupe",
+  "garnish": "Sprig of Dried Lavender",
+  "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a sprig of dried lavender.",
+  "story": "Lindsay Nader and Anne Robinson collaborated on this flowery spin on the classic Astoria cocktail, named after the annex added to the Old Waldorf hotel in 1897.",
+  "tags": ["gin", "vermouth", "floral"],
+  "ingredients": [
+    { "name": "Hendricks Gin", "qty": 2, "unit": "oz" },
+    { "name": "Dolin Blanc Vermouth", "qty": 0.5, "unit": "oz" },
+    { "name": "Dolin Dry Vermouth", "qty": 0.5, "unit": "oz" },
+    { "name": "John D Taylor Velvet Falernum", "qty": 1, "unit": "barspoon" },
+    { "name": "Lavender Tincture", "qty": 4, "unit": "dashes" }
+  ]
+},
+{
+  "id": "pdt-honeymoon-cocktail",
+  "name": "Honeymoon Cocktail",
+  "creatorName": "Hugo Ensslin",
+  "glass": "Chilled Coupe",
+  "garnish": null,
+  "instructions": "Shake with ice and strain into a chilled coupe. No garnish.",
+  "story": "This cocktail has a spirituous backbone that is sure to cast a fog over the most amorous honeymoon.",
+  "tags": ["apple-brandy", "classic"],
+  "ingredients": [
+    { "name": "Lairds Bonded Apple Brandy", "qty": 2, "unit": "oz" },
+    { "name": "Marie Brizard Orange Curacao", "qty": 0.5, "unit": "oz" },
+    { "name": "Benedictine", "qty": 0.5, "unit": "oz" },
+    { "name": "Lemon Juice", "qty": 0.5, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-lake-george",
+  "name": "Lake George",
+  "creatorName": "Brian Shebairo",
+  "glass": "Chilled Coupe",
+  "garnish": null,
+  "instructions": "Shake with ice and strain into a chilled coupe. No garnish.",
+  "story": "Brian Shebairo came up with this cocktail while vacationing along the sunny shores of Lake George.",
+  "tags": ["irish-whiskey", "scotch", "pdt-original"],
+  "ingredients": [
+    { "name": "Jameson Irish Whiskey", "qty": 1, "unit": "oz" },
+    { "name": "Glenlivet 12 Year Old Single Malt Scotch Whisky", "qty": 1, "unit": "oz" },
+    { "name": "Drambuie", "qty": 0.5, "unit": "oz" },
+    { "name": "Lemon Juice", "qty": 0.5, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-la-louche",
+  "name": "La Louche",
+  "creatorName": "Charlotte Voisey",
+  "glass": "Chilled Coupe",
+  "garnish": null,
+  "instructions": "Shake with ice and strain into a chilled coupe. No garnish.",
+  "story": "Louche means questionable or mischievous behavior. Consider this cocktail as its inspiration.",
+  "tags": ["gin", "lillet-rouge"],
+  "ingredients": [
+    { "name": "Hendricks Gin", "qty": 1.5, "unit": "oz" },
+    { "name": "Lillet Rouge", "qty": 1, "unit": "oz" },
+    { "name": "Lime Juice", "qty": 0.5, "unit": "oz" },
+    { "name": "Yellow Chartreuse", "qty": 0.25, "unit": "oz" },
+    { "name": "Simple Syrup", "qty": 0.25, "unit": "oz" }
+  ]
+},
+    {
+  "id": "pdt-nth-degree",
+  "name": "Nth Degree",
+  "creatorName": "Nate Dumas",
+  "glass": "Chilled Rocks Glass",
+  "garnish": "Orange and Lemon Twist",
+  "instructions": "Muddle the sugar cube and bitters. Add everything else, then stir with ice and strain over one large cube into a chilled rocks glass. Garnish with an orange and lemon twist.",
+  "story": "Nate was intrigued by spirituous, old-fashioned-style cocktails at Milk & Honey that split a cocktail's base between two complementary spirits.",
+  "tags": ["rhum", "apple-brandy"],
+  "ingredients": [
+    { "name": "Rhum Clement V.S.O.P.", "qty": 1, "unit": "oz" },
+    { "name": "Lairds Bonded Apple Brandy", "qty": 1, "unit": "oz" },
+    { "name": "Green Chartreuse", "qty": 0.5, "unit": "oz" },
+    { "name": "Demerara Sugar Cube", "qty": 1, "unit": "cube" },
+    { "name": "Fee Brothers Whiskey Barrel Aged Bitters", "qty": 2, "unit": "dashes" }
+  ]
+},
+{
+  "id": "pdt-pearl-button",
+  "name": "Pearl Button",
+  "creatorName": "John Deragon",
+  "glass": "Chilled Collins Glass",
+  "garnish": "Half a Grapefruit Wheel",
+  "instructions": "Shake with ice and strain into a chilled Collins glass filled with ice. Top with 1.5 oz. of San Pellegrino Limonata. Garnish with half a grapefruit wheel.",
+  "story": "The combination of ingredients gave off an opalescent glimmer, reminding John of the pearl buttons on the vest he wore behind the bar.",
+  "tags": ["cachaca", "limonata"],
+  "ingredients": [
+    { "name": "Mae De Ouro Cachaca", "qty": 2, "unit": "oz" },
+    { "name": "Lillet Blanc", "qty": 0.75, "unit": "oz" },
+    { "name": "Lime Juice", "qty": 0.5, "unit": "oz" },
+    { "name": "San Pellegrino Limonata", "qty": 1.5, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-primavera",
+  "name": "Primavera",
+  "creatorName": "Sean Hoard",
+  "glass": "Chilled Coupe",
+  "garnish": "Orange Twist",
+  "instructions": "Muddle the Cointreau and vegetables. Add everything else, then shake with ice and fine-strain into a chilled St. George Absinthe-rinsed coupe. Garnish with an orange twist.",
+  "story": "Before the flowers blossom and the berries ripen, root vegetables such as fennel and celery are all you can get at the market until flowering shoots such as asparagus appear.",
+  "tags": ["aquavit", "vegetable"],
+  "ingredients": [
+    { "name": "Krogstad Aquavit", "qty": 2, "unit": "oz" },
+    { "name": "Cointreau", "qty": 0.75, "unit": "oz" },
+    { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
+    { "name": "Asparagus Tips (1.5-inch)", "qty": 2, "unit": "tips" },
+    { "name": "Fennel Bulb (1/4-inch slice)", "qty": 1, "unit": "slice" },
+    { "name": "Celery Stalk (2-inch)", "qty": 1, "unit": "stalk" }
+  ]
+},
+  {
+  "id": "pdt-royal-bermuda-yachtclub-cocktail",
+  "name": "Royal Bermuda Yacht Club Cocktail",
+  "creatorName": "Crosby Gaige",
+  "glass": "Chilled Coupe",
+  "garnish": "Lime Wheel",
+  "instructions": "Shake with ice and strain into a chilled coupe. Garnish with a lime wheel.",
+  "story": "After reading about this drink in Vintage Spirits and Forgotten Cocktails in 2004, I picked up a bottle of Velvet Falernum and have stocked it in all the bars I’ve run ever since.",
+  "tags": ["rum", "falernum"],
+  "ingredients": [
+    { "name": "Mount Gay Eclipse Amber Rum", "qty": 2, "unit": "oz" },
+    { "name": "Lime Juice", "qty": 1, "unit": "oz" },
+    { "name": "Cointreau", "qty": 0.5, "unit": "oz" },
+    { "name": "John D. Taylor’s Velvet Falernum", "qty": 0.5, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-rusty-nail",
+  "name": "Rusty Nail",
+  "creatorName": "David Wondrich",
+  "glass": "Chilled Rocks Glass",
+  "garnish": "Lemon Twist",
+  "instructions": "Stir with ice and strain over one large cube into a chilled rocks glass. Garnish with a lemon twist.",
+  "story": "According to David Wondrich, the B.I.F. cocktail, composed of Scotch and Drambuie, first appeared in 1937. Now known as the Rusty Nail, the recipe under this name didn’t appear in popular cocktail books until the 1970s.",
+  "tags": ["scotch", "classic"],
+  "ingredients": [
+    { "name": "Famous Grouse Blended Scotch Whisky", "qty": 2, "unit": "oz" },
+    { "name": "Drambuie", "qty": 0.75, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-sazerac",
+  "name": "Sazerac",
+  "creatorName": "Stanley Clisby Arthur",
+  "glass": "Chilled Rocks Glass",
+  "garnish": "Lemon Twist",
+  "instructions": "Stir with ice and strain into a chilled, Pernod Absinthe-rinsed rocks glass (no ice). Garnish with a lemon twist.",
+  "story": "The Sazerac is the official cocktail of New Orleans.",
+  "tags": ["whiskey", "rye", "classic"],
+  "ingredients": [
+    { "name": "Wild Turkey Rye Whiskey", "qty": 2, "unit": "oz" },
+    { "name": "Peychaud’s Bitters", "qty": 3, "unit": "dashes" },
+    { "name": "Simple Syrup", "qty": 1, "unit": "barspoon" }
+  ]
+},
+{
+  "id": "pdt-shiso-malt-sour",
+  "name": "Shiso Malt Sour",
+  "creatorName": "Jim Meehan",
+  "glass": "Chilled Rocks Glass",
+  "garnish": "Shiso Leaf",
+  "instructions": "Shake with ice and strain over one large cube into a chilled rocks glass. Garnish with a shiso leaf.",
+  "story": "This cocktail was inspired by the refreshing Japanese highball and the herbaceous shiso leaf common in Japanese cuisine.",
+  "tags": ["whiskey", "japanese-malt", "shiso"],
+  "ingredients": [
+    { "name": "Yamazaki 12-Year-Old Single Malt Whisky", "qty": 2, "unit": "oz" },
+    { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
+    { "name": "Simple Syrup", "qty": 0.5, "unit": "oz" },
+    { "name": "Shiso Leaf", "qty": 1, "unit": "whole" }
+  ]
+},
+    {
+  "id": "pdt-seelbach-cocktail",
+  "name": "Seelbach Cocktail",
+  "creatorName": "Adam Seger",
+  "glass": "Chilled Coupe",
+  "garnish": "Orange Twist",
+  "instructions": "Stir with ice and strain into a chilled coupe. Top with 2 oz. Moet Imperial Champagne. Garnish with an orange twist.",
+  "story": "Chicagoan Adam Seger discovered this pre-Prohibition recipe during his tenure at Louisville’s historic Seelbach Hotel in 1995.",
+  "tags": ["bourbon", "champagne", "classic"],
+  "ingredients": [
+    { "name": "Bulleit Bourbon", "qty": 1, "unit": "oz" },
+    { "name": "Cointreau", "qty": 0.5, "unit": "oz" },
+    { "name": "Peychaud's Bitters", "qty": 3, "unit": "dashes" },
+    { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" },
+    { "name": "Moet Imperial Champagne", "qty": 2, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-professor",
+  "name": "Professor",
+  "creatorName": "Michael Klein",
+  "glass": "Chilled Coupe",
+  "garnish": null,
+  "instructions": "Stir with ice and strain into a chilled coupe. No garnish.",
+  "story": "The Professor is Michael Klein’s rum-based variation on the Chancellor cocktail from Frederick Birmingham’s Esquire Drink Book.",
+  "tags": ["rum", "port", "pdt-original"],
+  "ingredients": [
+    { "name": "Mount Gay Eclipse Rum", "qty": 2, "unit": "oz" },
+    { "name": "Dolin Dry Vermouth", "qty": 0.75, "unit": "oz" },
+    { "name": "Noval 10-Year-Old Tawny Port", "qty": 0.75, "unit": "oz" },
+    { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" }
+  ]
+},
+{
+  "id": "pdt-remember-the-maine",
+  "name": "Remember the Maine",
+  "creatorName": "Charles H. Baker",
+  "glass": "Chilled Coupe",
+  "garnish": "One Brandied Cherry",
+  "instructions": "Stir with ice and strain into a chilled, absinthe-rinsed coupe. Garnish with one brandied cherry.",
+  "story": "Baker describes this as a hazy memory from Havana during the 1933 revolution, noting it should be handled with care.",
+  "tags": ["rye", "cherry-heering", "classic"],
+  "ingredients": [
+    { "name": "Rittenhouse Bonded Rye Whiskey", "qty": 2, "unit": "oz" },
+    { "name": "Dolin Sweet Vermouth", "qty": 0.75, "unit": "oz" },
+    { "name": "Cherry Heering", "qty": 0.5, "unit": "oz" }
+  ]
+},
+    {
+  "id": "pdt-tom-collins",
+  "name": "Tom Collins",
+  "creatorName": "Jerry Thomas",
+  "glass": "Chilled Collins Glass",
+  "garnish": "Lemon Wheel and Brandied Cherry",
+  "instructions": "Shake with ice and strain into a chilled Collins glass filled with ice. Top with 2 oz. club soda. Garnish with a lemon wheel and a brandied cherry.",
+  "story": "This cocktail was named after John Collins, a waiter at Limmer’s Hotel in London, who was famous for his gin punch.",
+  "tags": ["gin", "classic"],
+  "ingredients": [
+    { "name": "Hayman's Old Tom Gin", "qty": 2, "unit": "oz" },
+    { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
+    { "name": "Simple Syrup", "qty": 0.75, "unit": "oz" },
+    { "name": "Club Soda", "qty": 2, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-seelbach-cocktail-variation",
+  "name": "Seelbach Cocktail (Bitters-Forward)",
+  "creatorName": "Adam Seger",
+  "glass": "Chilled Coupe",
+  "garnish": "Orange Twist",
+  "instructions": "Stir with ice and strain into a chilled coupe. Top with 2 oz. Moet Imperial Champagne. Garnish with an orange twist.",
+  "story": "A bitters-forward variation of Adam Seger’s Seelbach Cocktail using increased aromatic and Peychaud’s bitters.",
+  "tags": ["bourbon", "champagne", "bitters"],
+  "ingredients": [
+    { "name": "Bulleit Bourbon", "qty": 1, "unit": "oz" },
+    { "name": "Cointreau", "qty": 0.5, "unit": "oz" },
+    { "name": "Peychaud's Bitters", "qty": 7, "unit": "dashes" },
+    { "name": "Angostura Bitters", "qty": 7, "unit": "dashes" },
+    { "name": "Moet Imperial Champagne", "qty": 2, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-silver-lining",
+  "name": "Silver Lining",
+  "creatorName": "Jim Meehan",
+  "glass": "Chilled Coupe",
+  "garnish": "Grated Nutmeg",
+  "instructions": "Shake with ice and strain into a chilled coupe. Garnish with grated nutmeg.",
+  "story": "A light, refreshing whiskey sour variation intended to show the softer side of rye.",
+  "tags": ["whiskey", "rye"],
+  "ingredients": [
+    { "name": "Rittenhouse Bonded Rye Whiskey", "qty": 2, "unit": "oz" },
+    { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
+    { "name": "Simple Syrup", "qty": 0.5, "unit": "oz" },
+    { "name": "Egg White", "qty": 1, "unit": "whole" }
+  ]
+},
+    {
+  "id": "pdt-vieux-carre",
+  "name": "Vieux Carré",
+  "creatorName": "Walter Bergeron",
+  "glass": "Chilled Rocks Glass",
+  "garnish": "Lemon Twist",
+  "instructions": "Stir with ice and strain over one large cube into a chilled rocks glass. Garnish with a lemon twist.",
+  "story": "Named after the French Quarter in New Orleans, this recipe was first served at the Hotel Monteleone in the late 1930s.",
+  "tags": ["rye", "cognac", "classic"],
+  "ingredients": [
+    { "name": "Rittenhouse Bonded Rye Whiskey", "qty": 1, "unit": "oz" },
+    { "name": "Pierre Ferrand Ambre Cognac", "qty": 1, "unit": "oz" },
+    { "name": "Martini Sweet Vermouth", "qty": 0.75, "unit": "oz" },
+    { "name": "Benedictine", "qty": 0.25, "unit": "oz" },
+    { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" },
+    { "name": "Peychauds Bitters", "qty": 2, "unit": "dashes" }
+  ]
+},
+{
+  "id": "pdt-black-star",
+  "name": "Blackstar",
+  "creatorName": "Jim Meehan",
+  "glass": "Chilled Coupe",
+  "garnish": "Star Anise Pod",
+  "instructions": "Shake with ice and strain into a chilled coupe. Garnish with a star anise pod.",
+  "story": "The Blackstar was created with Smirnoff Black, a full-bodied vodka that isn’t available in the U.S., and named after the whole star anise pod that floats on the surface as an aromatic garnish.",
+  "tags": ["vodka", "pdt-original"],
+  "ingredients": [
+    { "name": "Smirnoff Black Vodka", "qty": 2, "unit": "oz" },
+    { "name": "Lime Juice", "qty": 0.75, "unit": "oz" },
+    { "name": "Grapefruit Juice", "qty": 0.75, "unit": "oz" },
+    { "name": "Borsci Sambuca", "qty": 0.25, "unit": "oz" },
+    { "name": "Simple Syrup", "qty": 0.25, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-black-thorn-english",
+  "name": "Black Thorn (English)",
+  "creatorName": null,
+  "glass": "Chilled Coupe",
+  "garnish": "Orange Twist",
+  "instructions": "Stir with ice and strain into a chilled coupe. Garnish with an orange twist.",
+  "story": "The sloe berries used to produce Plymouth Sloe Gin are harvested from blackthorn bushes that grow uncultivated throughout England.",
+  "tags": ["gin", "sloe-gin", "classic"],
+  "ingredients": [
+    { "name": "Plymouth Gin", "qty": 1.5, "unit": "oz" },
+    { "name": "Plymouth Sloe Gin", "qty": 0.75, "unit": "oz" },
+    { "name": "Carpano Antica Sweet Vermouth", "qty": 0.75, "unit": "oz" },
+    { "name": "House Orange Bitters", "qty": 2, "unit": "dashes" }
+  ]
+},
+{
+  "id": "pdt-black-thorn-irish",
+  "name": "Black Thorn (Irish)",
+  "creatorName": "Harry Johnson",
+  "glass": "Chilled Coupe",
+  "garnish": "Lemon Twist",
+  "instructions": "Stir with ice and strain into a chilled, St. George Absinthe-rinsed coupe. Garnish with a lemon twist.",
+  "story": "Although this drink wasn’t named after the Irish whiskey (which was launched in 1934), the higher proportion of malt whiskey in Black Bush gives it the body to stand up to the absinthe and bitters.",
+  "tags": ["irish-whiskey", "absinthe", "classic"],
+  "ingredients": [
+    { "name": "Black Bush Irish Whiskey", "qty": 2, "unit": "oz" },
+    { "name": "Dolin Dry Vermouth", "qty": 1, "unit": "oz" },
+    { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" }
+  ]
+},
+{
+  "id": "pdt-black-thorn-rose",
+  "name": "Black Thorn Rose",
+  "creatorName": "David Slape",
+  "glass": "Chilled Coupe",
+  "garnish": null,
+  "instructions": "Stir with ice and strain into a chilled coupe. No garnish.",
+  "story": "To enhance the primary botanical in Hendrick’s Gin, David came up with this rose-accented variation on the classic that employs Lillet Rouge, Dubonnet’s Bordelaise brethren.",
+  "tags": ["gin", "floral", "pdt-original"],
+  "ingredients": [
+    { "name": "Hendricks Gin", "qty": 2, "unit": "oz" },
+    { "name": "Plymouth Sloe Gin", "qty": 0.5, "unit": "oz" },
+    { "name": "Lillet Rouge", "qty": 0.5, "unit": "oz" },
+    { "name": "Mymoune Rose Syrup", "qty": 1, "unit": "barspoon" }
+  ]
+},
+    {
+  "id": "pdt-ti-punch",
+  "name": "Ti' Punch",
+  "creatorName": "Ed Hamilton",
+  "glass": "Chilled Rocks Glass",
+  "garnish": null,
+  "instructions": "Squeeze the lime disc into a chilled rocks glass. Add everything else and top with pebble ice. Swizzle twice. No garnish.",
+  "story": "Ed Hamilton, who exports rhum from Martinique, is largely responsible for importing this Caribbean classic to the United States.",
+  "tags": ["rhum", "classic"],
+  "ingredients": [
+    { "name": "Neisson Rhum Reserve Speciale", "qty": 2, "unit": "oz" },
+    { "name": "Martinique Sugar Cane Syrup", "qty": 1, "unit": "barspoon" },
+    { "name": "Lime Disc", "qty": 1, "unit": "whole" }
+  ]
+},
+{
+  "id": "pdt-tipperary-cocktail",
+  "name": "Tipperary Cocktail",
+  "creatorName": "Hugo Ensslin",
+  "glass": "Chilled Coupe",
+  "garnish": "Lemon Twist",
+  "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a lemon twist.",
+  "story": "Named after the county in Ireland, this classic appears in Ensslin's 1916 guide.",
+  "tags": ["whiskey", "irish-whiskey", "classic"],
+  "ingredients": [
+    { "name": "Bushmills Irish Whiskey", "qty": 1.5, "unit": "oz" },
+    { "name": "Martini Sweet Vermouth", "qty": 1, "unit": "oz" },
+    { "name": "Green Chartreuse", "qty": 0.5, "unit": "oz" }
+  ]
+},
+    {
+  "id": "pdt-pharaoh-cooler",
+  "name": "Pharaoh Cooler",
+  "creatorName": "Jack McGarry",
+  "glass": "Chilled Collins Glass",
+  "garnish": null,
+  "instructions": "Shake with ice and strain into a chilled Collins glass filled with ice. Top with 1 oz. club soda. No garnish.",
+  "story": "Named after the mythic Egyptian origin of watermelon seeds, this drink was so good we put it on the menu after Jack McGarry mixed it at PDT.",
+  "tags": ["tequila", "watermelon", "pdt-original"],
+  "ingredients": [
+    { "name": "Partida Blanco Tequila", "qty": 1.5, "unit": "oz" },
+    { "name": "Watermelon Juice", "qty": 1, "unit": "oz" },
+    { "name": "House Grenadine", "qty": 0.75, "unit": "oz" },
+    { "name": "Lime Juice", "qty": 0.5, "unit": "oz" },
+    { "name": "Marivani Rose Flower Water", "qty": 4, "unit": "drops" },
+    { "name": "Club Soda", "qty": 1, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-persephone",
+  "name": "Persephone",
+  "creatorName": "David Slape",
+  "glass": "Chilled Coupe",
+  "garnish": null,
+  "instructions": "Stir with ice and strain into a chilled coupe. No garnish.",
+  "story": "According to Greek mythology, the seasons were a result of Persephone’s abduction by Hades; nature suffered while her mother, Demeter, searched for her.",
+  "tags": ["applejack", "sloe-gin", "pdt-original"],
+  "ingredients": [
+    { "name": "Laird's Applejack", "qty": 1, "unit": "oz" },
+    { "name": "Dolin Sweet Vermouth", "qty": 0.75, "unit": "oz" },
+    { "name": "Plymouth Sloe Gin", "qty": 0.5, "unit": "oz" },
+    { "name": "Lemon Juice", "qty": 0.5, "unit": "oz" },
+    { "name": "Simple Syrup", "qty": 0.5, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-paddington",
+  "name": "Paddington",
+  "creatorName": "David Slape",
+  "glass": "Chilled Coupe",
+  "garnish": "Grapefruit Twist",
+  "instructions": "Shake with ice and strain into a chilled, absinthe-rinsed coupe. Garnish with a grapefruit twist.",
+  "story": "Named after the marmalade-loving bear from Michael Bond’s stories, this is a rum-based variation on the Fitzgerald cocktail.",
+  "tags": ["rum", "marmalade", "pdt-original"],
+  "ingredients": [
+    { "name": "Banks 5 Island Rum", "qty": 1.5, "unit": "oz" },
+    { "name": "Lillet Blanc", "qty": 0.5, "unit": "oz" },
+    { "name": "Grapefruit Juice", "qty": 0.5, "unit": "oz" },
+    { "name": "Lemon Juice", "qty": 0.5, "unit": "oz" },
+    { "name": "Wilkin & Sons Tawny Orange Marmalade", "qty": 1, "unit": "barspoon" }
+  ]
+},
+{
+  "id": "pdt-pumpkin-toddy",
+  "name": "Pumpkin Toddy",
+  "creatorName": "Jane Danger",
+  "glass": "Pre-heated Heatproof Mug",
+  "garnish": "Grated Cinnamon",
+  "instructions": "Add everything to a pre-heated heatproof mug and stir. Top with 5 oz. hot water and stir. Garnish with grated cinnamon.",
+  "story": "An evolved 21st-century toddy using apple brandy, rye, pumpkin, and spice.",
+  "tags": ["apple-brandy", "rye", "pumpkin", "hot", "pdt-original"],
+  "ingredients": [
+    { "name": "Laird's Bonded Apple Brandy", "qty": 1, "unit": "oz" },
+    { "name": "Rittenhouse Bonded Rye Whiskey", "qty": 0.5, "unit": "oz" },
+    { "name": "Lemon Juice", "qty": 0.5, "unit": "oz" },
+    { "name": "Deep Mountain Grade B Maple Syrup", "qty": 0.5, "unit": "oz" },
+    { "name": "Libby's Pumpkin Puree", "qty": 1, "unit": "tsp" },
+    { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" },
+    { "name": "Hot Water", "qty": 5, "unit": "oz" }
+  ]
+},
+{
+  "id": "pdt-sazerac-boothby",
+  "name": "Sazerac",
+  "creatorName": "William Boothby",
+  "glass": "Chilled Rocks Glass",
+  "garnish": "Lemon Twist",
+  "instructions": "Muddle the sugar and bitters, add whiskey and ice, stir, and strain into an absinthe-rinsed rocks glass. Express lemon peel and discard.",
+  "story": "This version reflects the later rye-based Sazerac associated with the Sazerac Coffee House in New Orleans.",
+  "tags": ["rye", "absinthe", "classic"],
+  "ingredients": [
+    { "name": "Rittenhouse Bonded Rye Whiskey", "qty": 2, "unit": "oz" },
+    { "name": "Peychaud's Bitters", "qty": 3, "unit": "dashes" },
+    { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" },
+    { "name": "Demerara Sugar Cube", "qty": 1, "unit": "whole" }
+  ]
+},
+{
+  "id": "pdt-up-to-date",
+  "name": "Up To Date",
+  "creatorName": "Hugo Ensslin",
+  "glass": "Chilled Coupe",
+  "garnish": "Lemon Twist",
+  "instructions": "Stir with ice and strain into a chilled coupe. Garnish with a lemon twist.",
+  "story": "Another classic from Hugo Ensslin's 1916 collection.",
+  "tags": ["whiskey", "rye", "classic"],
+  "ingredients": [
+    { "name": "Wild Turkey Rye Whiskey", "qty": 2, "unit": "oz" },
+    { "name": "Lustau Manzanilla Sherry", "qty": 0.75, "unit": "oz" },
+    { "name": "Grand Marnier", "qty": 0.5, "unit": "oz" },
+    { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" }
+  ]
+},
+{
+  "id": "pdt-vaccari",
+  "name": "Vaccari",
+  "creatorName": "Naren Young",
+  "glass": "Chilled Rocks Glass",
+  "garnish": "Grapefruit Twist",
+  "instructions": "Stir with ice and strain over a large cube into a chilled rocks glass. Garnish with a grapefruit twist.",
+  "story": "This cocktail, named after the creator of Galliano, should be recommended to someone craving a spirituous drink on a hot summer day.",
+  "tags": ["scotch", "chamomile"],
+  "ingredients": [
+    { "name": "Chamomile-Infused Compass Box Asyla Blended Scotch Whisky", "qty": 1.5, "unit": "oz" },
+    { "name": "Dolin Dry Vermouth", "qty": 0.75, "unit": "oz" },
+    { "name": "Galliano L’Autentico", "qty": 0.5, "unit": "oz" },
+    { "name": "The Bitter Truth Grapefruit Bitters", "qty": 1, "unit": "dash" },
+    { "name": "The Bitter Truth Lemon Bitters", "qty": 1, "unit": "dash" }
+  ]
+},
+{
+  "id": "pdt-vauvert-slim",
+  "name": "Vauvert Slim",
+  "creatorName": "Ryan Noreiks",
+  "glass": "Chilled Egg Coupe",
+  "garnish": "Mint Leaf",
+  "instructions": "Muddle 6 mint leaves with lime juice. Add everything else and dry-shake. Shake with ice and fine-strain into a chilled, Laphroaig 10-Year-Old Single Malt Scotch-rinsed egg coupe. Garnish with a mint leaf.",
+  "story": "Vauvert was home to a Carthusian monastery where Francois Hannibal d’Estrees presented the monks with a manuscript for 'elixir of long life' in 1605.",
+  "tags": ["chartreuse", "mint"],
+  "ingredients": [
+    { "name": "Grapefruit Juice", "qty": 2, "unit": "oz" },
+    { "name": "Green Chartreuse", "qty": 1, "unit": "oz" },
+    { "name": "Lime Juice", "qty": 0.5, "unit": "oz" },
+    { "name": "Mint Leaves", "qty": 7, "unit": "whole" },
+    { "name": "Egg White", "qty": 1, "unit": "whole" }
+  ]
+},
+{
+  "id": "pdt-prince-edward",
+  "name": "Prince Edward",
+  "creatorName": "Stan Jones",
+  "glass": "Chilled Coupe",
+  "garnish": "Orange Twist",
+  "instructions": "Stir with ice and strain into a chilled coupe. Garnish with an orange twist.",
+  "story": "Stan Jones's recipe didn't include bitters, but I felt a couple dashes of orange bitters improved the drink.",
+  "tags": ["scotch", "lillet-blanc"],
+  "ingredients": [
+    { "name": "Compass Box Oak Cross Blended Malt Scotch Whisky", "qty": 2, "unit": "oz" },
+    { "name": "Lillet Blanc", "qty": 0.75, "unit": "oz" },
+    { "name": "Drambuie", "qty": 0.5, "unit": "oz" },
+    { "name": "House Orange Bitters", "qty": 2, "unit": "dashes" }
+  ]
+},
+{
+  "id": "pdt-rosita",
+  "name": "Rosita",
+  "creatorName": "Gary Regan",
+  "glass": "Chilled Coupe",
+  "garnish": "Orange Twist",
+  "instructions": "Stir with ice and strain into a chilled coupe. Garnish with an orange twist.",
+  "story": "Gary Regan popularised this drink, sans the dash of bitters, which he added along with a tad more tequila.",
+  "tags": ["tequila", "vermouth", "campari"],
+  "ingredients": [
+    { "name": "Partida Reposado Tequila", "qty": 1.5, "unit": "oz" },
+    { "name": "Martini Sweet Vermouth", "qty": 0.5, "unit": "oz" },
+    { "name": "Dolin Dry Vermouth", "qty": 0.5, "unit": "oz" },
+    { "name": "Campari", "qty": 0.5, "unit": "oz" },
+    { "name": "Angostura Bitters", "qty": 1, "unit": "dash" }
+  ]
+},
+    {
+      "id": "vaccari",
+      "name": "Vaccari",
+      "creatorName": "Naren Young",
+      "glass": "Chilled Rocks Glass",
+      "garnish": "Grapefruit Twist",
+      "instructions": "Stir with ice and strain over a large cube into a chilled rocks glass. Garnish with a grapefruit twist.",
+      "story": "This cocktail, named after the creator of Galliano, should be recommended to someone craving a spirituous drink on a hot summer day.",
+      "tags": ["scotch", "chamomile", "galliano", "pdt-original"],
+      "ingredients": [
+        { "name": "Chamomile-Infused Compass Box Asyla Blended Scotch Whisky", "qty": 1.5, "unit": "oz" },
+        { "name": "Dolin Dry Vermouth", "qty": 0.75, "unit": "oz" },
+        { "name": "Galliano L’Autentico", "qty": 0.5, "unit": "oz" },
+        { "name": "The Bitter Truth Grapefruit Bitters", "qty": 1, "unit": "dash" },
+        { "name": "The Bitter Truth Lemon Bitters", "qty": 1, "unit": "dash" }
+      ]
+    }
+  ]
+}
