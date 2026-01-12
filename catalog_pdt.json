@@ -218,7 +218,7 @@
       "glass": "Chilled Collins Glass",
       "garnish": "Cucumber Wheel",
       "instructions": "Muddle the cucumber and simple syrup. Add Pimms and lemon juice, then shake with ice and strain into a chilled Collins glass filled with ice. Top with 1 oz. Fever-Tree Ginger Ale. Garnish with a cucumber wheel.",
-      "story": "James Pimm became famous for his "house cup," a gin sling with a proprietary mix of liqueurs and fruit extracts in the 19th century.",
+      "story": "James Pimm became famous for his house cup, a gin sling with a proprietary mix of liqueurs and fruit extracts in the 19th century.",
       "tags": ["pimms", "ginger-ale", "classic"],
       "ingredients": [
         { "name": "Pimms #1 Cup", "qty": 2, "unit": "oz" },
