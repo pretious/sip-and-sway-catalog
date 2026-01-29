@@ -1,53 +1,1313 @@
 {
   "version": 2,
-  "generatedAt": "2026-01-08T00:00:00Z",
+  "generatedAt": "2026-01-29T00:00:00Z",
   "cocktails": [
-    {
-      "id": "sipsway:lastword:001",
-      "name": "Tester",
-      "creatorName": "Sip & Sway",
+   {
+      "id": "sip&Sway:porn-star-martini",
+      "name": "Porn Star Martini",
+      "creatorName": "Douglas Ankrah",
       "glass": "coupe",
-      "garnish": "Lime twist",
-      "instructions": "Shake all ingredients with ice, fine strain, serve up.",
-      "story": "",
-      "tags": ["Last Word Riffs", "Refreshing"],
+      "garnish": "Float half passion fruit",
+      "instructions": "1. Select and pre-chill a Coupe glass.\n2. Wash and cut 2 fresh passion fruits in half.\n3. Scoop out the seeds and flesh from 3 of the passion fruit halves into your Shaker.\n4. Add the next 4 ingredients (all but the sparkling wine).\n5. Shake with ice.\n6. Fine Strain into chilled glass.\n7. Float the remaining passion fruit half for garnish.\n8. Separately pour the sparkling wine into a chilled shot glass to serve alongside the cocktail.",
+      "story": "Once upon a time in early-2000s London, bartender Douglas Ankrah shook up a bold, fruity number at the Townhouse bar and called it the Maverick Martini — classy, mysterious, and just a little bit edgy. But somewhere along the line, he decided that name was playing it a bit too safe. So, in true rockstar fashion, he gave it a new title that turned heads: the Pornstar Martini.",
+      "tags": ["Modern Classic", "Fruity", "Party"],
       "ingredients": [
-        { "name": "Gin", "qty": 22.5, "unit": "ml" },
+        { "name": "Vanilla vodka", "qty": 45, "unit": "ml" },
+        { "name": "Passion fruit liqueur", "qty": 15, "unit": "ml" },
+        { "name": "Frozen passion fruit", "qty": 30, "unit": "ml" },
+        { "name": "Lime juice", "qty": null, "unit": "ml" },
+        { "name": "Simple syrup", "qty": 10, "unit": "ml" },
+        { "name": "Prosecco", "qty": null, "unit": "side" }
+      ]
+    },
+    {
+      "id": "sip&Sway:gin-basil-smash",
+      "name": "Gin Basil Smash",
+      "creatorName": "Jörg Meyer",
+      "glass": "old-fashioned",
+      "garnish": "Basil sprig bouquet",
+      "instructions": "Select and pre-chill an Old-fashioned glass.\nPrepare garnish of three basil sprigs.\nMuddle basil sprigs (no need to pluck leaves from stem) in base of Shaker.\nAdd other ingredients and Shake with ice.\nFine Strain into chilled glass.\nGarnish with basil sprig bouquet.",
+      "story": "Back in the summer of 2008, Jörg Meyer was behind the bar at Le Lion • Bar de Paris in Hamburg, doing what bartenders do best — messing around with gin and herbs. He whipped up a bright green concoction he called the Gin Pesto. Soon, the drink had a glow-up, rebranding itself as the Gin Basil Smash.",
+      "tags": ["Modern Classic", "Herbal", "Refreshing"],
+      "ingredients": [
+        { "name": "Dry gin", "qty": 60, "unit": "ml" },
+        { "name": "Fresh basil leaves", "qty": 12, "unit": "leaves" },
+        { "name": "Lemon juice", "qty": 30, "unit": "ml" },
+        { "name": "Simple syrup", "qty": 10, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "sip&Sway:naked-and-famous",
+      "name": "Naked & Famous",
+      "creatorName": "Joaquín Simó",
+      "glass": "coupe",
+      "garnish": "Lime wedge",
+      "instructions": "1. Select and pre-chill a Coupe glass.\n2. Prepare optional garnish of dehydrated lime slice wheel or lime wedge.\n3. Shake all ingredients with ice.\n4. Fine Strain into chilled glass.\n5. Optionally, garnish with lime slice or lime wedge on rim.",
+      "story": "Born in 2011 and destined for cocktail stardom, the Naked & Famous was the brainchild of Joaquín Simó. It first showed off at Death & Co. in New York. Simó’s original spec? Mezcal-forward and unapologetically bold, starring Del Maguey Chichicapa.",
+      "tags": ["Modern Classic", "Smoky", "Equal Parts"],
+      "ingredients": [
+        { "name": "Mezcal", "qty": 22.5, "unit": "ml" },
+        { "name": "Yellow Chartreuse", "qty": 22.5, "unit": "ml" },
+        { "name": "Aperol", "qty": 22.5, "unit": "ml" },
+        { "name": "Lime juice", "qty": 22.5, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "sip&Sway:amaretto-sour",
+      "name": "Amaretto Sour",
+      "creatorName": "Jeffrey Morgenthaler",
+      "glass": "old-fashioned",
+      "garnish": "Maraschino cherry and lemon peel",
+      "instructions": "Select and pre-chill an Old-fashioned glass.\nPrepare garnish of spray aromatic bitters over foaming cocktail from atomiser and then garnish with lemon & cherry sail.\nShake all ingredients with ice.\nStrain back into Shaker.\nDry Shake (without ice).\nFine Strain into ice-filled glass.",
+      "story": "The Amaretto Sour might feel like it’s been around forever, but it’s surprisingly absent from the encyclopaedic cocktail books of the 1970s. Fast forward a few decades, and Jeffrey Morgenthaler gave the drink a grown-up makeover: balancing it with bourbon, fresh citrus, and egg white.",
+      "tags": ["Modern Classic", "Sour", "Rich"],
+      "ingredients": [
+        { "name": "Amaretto", "qty": 45, "unit": "ml" },
+        { "name": "Bourbon", "qty": 22.5, "unit": "ml" },
+        { "name": "Lemon juice", "qty": 30, "unit": "ml" },
+        { "name": "Simple syrup", "qty": 15, "unit": "ml" },
+        { "name": "Egg white", "qty": 1, "unit": "whole" }
+      ]
+    },
+    {
+      "id": "sip&Sway:vieux-carre",
+      "name": "Vieux Carré",
+      "creatorName": "Walter Bergeron",
+      "glass": "old-fashioned",
+      "garnish": "Lemon zest twist",
+      "instructions": "1. Select and pre-chill an Old-fashioned glass.\n2. Prepare garnish of lemon zest twist.\n3. Stir all ingredients with ice.\n4. Strain into ice-filled glass.\n5. Express lemon zest twist over the cocktail.",
+      "story": "Created in 1938 by Walter Bergeron, then head bartender at what’s now the famous Carousel Bar in New Orleans’ Hotel Monteleone, the Vieux Carré is a bold, boozy tribute to the city’s French roots. Named after the French term for the French Quarter, it literally means “old square”.",
+      "tags": ["Classic", "Boozy", "New Orleans"],
+      "ingredients": [
+        { "name": "Rye whiskey", "qty": 22.5, "unit": "ml" },
+        { "name": "Cognac", "qty": 22.5, "unit": "ml" },
+        { "name": "Sweet vermouth", "qty": 22.5, "unit": "ml" },
+        { "name": "Bénédictine", "qty": 10, "unit": "ml" },
+        { "name": "Angostura bitters", "qty": 1, "unit": "dash" },
+        { "name": "Peychaud's bitters", "qty": 2, "unit": "dashes" }
+      ]
+    },
+    {
+      "id": "sip&Sway:picante-de-la-casa",
+      "name": "Picante de la Casa",
+      "creatorName": "Chris Ojeda",
+      "glass": "old-fashioned",
+      "garnish": "Chilli pepper slice",
+      "instructions": "1. Select and pre-chill an Old-fashioned glass.\n2. Prepare garnish of chilli pepper slice.\n3. Muddle chilli and coriander/cilantro in base of Shaker.\n4. Add other ingredients and Shake with ice.\n5. Fine Strain into ice-filled glass.\n6. Garnish with a slice chilli pepper.",
+      "story": "Dreamed up by Chris Ojeda at Soho House West Hollywood, this so-called “House Tonic” became the cool kid of the cocktail world almost overnight. It’s now the best-selling drink across Soho Houses globally.",
+      "tags": ["Modern Classic", "Spicy", "Tequila"],
+      "ingredients": [
+        { "name": "Tequila", "qty": 60, "unit": "ml" },
+        { "name": "Lime juice", "qty": 30, "unit": "ml" },
+        { "name": "Agave syrup", "qty": 20, "unit": "ml" },
+        { "name": "Red chili pepper", "qty": 1, "unit": "slice" },
+        { "name": "Fresh coriander", "qty": 3, "unit": "sprigs" }
+      ]
+    },
+    {
+      "id": "sip&Sway:the-last-word",
+      "name": "The Last Word",
+      "creatorName": "Frank Fogarty",
+      "glass": "coupe",
+      "garnish": "Skewered cherry",
+      "instructions": "1. Select and pre-chill a Coupe glass.\n2. Prepare garnish of lime zest twist and skewered Luxardo Maraschino Cherries.\n3. Shake all ingredients with ice.\n4. Fine Strain into chilled glass.\n5. Express lime zest twist over cocktail and discard.\n6. Garnish with skewered cherry.",
+      "story": "First mixed at the Detroit Athletic Club around 1916, the Last Word was so ahead of its time, it cost double a Manhattan. Rumour has it, it was introduced by vaudeville star Frank “The Dublin Minstrel” Fogarty. Equal parts gin, lime, Chartreuse, and maraschino, the Last Word vanished after Prohibition — only to be resurrected in 2003 by bartender Murray Stenson in Seattle.",
+      "tags": ["Classic", "Herbal", "Equal Parts"],
+      "ingredients": [
+        { "name": "Gin", "qty": 30, "unit": "ml" },
         { "name": "Green Chartreuse", "qty": 22.5, "unit": "ml" },
         { "name": "Maraschino liqueur", "qty": 22.5, "unit": "ml" },
         { "name": "Lime juice", "qty": 22.5, "unit": "ml" }
       ]
     },
     {
-      "id": "death-and-co:last-word",
-      "name": "Tested",
-      "creatorName": "Death & Co",
-      "glass": "coupe",
-      "garnish": "Cherry",
-      "instructions": "Shake with ice.\nDouble strain into a chilled coupe.",
-      "story": "Classic equal-parts sour revived by modern bars.",
-      "tags": ["last word riff", "refreshing"],
+      "id": "sip&Sway:espresso-martini",
+      "name": "Espresso Martini",
+      "creatorName": "Dick Bradsell",
+      "glass": "martini",
+      "garnish": "3 Coffee beans",
+      "instructions": "1. Select and pre-chill a Martini glass.\n2. Prepare garnish of prepare garnish of lemon zest twist (discarded) plus float coffee beans.\n3. Shake all ingredients with ice.\n4. Fine Strain into chilled glass.\n5. Express lemon zest twist over the cocktail and discard.\n6. Garnish with coffee beans arranged in a petal formation in the centre of the cocktail's foamy head.",
+      "story": "In 1983, bartender Dick Bradsell was working at the Soho Brasserie in London when an American model asked for “something that’ll wake me up, then f** me up.” With vodka all the rage and a messy coffee machine nearby, he created the first Vodka Espresso. The final touch? Three coffee beans, floating on top — a nod to Italian sambuca tradition.",
+      "tags": ["Modern Classic", "Coffee", "Dessert"],
       "ingredients": [
-        { "name": "Gin", "qty": 22.5, "unit": "ml" },
-        { "name": "Green Chartreuse", "qty": 22.5, "unit": "ml" },
-        { "name": "Maraschino liqueur", "qty": 22.5, "unit": "ml" },
-        { "name": "Lime juice", "qty": 22.5, "unit": "ml" }
+        { "name": "Vodka", "qty": 45, "unit": "ml" },
+        { "name": "Coffee liqueur", "qty": 20, "unit": "ml" },
+        { "name": "Fresh espresso", "qty": 30, "unit": "ml" },
+        { "name": "Saline solution", "qty": 2, "unit": "drops" }
       ]
     },
     {
-      "id": "death-and-co:last-word:test",
-      "name": "Test",
-      "creatorName": "Death & Co",
+      "id": "sip&Sway:jungle-bird",
+      "name": "Jungle Bird",
+      "creatorName": "Jeffrey Ong",
+      "glass": "old-fashioned",
+      "garnish": "Pineapple wedge and maraschino cherry",
+      "instructions": "Select and pre-chill an Old-fashioned glass.\nPrepare garnish of skewered pineapple wedge (ideally cut to resemble a bird's plumage) & Luxardo Maraschino Cherry.\nShake all ingredients with ice.\nStrain into glass filled with crushed ice.\nGarnish with pineapple wedge and maraschino cherry.",
+      "story": "The Jungle Bird was first Shaken up in 1973 at the Kuala Lumpur Hilton by Beverage Manager Jeffrey Ong, as a welcome drink for the hotel’s grand opening. Tropical and bitter in perfect balance, it mixes dark rum, Campari, pineapple, lime, and sugar syrup — a rare Tiki-style drink with real backbone.",
+      "tags": ["Tiki", "Tropical", "Bitter"],
+      "ingredients": [
+        { "name": "Aged rum", "qty": 40, "unit": "ml" },
+        { "name": "Campari", "qty": null, "unit": "ml" },
+        { "name": "Pineapple juice", "qty": null, "unit": "ml" },
+        { "name": "Lime juice", "qty": 20, "unit": "ml" },
+        { "name": "Simple syrup", "qty": 20, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "sip&Sway:margarita",
+      "name": "Margarita",
+      "creatorName": "Unknown",
       "glass": "coupe",
-      "garnish": "Cherry",
-      "instructions": "Shake with ice.\nDouble strain into a chilled coupe.",
-      "story": "Classic equal-parts sour revived by modern bars.",
-      "tags": ["last word riff", "refreshing"],
+      "garnish": "Salt rim and lime wedge",
+      "instructions": "Select and pre-chill an Old-fashioned glass.\nOptionally, Rim glass with salt (moisten outside edge with lime juice and dip into salt).\nPrepare garnish of lime wedge.\nShake all ingredients with ice.\nStrain into ice-filled glass.\nGarnish with lime wedge.",
+      "story": "A Mexican spin on the classic Daisy — a citrusy cocktail style from the 1800s — and Margarita means Daisy in Spanish. Versions like the Tequila Daisy (1936), Picador (1937), and Tequila Sour (1939) were already in the mix before the name Margarita appeared in print in 1953, beachside in Baja.",
+      "tags": ["Classic", "Sour", "Tequila"],
+      "ingredients": [
+        { "name": "Reposado Tequila", "qty": 60, "unit": "ml" },
+        { "name": "Triple sec", "qty": 22.5, "unit": "ml" },
+        { "name": "Lime juice", "qty": 30, "unit": "ml" },
+        { "name": "Simple syrup", "qty": 7.5, "unit": "ml" },
+        { "name": "Saline Solution", "qty": 2, "unit": "drops" }
+      ]
+    },
+    {
+      "id": "generated:whiskey-sour",
+      "name": "Whiskey Sour",
+      "creatorName": "Unknown",
+      "glass": "old-fashioned",
+      "garnish": "Skewered lemon slice and cherry",
+      "instructions": "Select and pre-chill an Old-fashioned glass.\nPrepare garnish of skewered lemon slice wheel and Luxardo Maraschino Cherry (sail).\nShake all ingredients with ice.\nStrain back into shaker.\nDry shake (without ice).\nFine strain into ice-filled glass.\nGarnish with skewered lemon slice and cherry (sail).",
+      "story": "First mentioned in the 1860's, the Whiskey Sour quickly became the most enduring member of the Sour family. Its simple, elegant balance of whiskey, citrus, and sugar made it a favourite through the Prohibition era and well into the 20th century.",
+      "tags": ["Classic", "Sour", "Whiskey"],
+      "ingredients": [
+        { "name": "Bourbon", "qty": 45, "unit": "ml" },
+        { "name": "Lemon juice", "qty": 22.5, "unit": "ml" },
+        { "name": "Gomme Demerara Syrup", "qty": 15, "unit": "ml" },
+        { "name": "Egg white", "qty": 15, "unit": "ml" },
+        { "name": "Saline Solution", "qty": 2, "unit": "drops" },
+        { "name": "Angostura bitters", "qty": 3, "unit": "drops" }
+      ]
+    },
+    {
+      "id": "generated:negroni",
+      "name": "Negroni",
+      "creatorName": "Count Camillo Negroni",
+      "glass": "old-fashioned",
+      "garnish": "Orange peel",
+      "instructions": "Select and pre-chill an Old-fashioned glass.\nPrepare garnish of orange wedge or slice and/or orange zest twist.\nPour all ingredients into ice-filled glass.\nStir.\nGarnish with orange wedge or slice and/or orange zest twist.",
+      "story": "Born in Florence in 1919, the Negroni was created when Count Camillo Negroni asked his bartender to strengthen his Americano by swapping the soda for gin.",
+      "tags": ["Classic", "Bittersweet", "Aperitivo"],
+      "ingredients": [
+        { "name": "Gin", "qty": 30, "unit": "ml" },
+        { "name": "Sweet Vermouth", "qty": 30, "unit": "ml" },
+        { "name": "Campari", "qty": 30, "unit": "ml" },
+        { "name": "Orange Bitters", "qty": 2, "unit": "dashes" },
+        { "name": "Saline Solution", "qty": 2, "unit": "drops" }
+      ]
+    },
+    {
+      "id": "generated:penicillin",
+      "name": "Penicillin",
+      "creatorName": "Sam Ross",
+      "glass": "old-fashioned",
+      "garnish": "Skewered crystallised ginger",
+      "instructions": "Select and pre-chill an Old-fashioned glass.\nPrepare skewered crystallised ginger for garnish.\nShake all ingredients with ice.\nStrain into ice-filled glass (preferably over a large cube or chunk of block ice).\nGarnish with skewered crystallised ginger.",
+      "story": "Created in the early 2000s by New York bartender Sam Ross, the Penicillin is a modern classic that delivers old-school warmth. Named cheekily for its “medicinal” mix of Scotch, lemon, honey, and ginger.",
+      "tags": ["Modern Classic", "Smoky", "Whiskey"],
+      "ingredients": [
+        { "name": "Blended Scotch", "qty": 45, "unit": "ml" },
+        { "name": "Peated Scotch", "qty": 7.5, "unit": "float" },
+        { "name": "Ginger Liqueur", "qty": 15, "unit": "ml" },
+        { "name": "Honey Syrup", "qty": 20, "unit": "ml" },
+        { "name": "Lemon juice", "qty": 20, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:cosmopolitan",
+      "name": "Cosmopolitan",
+      "creatorName": "Toby Cecchini",
+      "glass": "coupe",
+      "garnish": "Citrus zest twist",
+      "instructions": "Select and pre-chill a Coupe glass.\nPrepare garnish of citrus zest twist.\nShake all ingredients with ice.\nFine Strain into chilled glass.\nExpress citrus zest twist over cocktail and float as garnish.",
+      "story": "The Cosmo found its fame in the glitzy bars of 1980s New York. Popularised by Madonna and immortalised by Sex and the City, it became a symbol of modern cocktail culture.",
+      "tags": ["Modern Classic", "Fruity", "Vodka"],
+      "ingredients": [
+        { "name": "Vodka", "qty": 45, "unit": "ml" },
+        { "name": "Triple Sec (Cointreau)", "qty": 22.5, "unit": "ml" },
+        { "name": "Fresh lime juice", "qty": 15, "unit": "ml" },
+        { "name": "Cranberry Juice", "qty": 15, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:old-cuban-highball",
+      "name": "Old Cuban Highball",
+      "creatorName": "Boilerman Bar",
+      "glass": "highball",
+      "garnish": "Mint sprig",
+      "instructions": "Prepare chilled ice-filled highball glass. Shake first 4 ingredients with ice and Fine Strain into glass. Top with sparkling wine. Garnish with a sprig of mint.",
+      "story": "Adapted from a 2017 recipe discovered at Boilerman Bar in Hamburg, this elegant riff on the classic Old Cuban brings extra lift and freshness. It merges aged rum, mint, lime, bitters, and sparkling wine—like a mojito that grew up and started wearing tailored linen.",
+      "tags": ["Refreshing", "Rum", "Highball"],
+      "ingredients": [
+        { "name": "Aged Rum", "qty": 40, "unit": "ml" },
+        { "name": "Lime juice", "qty": 20, "unit": "ml" },
+        { "name": "Simple syrup", "qty": 20, "unit": "ml" },
+        { "name": "Mint leaves", "qty": 7, "unit": "leaves" },
+        { "name": "Prosecco", "qty": 80, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:old-fashioned",
+      "name": "Old Fashioned",
+      "creatorName": "Unknown",
+      "glass": "old-fashioned",
+      "garnish": "Orange peel twist",
+      "instructions": "Select and pre-chill an Old-fashioned glass. Prepare garnish of orange zest twist. Stir all ingredients including the orange with ice. Strain into glass over a large cube. Express orange zest twist over the cocktail and use as garnish.",
+      "story": "Dating back to the early 1800s, the Old Fashioned is the grandfather of all cocktails. Originally just spirit, sugar, water, and bitters, it was reborn in the late 19th century when bartenders in Louisville began serving it with whiskey.",
+      "tags": ["Classic", "Boozy", "Whiskey"],
+      "ingredients": [
+        { "name": "Bourbon", "qty": 45, "unit": "ml" },
+        { "name": "High proof Rye", "qty": 30, "unit": "ml" },
+        { "name": "Gomme Demerara Syrup", "qty": 10, "unit": "ml" },
+        { "name": "Angostura bitters", "qty": 2, "unit": "dashes" },
+        { "name": "Orange Bitters", "qty": 1, "unit": "dash" },
+        { "name": "Saline Solution", "qty": 2, "unit": "drops" }
+      ]
+    },
+    {
+      "id": "generated:enzoni",
+      "name": "Enzoni",
+      "creatorName": "Vincenzo Errico",
+      "glass": "old-fashioned",
+      "garnish": "Skewered green grape",
+      "instructions": "Select and pre-chill an Old-fashioned glass. Prepare garnish of skewered green grape. Muddle 5 grapes in base of Shaker. Add other ingredients and Shake with ice. Fine Strain into ice-filled glass. Garnish with skewered grape.",
+      "story": "Created in the early 2000s by Italian bartender Vincenzo Errico while working at London’s influential Match Bar, the Enzoni brings together gin, Campari, sweet vermouth, and muddled green grapes.",
+      "tags": ["Modern Classic", "Gin", "Fruity"],
+      "ingredients": [
+        { "name": "Dry Gin", "qty": 30, "unit": "ml" },
+        { "name": "Campari", "qty": 30, "unit": "ml" },
+        { "name": "Fresh lemon juice", "qty": 22.5, "unit": "ml" },
+        { "name": "Simple syrup", "qty": 22.5, "unit": "ml" },
+        { "name": "Green grapes", "qty": 5, "unit": "whole" }
+      ]
+    },
+    {
+      "id": "generated:batanga",
+      "name": "Batanga",
+      "creatorName": "Don Javier Delgado Corona",
+      "glass": "highball",
+      "garnish": "Salt rim and lime wedge",
+      "instructions": "Rim the glass with salt. Fill with ice. Add Tequila and fresh lime juice. Top with Coca-Cola and stir with the knife used to cut the lime (traditional).",
+      "story": "Created in the 1950s at La Capilla in Mexico. The secret isn't just the ingredients, but the knife used to stir it.",
+      "tags": ["Classic", "Tequila", "Highball"],
+      "ingredients": [
+        { "name": "Blanco Tequila", "qty": 50, "unit": "ml" },
+        { "name": "Fresh lime juice", "qty": 15, "unit": "ml" },
+        { "name": "Coca-Cola", "qty": null, "unit": "top" },
+        { "name": "Salt", "qty": 1, "unit": "pinch" }
+      ]
+    },
+    {
+      "id": "generated:fitzgerald",
+      "name": "Fitzgerald",
+      "creatorName": "Dale DeGroff",
+      "glass": "coupe",
+      "garnish": "Lemon wheel",
+      "instructions": "Shake all ingredients with ice and fine strain into a chilled coupe or rocks glass.",
+      "story": "A modern classic created by Dale DeGroff, the Fitzgerald is essentially a Gin Sour with the addition of Angostura bitters, bridging the gap between a Gimlet and a Gin Fix.",
+      "tags": ["Modern Classic", "Sour", "Gin"],
+      "ingredients": [
+        { "name": "London Dry Gin", "qty": 45, "unit": "ml" },
+        { "name": "Fresh lemon juice", "qty": 22.5, "unit": "ml" },
+        { "name": "Simple syrup", "qty": 22.5, "unit": "ml" },
+        { "name": "Angostura bitters", "qty": 2, "unit": "dashes" }
+      ]
+    },
+    {
+      "id": "generated:aviation",
+      "name": "Aviation",
+      "creatorName": "Hugo Ensslin",
+      "glass": "coupe",
+      "garnish": "Maraschino cherry",
+      "instructions": "Shake all ingredients with ice and fine strain into a chilled glass.",
+      "story": "First appearing in Hugo Ensslin's 1916 'Recipes for Mixed Drinks', the Aviation is famous for its sky-blue hue provided by the Crème de violette.",
+      "tags": ["Classic", "Floral", "Gin"],
+      "ingredients": [
+        { "name": "Gin", "qty": 45, "unit": "ml" },
+        { "name": "Maraschino liqueur", "qty": 15, "unit": "ml" },
+        { "name": "Crème de violette", "qty": 7.5, "unit": "ml" },
+        { "name": "Fresh lemon juice", "qty": 15, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:clover-club",
+      "name": "Clover Club",
+      "creatorName": "Unknown",
+      "glass": "coupe",
+      "garnish": "Fresh raspberry",
+      "instructions": "Dry shake ingredients without ice to emulsify the egg white, then add ice and shake again. Fine strain into a chilled glass.",
+      "story": "Named after a Philadelphia men's club that met at the Bellevue-Stratford Hotel, this pre-Prohibition classic is a sophisticated raspberry gin sour.",
+      "tags": ["Classic", "Pink", "Gin"],
+      "ingredients": [
+        { "name": "Dry Gin", "qty": 45, "unit": "ml" },
+        { "name": "Lemon juice", "qty": 22.5, "unit": "ml" },
+        { "name": "Raspberry syrup", "qty": 15, "unit": "ml" },
+        { "name": "Egg white", "qty": 1, "unit": "whole" }
+      ]
+    },
+    {
+      "id": "generated:bramble",
+      "name": "Bramble",
+      "creatorName": "Dick Bradsell",
+      "glass": "old-fashioned",
+      "garnish": "Fresh blackberry and lemon slice",
+      "instructions": "Shake gin, lemon, and syrup with ice. Strain into a glass over crushed ice. Drizzle Crème de mûre over the top to create a bleeding effect.",
+      "story": "Created in London in 1984, Dick Bradsell wanted to create a British cocktail. It’s a modern classic that evokes the memory of blackberry picking in the English countryside.",
+      "tags": ["Modern Classic", "Fruity", "Gin"],
+      "ingredients": [
+        { "name": "Gin", "qty": 45, "unit": "ml" },
+        { "name": "Fresh lemon juice", "qty": 22.5, "unit": "ml" },
+        { "name": "Simple syrup", "qty": 15, "unit": "ml" },
+        { "name": "Crème de mûre", "qty": 15, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:cantaritos",
+      "name": "Cantaritos",
+      "creatorName": "Traditional",
+      "glass": "clay pot (cantarito) or highball",
+      "garnish": "Salt rim and lime wedge",
+      "instructions": "Rim the clay pot or glass with salt. Add tequila, lime juice, lemon juice, and grapefruit juice. Fill with ice, top with grapefruit soda, and stir gently.",
+      "story": "A beloved Mexican staple, especially in Jalisco. Unlike a Paloma, the Cantarito uses a trio of citrus—lime, lemon, and orange—and is traditionally served in a clay pot to keep the drink ice-cold in the sun.",
+      "tags": ["Refreshing", "Tequila", "Citrus"],
+      "ingredients": [
+        { "name": "Tequila", "qty": 45, "unit": "ml" },
+        { "name": "Fresh lime juice", "qty": 15, "unit": "ml" },
+        { "name": "Fresh lemon juice", "qty": 15, "unit": "ml" },
+        { "name": "Fresh grapefruit juice", "qty": 15, "unit": "ml" },
+        { "name": "Grapefruit soda", "qty": null, "unit": "top" }
+      ]
+    },
+    {
+      "id": "generated:sex-on-the-beach",
+      "name": "Sex on the Beach",
+      "creatorName": "Ted Pizio",
+      "glass": "highball",
+      "garnish": "Orange slice and cherry",
+      "instructions": "Build all ingredients in a highball glass filled with ice. Stir gently to combine. Garnish with an orange slice.",
+      "story": "Created in 1987 in Florida by bartender Ted Pizio. When asked why it was called that, he combined the two main reasons tourists visited Florida in the spring: the beach and 'sex.'",
+      "tags": ["Fruity", "Modern Classic", "Vodka"],
+      "ingredients": [
+        { "name": "Vodka", "qty": 45, "unit": "ml" },
+        { "name": "Peach schnapps", "qty": 22.5, "unit": "ml" },
+        { "name": "Cranberry juice", "qty": 45, "unit": "ml" },
+        { "name": "Orange juice", "qty": 45, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:singapore-sling",
+      "name": "Singapore Sling",
+      "creatorName": "Ngiam Tong Boon",
+      "glass": "highball or hurricane",
+      "garnish": "Pineapple wedge and cherry",
+      "instructions": "Shake all ingredients (except soda water) with ice. Strain into an ice-filled glass. Top with a splash of soda water if desired.",
+      "story": "Created at the Raffles Hotel in Singapore around 1915. It was designed to look like fruit juice so that it was socially acceptable for women to drink alcohol in public.",
+      "tags": ["Classic", "Complex", "Gin"],
+      "ingredients": [
+        { "name": "Gin", "qty": 30, "unit": "ml" },
+        { "name": "Cherry Heering", "qty": 15, "unit": "ml" },
+        { "name": "Bénédictine", "qty": 7.5, "unit": "ml" },
+        { "name": "Cointreau", "qty": 7.5, "unit": "ml" },
+        { "name": "Pineapple juice", "qty": 120, "unit": "ml" },
+        { "name": "Fresh lime juice", "qty": 15, "unit": "ml" },
+        { "name": "Grenadine", "qty": 10, "unit": "ml" },
+        { "name": "Angostura bitters", "qty": 1, "unit": "dash" }
+      ]
+    },
+    {
+      "id": "generated:tommys-margarita",
+      "name": "Tommy's Margarita",
+      "creatorName": "Julio Bermejo",
+      "glass": "rocks glass",
+      "garnish": "Lime wedge",
+      "instructions": "Shake all ingredients with ice and strain into an ice-filled rocks glass.",
+      "story": "Created in the 1990s at Tommy’s Mexican Restaurant in San Francisco. This version swaps triple sec for agave nectar to highlight the natural flavor of the agave plant.",
+      "tags": ["Modern Classic", "Tequila", "Sour"],
+      "ingredients": [
+        { "name": "Tequila", "qty": 60, "unit": "ml" },
+        { "name": "Fresh lime juice", "qty": 30, "unit": "ml" },
+        { "name": "Agave nectar", "qty": 15, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:white-lady",
+      "name": "White Lady",
+      "creatorName": "Harry MacElhone",
+      "glass": "coupe",
+      "garnish": "Lemon twist",
+      "instructions": "Select and pre-chill a Coupe glass. Prepare garnish of lemon zest twist. Shake all ingredients with ice and Strain back into Shaker. Dry Shake (without ice). Fine Strain into chilled glass. Express lemon zest twist over the cocktail and garnish.",
+      "story": "This elegant gin sour dates back to the 1910s, originally created by Harry MacElhone at Ciro’s Club in London. It found its iconic form in the 1920s at Harry’s New York Bar in Paris.",
+      "tags": ["Classic", "Elegant", "Gin"],
+      "ingredients": [
+        { "name": "Dry Gin", "qty": 45, "unit": "ml" },
+        { "name": "Cointreau", "qty": 22.5, "unit": "ml" },
+        { "name": "Lemon juice", "qty": 22.5, "unit": "ml" },
+        { "name": "Simple Syrup", "qty": 15, "unit": "ml" },
+        { "name": "Egg white", "qty": 1, "unit": "whole" }
+      ]
+    },
+    {
+      "id": "generated:french-76",
+      "name": "French 76",
+      "creatorName": "Unknown",
+      "glass": "flute",
+      "garnish": "Lemon twist",
+      "instructions": "Shake vodka, lemon juice, and simple syrup with ice. Fine strain into a chilled flute and top with Champagne. Garnish with a lemon twist.",
+      "story": "A sleek, disco-era variation of the French 75. By swapping the gin for vodka, the drink becomes cleaner and more neutral, allowing the bright citrus and toasted notes of the Champagne to take center stage.",
+      "tags": ["Sparkling", "Elegant", "Vodka"],
+      "ingredients": [
+        { "name": "Vodka", "qty": 30, "unit": "ml" },
+        { "name": "Fresh lemon juice", "qty": 15, "unit": "ml" },
+        { "name": "Simple syrup", "qty": 15, "unit": "ml" },
+        { "name": "Champagne", "qty": null, "unit": "top" }
+      ]
+    },
+    {
+      "id": "generated:boulevardier",
+      "name": "Boulevardier",
+      "creatorName": "Erskine Gwynne",
+      "glass": "coupe",
+      "garnish": "Orange or lemon twist",
+      "instructions": "Stir bourbon (or rye), sweet vermouth, and Campari with ice until well-chilled. Strain into a chilled coupe or over a large ice rock in a rocks glass. Garnish with a lemon twist.",
+      "story": "The Boulevardier was the signature drink of Erskine Gwynne, an American writer who founded a monthly magazine in Paris called 'The Boulevardier' in the 1920s. It is essentially a Negroni that swaps gin for the warmth of whiskey.",
+      "tags": ["Classic", "Boozy", "Whiskey"],
+      "ingredients": [
+        { "name": "Bourbon or Rye whiskey", "qty": 45, "unit": "ml" },
+        { "name": "Sweet vermouth", "qty": 22.5, "unit": "ml" },
+        { "name": "Campari", "qty": 22.5, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:vesper",
+      "name": "Vesper",
+      "creatorName": "Ian Fleming",
+      "glass": "coupe",
+      "garnish": "Large lemon thin-cut peel",
+      "instructions": "Shake (as per Bond's request) or stir gin, vodka, and Lillet Blanc with ice until very cold. Strain into a chilled coupe. Garnish with a large, thin slice of lemon peel.",
+      "story": "Created by author Ian Fleming in the 1953 James Bond novel 'Casino Royale'. Bond names the drink after Vesper Lynd, the only woman he ever truly loved. It is famous for using both gin and vodka, fortified by Lillet.",
+      "tags": ["Classic", "Boozy", "Martini"],
+      "ingredients": [
+        { "name": "Gin", "qty": 60, "unit": "ml" },
+        { "name": "Vodka", "qty": 20, "unit": "ml" },
+        { "name": "Lillet Blanc", "qty": 10, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:zombie",
+      "name": "Zombie",
+      "creatorName": "Donn Beach",
+      "glass": "tall glass or tiki mug",
+      "garnish": "Mint sprig and fruit",
+      "instructions": "Combine all ingredients in a blender with a scoop of crushed ice. Flash-blend for 5 seconds and pour into a tall glass. Alternatively, shake vigorously with crushed ice.",
+      "story": "Invented in 1934 by Donn Beach at his Hollywood restaurant, Don the Beachcomber. It was so potent that the restaurant famously limited customers to two per night. Legend says he created it to help a hungover customer get through a business meeting.",
+      "tags": ["Tiki", "Strong", "Rum"],
+      "ingredients": [
+        { "name": "Light rum", "qty": 45, "unit": "ml" },
+        { "name": "Dark rum", "qty": 45, "unit": "ml" },
+        { "name": "Overproof rum", "qty": 15, "unit": "ml" },
+        { "name": "Lime juice", "qty": 20, "unit": "ml" },
+        { "name": "Falernum", "qty": 15, "unit": "ml" },
+        { "name": "Don's Mix (Grapefruit & Cinnamon)", "qty": 15, "unit": "ml" },
+        { "name": "Angostura bitters", "qty": 1, "unit": "dash" }
+      ]
+    },
+    {
+      "id": "generated:gimlet",
+      "name": "Gimlet",
+      "creatorName": "Traditional",
+      "glass": "nick-and-nora",
+      "garnish": "Fresh lime wheel",
+      "instructions": "Shake gin, lime juice, and simple syrup with ice. Fine strain into a chilled Nick and Nora glass. Garnish with a fresh lime wheel.",
+      "story": "Originally promoted by the British Royal Navy as a way to prevent scurvy, the Gimlet was named after Rear-Admiral Sir Thomas Gimlette. While early versions used Rose's Lime Juice, the modern standard favors fresh lime and simple syrup for a brighter profile.",
+      "tags": ["Classic", "Gin", "Sour"],
+      "ingredients": [
+        { "name": "Gin", "qty": 60, "unit": "ml" },
+        { "name": "Fresh lime juice", "qty": 22.5, "unit": "ml" },
+        { "name": "Simple syrup", "qty": 15, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:sidecar",
+      "name": "Sidecar",
+      "creatorName": "Pat MacGarry",
+      "glass": "coupe",
+      "garnish": "Sugar rim and lemon twist",
+      "instructions": "Select and pre-chill a Coupe glass. Rim glass with sugar. Prepare garnish of lemon zest twist. Shake all ingredients with ice. Fine Strain into chilled glass. Express lemon zest twist over the cocktail and use as garnish.",
+      "story": "This Prohibition-era gem is believed to have been born in Paris or London in the 1920s, likely named after the motorcycle sidecar used by American officers. A cousin of the Brandy Crusta, it balances cognac and citrus for interwar glamour.",
+      "tags": ["Classic", "Cognac", "Sour"],
+      "ingredients": [
+        { "name": "Cognac", "qty": 45, "unit": "ml" },
+        { "name": "Triple Sec (Cointreau)", "qty": 30, "unit": "ml" },
+        { "name": "Lemon juice", "qty": 15, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:late-checkout",
+      "name": "Late Checkout",
+      "creatorName": "Toby Maloney",
+      "glass": "coupe",
+      "garnish": "Mint leaf, rose water, and bitters",
+      "instructions": "Select and pre-chill a Coupe glass. Muddle cucumber with salt in base of Shaker. Add other ingredients and Shake with ice. Fine Strain into chilled glass. Float 3 drops rose water and 3 drops of aromatic bitters, and peg mint leaf to rim.",
+      "story": "Created in 2007 by Toby Maloney for The Violet Hour in Chicago. Often referred to as the 'Juliet & Romeo,' it’s a gin-forward cocktail that balances cooling cucumber and mint with the delicate, poetic aroma of rosewater.",
+      "tags": ["Modern Classic", "Floral", "Cucumber"],
+      "ingredients": [
+        { "name": "Dry Gin", "qty": 60, "unit": "ml" },
+        { "name": "Cucumber slices", "qty": 3, "unit": "slices" },
+        { "name": "Salt", "qty": 1, "unit": "pinch" },
+        { "name": "Lime juice", "qty": 22.5, "unit": "ml" },
+        { "name": "Foaming Syrup", "qty": 22.5, "unit": "ml" },
+        { "name": "Rose Water", "qty": 3, "unit": "drops" },
+        { "name": "Angostura bitters", "qty": 3, "unit": "drops" }
+      ]
+    },
+    {
+      "id": "generated:long-island-iced-tea",
+      "name": "Long Island Iced Tea",
+      "creatorName": "Robert Butt",
+      "glass": "highball",
+      "garnish": "Lemon wedge",
+      "instructions": "Add all spirits, lemon juice, and demerara syrup to a shaker with ice. Shake briefly and strain into a highball glass filled with ice. Top with a splash of cola for color and stir gently.",
+      "story": "In 1972, bartender Robert 'Rosebud' Butt claimed he invented this at the Oak Beach Inn on Long Island. Others trace its roots back to the 1920s and 'Old Man Bishop' in Tennessee. Despite its name, it contains no tea—only a splash of cola for color.",
+      "tags": ["Classic", "Strong", "Highball"],
+      "ingredients": [
+        { "name": "Vodka", "qty": 15, "unit": "ml" },
+        { "name": "Light rum", "qty": 15, "unit": "ml" },
+        { "name": "Gin", "qty": 15, "unit": "ml" },
+        { "name": "Blanco Tequila", "qty": 15, "unit": "ml" },
+        { "name": "Triple sec", "qty": 15, "unit": "ml" },
+        { "name": "Lemon juice", "qty": 15, "unit": "ml" },
+        { "name": "Demerara syrup", "qty": 15, "unit": "ml" },
+        { "name": "Cola", "qty": null, "unit": "top" }
+      ]
+    },
+    {
+      "id": "generated:brandy-crusta",
+      "name": "Brandy Crusta",
+      "creatorName": "Joseph Santini",
+      "glass": "flute",
+      "garnish": "Sugar rim and full lemon peel ring",
+      "instructions": "1. Select and pre-chill a Flute glass.\n2. Prepare the glass with a lemon peel ring and sugar CRUSTA as a waterproof extension of the rim.\n3. Moisten the outside rim and peel with juice, dip in white caster sugar, and let harden for two hours.\n4. Shake brandy, triple sec, Maraschino, lemon juice, syrup, and bitters with ice.\n5. Fine Strain into the pre-prepared glass.",
+      "story": "Cocktail royalty with a sugared crown. Invented by Joseph Santini in the mid-1800s, this lemony brandy number predates the Sidecar and appears in the world’s first cocktail book. It is famous for its dramatic, frosted sugar rim and large lemon peel garnish.",
+      "tags": ["Classic", "Elegant", "Brandy"],
+      "ingredients": [
+        { "name": "Brandy", "qty": 50, "unit": "ml" },
+        { "name": "Triple Sec", "qty": 7.5, "unit": "ml" },
+        { "name": "Luxardo Maraschino liqueur", "qty": 7.5, "unit": "ml" },
+        { "name": "Lemon Juice", "qty": 15, "unit": "ml" },
+        { "name": "Simple syrup", "qty": 20, "unit": "ml" },
+        { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" }
+      ]
+    },
+    {
+      "id": "generated:gin-and-tonic",
+      "name": "Gin & Tonic",
+      "creatorName": "Traditional",
+      "glass": "collins",
+      "garnish": "Lime wedge",
+      "instructions": "Select and pre-chill a Collins glass. Fill with medium ice cubes. Add Gin. Top with Tonic and give a gentle Stir. Add lime wedge.",
+      "story": "Originally a medicinal concoction, the gin and tonic was popularised by British officers in India who added gin to their quinine-laced tonic water to make it more palatable.",
+      "tags": ["Classic", "Refreshing", "Long Drink"],
+      "ingredients": [
+        { "name": "Dry Gin", "qty": 50, "unit": "ml" },
+        { "name": "Tonic Water", "qty": 120, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:tom-collins",
+      "name": "Tom Collins",
+      "creatorName": "Unknown",
+      "glass": "collins",
+      "garnish": "Lemon wheel and cherry",
+      "instructions": "Build in the glass or shake gin, lemon juice, and syrup with ice. Strain into an ice-filled highball or collins glass and top with soda water.",
+      "story": "A classic 'limonada' style drink that became famous in the 1870s, famously associated with a popular hoax in New York where people were told a man named Tom Collins was talking about them in a nearby bar.",
+      "tags": ["Classic", "Refreshing", "Gin"],
+      "ingredients": [
+        { "name": "Dry Gin", "qty": 60, "unit": "ml" },
+        { "name": "Fresh Lemon Juice", "qty": 30, "unit": "ml" },
+        { "name": "Simple syrup", "qty": 22.5, "unit": "ml" },
+        { "name": "Soda Water", "qty": null, "unit": "top" }
+      ]
+    },
+    {
+      "id": "generated:aperol-spritz",
+      "name": "Aperol Spritz",
+      "creatorName": "Barbieri Brothers",
+      "glass": "wine glass",
+      "garnish": "Fresh orange slice",
+      "instructions": "1. Select and pre-chill a Wine glass.\n2. Prepare orange slice for garnish.\n3. Pour prosecco, Aperol, and soda into ice-filled glass.\n4. Garnish with orange slice.",
+      "story": "Created in 1919 in Padua, Aperol was a light, bittersweet aperitif. By the 1950s, the Spritz became a northern Italian staple and eventually a global symbol of aperitivo culture.",
+      "tags": ["Sparkling", "Bittersweet", "Low ABV"],
+      "ingredients": [
+        { "name": "Prosecco", "qty": 90, "unit": "ml" },
+        { "name": "Aperol", "qty": 60, "unit": "ml" },
+        { "name": "Soda Water", "qty": 30, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:campari-spritz",
+      "name": "Campari Spritz",
+      "creatorName": "Gaspare Campari",
+      "glass": "wine glass",
+      "garnish": "Fresh orange slice",
+      "instructions": "1. Select and pre-chill a Wine glass.\n2. Prepare orange slice for garnish.\n3. Pour ingredients into ice-filled glass.\n4. Garnish with orange slice.",
+      "story": "Campari was first crafted in 1860 by Gaspare Campari, introducing Italy to its now-iconic ruby-red bitterness. The Campari Spritz soon followed, offering a more intense, herbal take on the Venetian spritz tradition. Bold, bitter, and built for those who like their aperitivo with attitude.",
+      "tags": ["Sparkling", "Bitter", "Low ABV"],
+      "ingredients": [
+        { "name": "Prosecco", "qty": 90, "unit": "ml" },
+        { "name": "Campari", "qty": 45, "unit": "ml" },
+        { "name": "Soda Water", "qty": 30, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:hugo-spritz",
+      "name": "Hugo Spritz",
+      "creatorName": "Roland Gruber",
+      "glass": "wine glass",
+      "garnish": "Mint bouquet and lime wedge",
+      "instructions": "1. Select and pre-chill a Wine glass.\n2. Add mint leaves to chilled glass and fill with ice.\n3. Add prosecco, elderflower liqueur, and soda.\n4. Briefly stir.\n5. Garnish with a mint sprigs bouquet and lime wedge.",
+      "story": "Pronounced “Ugo,” this refreshing spritz was created in 2005 by Roland “Ak” Gruber in South Tyrol. Originally named Otto, it was later renamed and became a modern classic. Today, it is best known for its mix of elderflower, mint, and prosecco.",
+      "tags": ["Sparkling", "Floral", "Refreshing"],
+      "ingredients": [
+        { "name": "Prosecco", "qty": 90, "unit": "ml" },
+        { "name": "Elderflower liqueur", "qty": 30, "unit": "ml" },
+        { "name": "Soda Water", "qty": 30, "unit": "ml" },
+        { "name": "Fresh Mint Leaves", "qty": 6, "unit": "leaves" }
+      ]
+    },
+    {
+      "id": "generated:passion-fruit-spritz",
+      "name": "Passion Fruit Spritz",
+      "creatorName": "Unknown",
+      "glass": "wine glass",
+      "garnish": "Passion fruit seeds and pulp",
+      "instructions": "1. Select and pre-chill a Wine glass.\n2. Pour prosecco, passion fruit liqueur, and soda into ice-filled glass.\n3. Briefly Stir.\n4. Garnish with a spoon of passion fruit seeds and pulp on top of the cocktail.",
+      "story": "A modern twist on the Venetian spritz, the Passion Fruit Spritz owes its popularity to the rise of tropical flavors in European bar culture. Tangy and sparkling, it’s a fresh favorite for sunny afternoons.",
+      "tags": ["Sparkling", "Tropical", "Modern"],
+      "ingredients": [
+        { "name": "Prosecco", "qty": 90, "unit": "ml" },
+        { "name": "Passion fruit liqueur", "qty": 30, "unit": "ml" },
+        { "name": "Soda Water", "qty": 30, "unit": "ml" },
+        { "name": "Passion fruit pulp", "qty": 1, "unit": "spoon" }
+      ]
+    },
+    {
+      "id": "generated:death-by-coconut",
+      "name": "Death by Coconut",
+      "creatorName": "Unknown",
+      "glass": "coupe",
+      "garnish": "Dehydrated beetroot",
+      "instructions": "1. Select and pre-chill a Coupe glass.\n2. Shake white rum, coconut liqueur, lime juice, coconut syrup, and saline with ice.\n3. Fine strain into chilled glass.\n4. Garnish with a dehydrated beetroot slice.",
+      "story": "A decadent, silky riff on the Daiquiri, this cocktail layers coconut in two forms—liqueur and syrup—against a bright lime backbone. The dehydrated beetroot garnish provides an earthy visual contrast to the tropical profile.",
+      "tags": ["Tropical", "Creamy", "Modern"],
+      "ingredients": [
+        { "name": "White Rum", "qty": 45, "unit": "ml" },
+        { "name": "Coconut Liqueur", "qty": 30, "unit": "ml" },
+        { "name": "Lime juice", "qty": 22.5, "unit": "ml" },
+        { "name": "Coconut syrup", "qty": 15, "unit": "ml" },
+        { "name": "Saline Solution", "qty": 2, "unit": "drops" }
+      ]
+    },
+    {
+      "id": "generated:chocolate-sazerac",
+      "name": "Chocolate Sazerac",
+      "creatorName": "Unknown",
+      "glass": "old-fashioned",
+      "garnish": "Lemon twist",
+      "instructions": "1. Rinse a chilled rocks glass with Absinthe and discard excess.\n2. In a mixing glass, stir bourbon, syrup, crème de cacao, and bitters with ice.\n3. Strain into the prepared glass over a large chunk of ice.\n4. Garnish with a lemon twist.",
+      "story": "A decadent modern riff on the New Orleans classic. By swapping rye for bourbon and adding chocolate bitters and crème de cacao, the drink moves from medicinal to dessert-like, while the absinthe rinse maintains the traditional aromatic edge.",
+      "tags": ["Modern", "Boozy", "Chocolate"],
+      "ingredients": [
+        { "name": "Bourbon", "qty": 60, "unit": "ml" },
+        { "name": "Simple Syrup", "qty": 7.5, "unit": "ml" },
+        { "name": "Creme De Cacao", "qty": 7.5, "unit": "ml" },
+        { "name": "Peychaud's Bitters", "qty": 2, "unit": "dashes" },
+        { "name": "Chocolate Bitters", "qty": 2, "unit": "dashes" },
+        { "name": "Absinthe", "qty": 1, "unit": "rinse" }
+      ]
+    },
+    {
+      "id": "generated:low-risk-high-reward",
+      "name": "Low Risk, High Reward",
+      "creatorName": "Unknown",
+      "glass": "old-fashioned",
+      "garnish": "Orange peel",
+      "instructions": "Stir vodka, Bénédictine, sweet vermouth, Scotch, and bitters with ice. Strain into a rocks glass over fresh ice.",
+      "story": "A complex, spirit-forward cocktail that uses Bénédictine and sweet vermouth to provide a rich, herbal foundation for the vodka. The bar spoon of Scotch adds a subtle 'reward' of smokiness on the finish.",
+      "tags": ["Complex", "Spirit-Forward", "Savoury"],
+      "ingredients": [
+        { "name": "Vodka", "qty": 40, "unit": "ml" },
+        { "name": "Bénédictine", "qty": 25, "unit": "ml" },
+        { "name": "Sweet Vermouth", "qty": 20, "unit": "ml" },
+        { "name": "Orange Bitters", "qty": 4, "unit": "dashes" },
+        { "name": "Scotch Whisky", "qty": 5, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:private-garden",
+      "name": "Private Garden",
+      "creatorName": "Unknown",
+      "glass": "old-fashioned",
+      "garnish": "Basil leaves",
+      "instructions": "1. Muddle grapes in base of shaker. 2. Add gin, lime juice, ginger liqueur, and demerara syrup. 3. Shake with ice and fine strain into an ice-filled glass. 4. Top with soda water, stir and garnish with basil.",
+      "story": "A refreshing, garden-to-glass style cocktail. The muddled grapes and basil provide a fresh, botanical sweetness that is sharpened by the heat of ginger and the acidity of lime.",
+      "tags": ["Fresh", "Botanical", "Gin"],
+      "ingredients": [
+        { "name": "Dry Gin", "qty": 45, "unit": "ml" },
+        { "name": "Green Grapes", "qty": 6, "unit": "whole" },
+        { "name": "Lime juice", "qty": 15, "unit": "ml" },
+        { "name": "Ginger Liqueur", "qty": 15, "unit": "ml" },
+        { "name": "Gomme Demerara Syrup", "qty": 5, "unit": "ml" },
+        { "name": "Fresh Basil leaves", "qty": 4, "unit": "leaves" },
+        { "name": "Soda Water", "qty": null, "unit": "top" }
+      ]
+    },
+    {
+      "id": "generated:soft-focus",
+      "name": "Soft Focus",
+      "creatorName": "Unknown",
+      "glass": "coupe",
+      "garnish": "Kaffir lime leaf",
+      "instructions": "1. Select and pre-chill a Coupe glass. 2. Shake all ingredients with ice and strain back into shaker. 3. Dry shake (without ice) to emulsify the egg white. 4. Fine strain into chilled glass and garnish with kaffir lime leaf.",
+      "story": "An aromatic and velvety rum sour. The addition of sweet vermouth and vanilla syrup softens the edges of the white rum, while the kaffir lime provides a bright, exotic fragrance.",
+      "tags": ["Velvety", "Aromatic", "Rum"],
+      "ingredients": [
+        { "name": "White Rum", "qty": 60, "unit": "ml" },
+        { "name": "Sweet Vermouth", "qty": 15, "unit": "ml" },
+        { "name": "Lemon Juice", "qty": 15, "unit": "ml" },
+        { "name": "Vanilla Syrup", "qty": 15, "unit": "ml" },
+        { "name": "Egg White", "qty": 15, "unit": "ml" },
+        { "name": "Kaffir Lime leaf", "qty": 2, "unit": "leaves" }
+      ]
+    },
+    {
+      "id": "generated:sip-carefully",
+      "name": "Sip Carefully",
+      "creatorName": "Unknown",
+      "glass": "old-fashioned",
+      "garnish": "Lemon twist",
+      "instructions": "1. Muddle chili slices in the base of the shaker. 2. Add mezcal, triple sec, lemon juice, bitters, and syrup. 3. Shake with ice and fine strain into an ice-filled glass. 4. Express lemon twist and garnish.",
+      "story": "Living up to its name, this cocktail brings the heat. The smoke of the mezcal and the spicy sting of fresh red chili are balanced by citrus and the rich depth of Demerara sugar.",
+      "tags": ["Spicy", "Smoky", "Mezcal"],
+      "ingredients": [
+        { "name": "Mezcal", "qty": 45, "unit": "ml" },
+        { "name": "Red Chili pepper", "qty": 2, "unit": "slices" },
+        { "name": "Triple Sec", "qty": 15, "unit": "ml" },
+        { "name": "Lemon Juice", "qty": 20, "unit": "ml" },
+        { "name": "Orange Bitters", "qty": 2, "unit": "dashes" },
+        { "name": "Gomme Demerara Syrup", "qty": 5, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:twos-company",
+      "name": "Two's Company",
+      "creatorName": "Unknown",
+      "glass": "coupe",
+      "garnish": "Skewered cherry",
+      "instructions": "Shake white rum, gin, lime juice, grenadine, and syrup with ice. Fine strain into a chilled coupe and garnish with a cherry.",
+      "story": "A split-base sour that proves rum and gin can be friends. The grenadine adds a hint of pomegranate sweetness and a beautiful blush color to this sharp, citrus-forward drink.",
+      "tags": ["Split-Base", "Fruity", "Classic Style"],
+      "ingredients": [
+        { "name": "White Rum", "qty": 45, "unit": "ml" },
+        { "name": "London Dry Gin", "qty": 22.5, "unit": "ml" },
+        { "name": "Lime juice", "qty": 15, "unit": "ml" },
+        { "name": "Grenadine", "qty": 7.5, "unit": "ml" },
+        { "name": "Simple Syrup", "qty": 5, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:summer-on-repeat",
+      "name": "Summer on Repeat",
+      "creatorName": "Unknown",
+      "glass": "coupe",
+      "garnish": "Mint sprig",
+      "instructions": "Shake rum, lemon, orange juice, and honey syrup with ice. Fine strain into a chilled glass and garnish with a mint leaf.",
+      "story": "A tropical, honey-sweetened sour that captures the essence of a warm afternoon. Using gold rum adds a touch of caramel that pairs perfectly with the floral notes of the honey.",
+      "tags": ["Honey", "Tropical", "Rum"],
+      "ingredients": [
+        { "name": "Gold Rum", "qty": 60, "unit": "ml" },
+        { "name": "Lemon Juice", "qty": 20, "unit": "ml" },
+        { "name": "Orange Juice", "qty": 15, "unit": "ml" },
+        { "name": "Honey Syrup", "qty": 20, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:good-behaviour",
+      "name": "Good Behaviour",
+      "creatorName": "Unknown",
+      "glass": "collins",
+      "garnish": "Lime wedge",
+      "instructions": "1. Select and pre-chill a Collins glass. 2. Shake Navy rum, juices, syrup, and bitters with ice. 3. Strain into an ice-filled glass. 4. Garnish with a lime wedge.",
+      "story": "A potent, punch-style highball that uses the high-proof 'Navy' strength rum to cut through a bright blend of cranberry and citrus. It's a refreshing drink that demands, as the name suggests, your best behavior.",
+      "tags": ["Punch", "Strong", "Rum"],
+      "ingredients": [
+        { "name": "Navy Rum", "qty": 45, "unit": "ml" },
+        { "name": "Cranberry juice", "qty": 45, "unit": "ml" },
+        { "name": "Orange juice", "qty": 22.5, "unit": "ml" },
+        { "name": "Lime juice", "qty": 22.5, "unit": "ml" },
+        { "name": "Simple syrup", "qty": 30, "unit": "ml" },
+        { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" }
+      ]
+    },
+    {
+      "id": "generated:lichee-sparkling",
+      "name": "Lichee Sparkling Cocktail",
+      "creatorName": "Unknown",
+      "glass": "flute",
+      "garnish": "Lemon twist",
+      "instructions": "1. Shake gin, lychee liqueur, and lemon juice with ice. 2. Fine strain into a chilled flute. 3. Top with champagne or sparkling wine. 4. Garnish with a lemon twist.",
+      "story": "An elegant welcome drink that pairs the botanical notes of London Dry Gin with the delicate, floral sweetness of lychee. The sparkling wine lift makes it an ideal aperitif.",
+      "tags": ["Sparkling", "Floral", "Aperitif"],
+      "ingredients": [
+        { "name": "London Dry Gin", "qty": 30, "unit": "ml" },
+        { "name": "Liqueur de Litchi", "qty": 30, "unit": "ml" },
+        { "name": "Lemon juice", "qty": 15, "unit": "ml" },
+        { "name": "Sparkling wine", "qty": 45, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:jamu-rum-punch",
+      "name": "Jamu Rum Punch",
+      "creatorName": "Unknown",
+      "glass": "old-fashioned",
+      "garnish": "Lime wheel",
+      "instructions": "Shake white rum, Jamu, lime juice, syrups, and saline with ice. Fine strain into an ice-filled glass.",
+      "story": "A local riff on the white rum sour using Jamu, Indonesia’s traditional medicinal tonic. The turmeric and ginger notes of the Jamu are softened by coconut and demerara for a drink that feels both healthy and hedonistic.",
+      "tags": ["Local", "Herbal", "Rum"],
+      "ingredients": [
+        { "name": "White Rum", "qty": 60, "unit": "ml" },
+        { "name": "Jamu", "qty": 15, "unit": "ml" },
+        { "name": "Lime juice", "qty": 7.5, "unit": "ml" },
+        { "name": "Gomme Demerara syrup", "qty": 7.5, "unit": "ml" },
+        { "name": "Coconut syrup", "qty": 5, "unit": "ml" },
+        { "name": "Saline Solution", "qty": 2, "unit": "drops" }
+      ]
+    },
+    {
+      "id": "generated:arak-cucumber-cooler",
+      "name": "Arak Cucumber Cooler",
+      "creatorName": "Unknown",
+      "glass": "collins",
+      "garnish": "Cucumber slice and jalapeno",
+      "instructions": "Muddle cucumber and jalapeno. Add arak, lime, and syrup. Shake with ice and strain into a collins glass with fresh ice. Top with soda.",
+      "story": "This drink highlights the anise-forward punch of Arak by pairing it with cooling cucumber and a sharp kick of jalapeno. A perfectly balanced savory-spicy highball.",
+      "tags": ["Spicy", "Refreshing", "Arak"],
+      "ingredients": [
+        { "name": "Arak", "qty": 60, "unit": "ml" },
+        { "name": "Lime juice", "qty": 15, "unit": "ml" },
+        { "name": "Simple Syrup", "qty": 7.5, "unit": "ml" },
+        { "name": "Cucumber", "qty": 3, "unit": "slices" },
+        { "name": "Jalapeno", "qty": 1, "unit": "slice" },
+        { "name": "Soda Water", "qty": null, "unit": "top" }
+      ]
+    },
+    {
+      "id": "generated:tropical-negroni-sour",
+      "name": "Mangosteen Negroni Sour",
+      "creatorName": "Unknown",
+      "glass": "old-fashioned",
+      "garnish": "Orange peel",
+      "instructions": "Muddle the mangosteen pulp in a shaker. Add gin, Campari, lemon juice, and syrup. Shake with ice and fine strain into an ice-filled glass.",
+      "story": "A brilliant intersection of the classic Negroni and a fruit sour. The 'Queen of Fruits' (Mangosteen) provides a creamy, floral sweetness that rounds out the bitter edge of the Campari.",
+      "tags": ["Tropical", "Bitter", "Gin"],
+      "ingredients": [
+        { "name": "Gin", "qty": 30, "unit": "ml" },
+        { "name": "Campari", "qty": 30, "unit": "ml" },
+        { "name": "Mangosteen", "qty": 1, "unit": "whole" },
+        { "name": "Lemon Juice", "qty": 30, "unit": "ml" },
+        { "name": "Simple Syrup", "qty": 22.5, "unit": "ml" },
+        { "name": "Saline Solution", "qty": 1, "unit": "drop" }
+      ]
+    },
+    {
+      "id": "generated:torch-ginger-gimlet",
+      "name": "Torch Ginger Gimlet",
+      "creatorName": "Unknown",
+      "glass": "coupe",
+      "garnish": "None",
+      "instructions": "Shake gin, lemon juice, lemongrass syrup, torch ginger syrup, and saline with ice. Fine strain into a chilled coupe.",
+      "story": "An ultra-botanical gimlet riff utilizing Southeast Asian flavors. Lemongrass provides high-toned citrus notes, while Torch Ginger (Kecombrang) adds a unique, zesty floral finish.",
+      "tags": ["Botanical", "Local", "Gin"],
+      "ingredients": [
+        { "name": "Dry Gin", "qty": 60, "unit": "ml" },
+        { "name": "Lemon juice", "qty": 22.5, "unit": "ml" },
+        { "name": "Lemongrass syrup", "qty": 7.5, "unit": "ml" },
+        { "name": "Torch Ginger syrup", "qty": 7.5, "unit": "ml" },
+        { "name": "Saline Solution", "qty": 2, "unit": "drops" }
+      ]
+    },
+    {
+      "id": "generated:dry-martini",
+      "name": "Dry Martini",
+      "creatorName": "Traditional",
+      "glass": "martini",
+      "garnish": "Olive or lemon twist",
+      "instructions": "Stir gin, dry vermouth, and orange bitters with plenty of ice until very cold. Strain into a chilled martini glass. Garnish with an olive or an expressed lemon twist.",
+      "story": "The ultimate cocktail of sophistication. While its origin is debated, it evolved from the sweeter Martinez into the crisp, dry standard of the 20th century. The addition of orange bitters is a nod to the classic pre-Prohibition style.",
+      "tags": ["Classic", "Boozy", "Gin"],
+      "ingredients": [
+        { "name": "Gin", "qty": 50, "unit": "ml" },
+        { "name": "Dry Vermouth", "qty": 10, "unit": "ml" },
+        { "name": "Orange Bitters", "qty": 1, "unit": "dash" }
+      ]
+    },
+    {
+      "id": "generated:dirty-martini",
+      "name": "Dirty Martini",
+      "creatorName": "Traditional",
+      "glass": "martini",
+      "garnish": "Olives",
+      "instructions": "Stir gin, dry vermouth, and olive brine with ice until well-chilled. Strain into a chilled glass and garnish with at least one olive.",
+      "story": "The Dirty Martini is believed to have originated in 1901 when New York bartender John O'Connor found inspiration in the classic's olive garnish, eventually adding the brine directly into the glass.",
+      "tags": ["Classic", "Savoury", "Gin"],
+      "ingredients": [
+        { "name": "Gin", "qty": 50, "unit": "ml" },
+        { "name": "Dry Vermouth", "qty": 10, "unit": "ml" },
+        { "name": "Olive Brine", "qty": 10, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:pussyfoot",
+      "name": "Pussyfoot",
+      "creatorName": "Traditional",
+      "glass": "collins",
+      "garnish": "Orange slice and mint sprig",
+      "instructions": "Shake fruit juices, grenadine, and egg yolk vigorously with ice. Strain into an ice-filled Collins glass. Garnish with an orange slice.",
+      "story": "A classic non-alcoholic 'pick-me-up' that dates back to the early 20th century. Named after the prohibitionist William 'Pussyfoot' Johnson, it is rich, citrusy, and surprisingly filling thanks to the egg yolk.",
+      "tags": ["Mocktail", "Citrus", "Creamy"],
+      "ingredients": [
+        { "name": "Orange juice", "qty": 120, "unit": "ml" },
+        { "name": "Lemon juice", "qty": 15, "unit": "ml" },
+        { "name": "Lime juice", "qty": 15, "unit": "ml" },
+        { "name": "Grenadine", "qty": 15, "unit": "ml" },
+        { "name": "Egg Yolk", "qty": 1, "unit": "whole" },
+        { "name": "Fresh Mint", "qty": 7, "unit": "leaves" }
+      ]
+    },
+    {
+      "id": "generated:honey-limeaid",
+      "name": "Honey Limeaid",
+      "creatorName": "Unknown",
+      "glass": "collins",
+      "garnish": "Lime wheel",
+      "instructions": "Stir honey syrup and lime juice in the base of the glass until combined. Fill with ice, top with soda water, and stir gently. Garnish with a lime wheel.",
+      "story": "A soothing, non-alcoholic refresher. The floral notes of honey provide a more complex sweetness than standard sugar, making this a sophisticated alternative to basic lemonade.",
+      "tags": ["Mocktail", "Refreshing", "Honey"],
+      "ingredients": [
+        { "name": "Honey Syrup", "qty": 30, "unit": "ml" },
+        { "name": "Lime Juice", "qty": 45, "unit": "ml" },
+        { "name": "Soda Water", "qty": 105, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:spicy-limeaid",
+      "name": "Spicy Limeaid",
+      "creatorName": "Unknown",
+      "glass": "collins",
+      "garnish": "Red chili slice",
+      "instructions": "Muddle red chili slices in the base of a shaker. Add lime juice and simple syrup. Shake with ice and strain into an ice-filled Collins glass. Top with soda water.",
+      "story": "For those who want the kick of a spicy Margarita without the alcohol. The capsaicin from the fresh chilies cuts through the lime's acidity for a bracingly fresh experience.",
+      "tags": ["Mocktail", "Spicy", "Citrus"],
+      "ingredients": [
+        { "name": "Lime Juice", "qty": 45, "unit": "ml" },
+        { "name": "Simple Syrup", "qty": 60, "unit": "ml" },
+        { "name": "Soda Water", "qty": 90, "unit": "ml" },
+        { "name": "Red Chili", "qty": 3, "unit": "slices" }
+      ]
+    },
+    {
+      "id": "generated:sweet-sour-bitter",
+      "name": "Sweet Sour Bitter",
+      "creatorName": "Unknown",
+      "glass": "rocks",
+      "garnish": "Lime wedge",
+      "instructions": "Build in a rocks glass. Combine lime juice and passion fruit syrup over ice. Top with tonic water and stir briefly.",
+      "story": "A simple but effective mocktail that hits three key flavor nodes. The tonic provides the bitterness, the passion fruit the sweetness, and the lime the sourness.",
+      "tags": ["Mocktail", "Bittersweet", "Tropical"],
+      "ingredients": [
+        { "name": "Lime juice", "qty": 30, "unit": "ml" },
+        { "name": "Passion fruit syrup", "qty": 30, "unit": "ml" },
+        { "name": "Tonic Water", "qty": 60, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:spa-day",
+      "name": "Spa Day",
+      "creatorName": "Unknown",
+      "glass": "collins",
+      "garnish": "Cucumber slice and mint sprig",
+      "instructions": "Muddle cucumber and mint in a shaker. Add lime juice and syrup. Shake with ice and fine strain into an ice-filled glass. Top with soda water.",
+      "story": "The ultimate 'detox' mocktail. Clean, crisp cucumber and aromatic mint make this drink feel as rejuvenating as a trip to the spa.",
+      "tags": ["Mocktail", "Fresh", "Cucumber"],
+      "ingredients": [
+        { "name": "Cucumber", "qty": 4, "unit": "slices" },
+        { "name": "Mint leaves", "qty": 6, "unit": "leaves" },
+        { "name": "Lime Juice", "qty": 30, "unit": "ml" },
+        { "name": "Simple Syrup", "qty": 22.5, "unit": "ml" },
+        { "name": "Soda Water", "qty": 75, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:blueberry-ginger",
+      "name": "Blueberry Ginger",
+      "creatorName": "Unknown",
+      "glass": "highball",
+      "garnish": "Mint sprig",
+      "instructions": "Muddle blueberries, mint, and syrup in a shaker. Add lemon juice and shake with ice. Strain into a highball glass over fresh ice. Top with ginger beer.",
+      "story": "A vibrant, berry-forward highball. The spice of the ginger beer acts as the perfect foil for the sweet, muddled blueberries.",
+      "tags": ["Mocktail", "Spicy", "Fruity"],
+      "ingredients": [
+        { "name": "Blueberries", "qty": 15, "unit": "whole" },
+        { "name": "Simple Syrup", "qty": 45, "unit": "ml" },
+        { "name": "Lemon juice", "qty": 30, "unit": "ml" },
+        { "name": "Mint leaves", "qty": 10, "unit": "leaves" },
+        { "name": "Ginger Beer", "qty": 100, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:intro-to-aperol",
+      "name": "Intro to Aperol",
+      "creatorName": "Unknown",
+      "glass": "coupe",
+      "garnish": "Orange twist",
+      "instructions": "Shake Aperol, gin, lemon juice, syrup, and bitters with ice. Fine strain into a chilled coupe glass.",
+      "story": "A modern 'gateway' cocktail for those new to bitter flavors. It uses Aperol's gentler profile supported by gin to create a bright, accessible bittersweet sour.",
+      "tags": ["Bittersweet", "Aperitivo", "Modern"],
+      "ingredients": [
+        { "name": "Aperol", "qty": 60, "unit": "ml" },
+        { "name": "Gin", "qty": 30, "unit": "ml" },
+        { "name": "Lemon Juice", "qty": 22.5, "unit": "ml" },
+        { "name": "Simple Syrup", "qty": 7.5, "unit": "ml" },
+        { "name": "Angostura Bitters", "qty": 1, "unit": "dash" }
+      ]
+    },
+    {
+      "id": "generated:perfect-martini",
+      "name": "Perfect Martini",
+      "creatorName": "Traditional",
+      "glass": "martini",
+      "garnish": "Lemon twist or olive",
+      "instructions": "Stir gin and both vermouths with ice. Strain into a chilled martini glass. The 'perfect' refers to the equal parts of sweet and dry vermouth.",
+      "story": "In bar terminology, 'Perfect' doesn't mean it's better than others—it means it uses an equal split of sweet and dry vermouth. This creates a rounder, more complex profile than the standard Dry Martini.",
+      "tags": ["Classic", "Gin", "Spirit-Forward"],
+      "ingredients": [
+        { "name": "Gin", "qty": 25, "unit": "ml" },
+        { "name": "Dry Vermouth", "qty": 25, "unit": "ml" },
+        { "name": "Sweet Vermouth", "qty": 25, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:the-garden-has-secrets",
+      "name": "The Garden Has Secrets",
+      "creatorName": "Unknown",
+      "glass": "coupe",
+      "garnish": "None",
+      "instructions": "1. Select and pre-chill a Coupe glass.\n2. Shake reposado tequila, hibiscus syrup, lime juice, and triple sec with ice.\n3. Fine strain into chilled glass. No garnish.",
+      "story": "A floral Hibiscus Margarita variant that uses the richer, oak-aged notes of Reposado tequila to balance the tart, deep berry flavors of the hibiscus flower.",
+      "tags": ["Floral", "Tequila", "Margarita"],
+      "ingredients": [
+        { "name": "Reposado Tequila", "qty": 45, "unit": "ml" },
+        { "name": "Hibiscus Syrup", "qty": 22.5, "unit": "ml" },
+        { "name": "Lime juice", "qty": 22.5, "unit": "ml" },
+        { "name": "Triple Sec", "qty": 7.5, "unit": "ml" }
+      ]
+    },  
+    {
+      "id": "generated:cynar-spritz",
+      "name": "Cynar Spritz",
+      "creatorName": "Angelo Dalle Molle",
+      "glass": "wine glass",
+      "garnish": "Thin lemon wheel and fresh thyme sprig",
+      "instructions": "1. Select and pre-chill a Wine glass.\n2. Pour prosecco, Cynar, and soda into an ice-filled glass.\n3. Garnish with a thin lemon wheel and a fresh sprig of thyme.",
+      "story": "Introduced in 1952, Cynar is a unique amaro made from 13 herbs and plants, most notably artichoke. The Cynar Spritz offers an earthy, herbal alternative to the traditional orange-based spritz.",
+      "tags": ["Sparkling", "Herbal", "Bitter"],
+      "ingredients": [
+        { "name": "Prosecco", "qty": 90, "unit": "ml" },
+        { "name": "Cynar", "qty": 60, "unit": "ml" },
+        { "name": "Soda Water", "qty": 30, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:mojito",
+      "name": "Mojito",
+      "creatorName": "Traditional",
+      "glass": "collins",
+      "garnish": "Mint sprigs bouquet",
+      "instructions": "Add mint, rum, lime, and syrup to glass and two-thirds fill with crushed ice. Stir with bar spoon. Fill glass with more crushed ice. Top with soda. Garnish with mint sprigs bouquet.",
+      "story": "The Mojito’s roots go back to the 1500s and a drink called the 'Draque.' Over time, the rough cane spirit was swapped for smooth rum. By the 1930s, it became the fizzy Cuban classic we know today.",
+      "tags": ["Classic", "Refreshing", "Rum"],
+      "ingredients": [
+        { "name": "Light gold rum", "qty": 60, "unit": "ml" },
+        { "name": "Fresh mint leaves", "qty": 14, "unit": "leaves" },
+        { "name": "Lime juice", "qty": 15, "unit": "ml" },
+        { "name": "Simple syrup", "qty": 20, "unit": "ml" },
+        { "name": "Soda Water", "qty": null, "unit": "top" }
+      ]
+    },
+    {
+      "id": "generated:godfather",
+      "name": "Godfather",
+      "creatorName": "Joe Scialom",
+      "glass": "rocks glass",
+      "garnish": "Orange oils (ungarnished)",
+      "instructions": "Build in a rocks glass over a large lump of ice. Add Scotch and Amaretto. Stir gently to combine. Express orange oils over the top but serve without the peel.",
+      "story": "A mid-seventies classic often credited to Joe Scialom, the legendary bartender who created the Suffering Bastard. This drink was allegedly the favorite of Marlon Brando, who famously portrayed the Godfather in the 1972 film.",
+      "tags": ["Classic", "Simple", "Whiskey"],
+      "ingredients": [
+        { "name": "Scotch whisky", "qty": 45, "unit": "ml" },
+        { "name": "Amaretto", "qty": 15, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "generated:corpse-reviver-no2",
+      "name": "Corpse Reviver No. 2",
+      "creatorName": "Harry Craddock",
+      "glass": "coupe",
+      "garnish": "Lemon twist",
+      "instructions": "Rinse a chilled coupe with Absinthe. Shake the remaining ingredients with ice and strain into the glass.",
+      "story": "Described in the Savoy Cocktail Book: 'Four of these taken in quick succession will un-revive the corpse again.'",
+      "tags": ["Classic", "Equal Parts", "Gin"],
       "ingredients": [
         { "name": "Gin", "qty": 22.5, "unit": "ml" },
-        { "name": "Green Chartreuse", "qty": 22.5, "unit": "ml" },
-        { "name": "Maraschino liqueur", "qty": 22.5, "unit": "ml" },
-        { "name": "Lime juice", "qty": 22.5, "unit": "ml" }
+        { "name": "Cointreau", "qty": 22.5, "unit": "ml" },
+        { "name": "Lillet Blanc", "qty": 22.5, "unit": "ml" },
+        { "name": "Fresh lemon juice", "qty": 22.5, "unit": "ml" },
+        { "name": "Absinthe", "qty": 1, "unit": "rinse" }
+      ]
+    },
+    {
+      "id": "generated:french-75",
+      "name": "French 75",
+      "creatorName": "Harry MacElhone",
+      "glass": "flute",
+      "garnish": "Lemon twist",
+      "instructions": "Select and pre-chill a Flute glass. Prepare garnish of lemon zest twist. Add roughly 2oz of the bubbles to the flute. In a tin, add gin, simple syrup and lemon juice and Shake with ice. Fine Strain into the glass. Top with sparkling wine if needed. Express lemon zest twist over the cocktail.",
+      "story": "Named after the powerful French 75mm field gun used in WWI, this Champagne cocktail is said to have such a kick it felt like being shelled. First shaken up in Paris around 1915.",
+      "tags": ["Classic", "Champagne", "Gin"],
+      "ingredients": [
+        { "name": "Dry Gin", "qty": 30, "unit": "ml" },
+        { "name": "Lemon juice", "qty": 15, "unit": "ml" },
+        { "name": "Simple syrup", "qty": 15, "unit": "ml" },
+        { "name": "Prosecco", "qty": null, "unit": "top" }
+      ]
+    },
+    {
+      "id": "generated:shaft",
+      "name": "Shaft",
+      "creatorName": "Unknown",
+      "glass": "old-fashioned",
+      "garnish": "Optional cream float",
+      "instructions": "Combine vodka, coffee liqueur, and espresso in a shaker with ice. Shake vigorously and strain into an ice-filled glass. Top with cream if desired.",
+      "story": "The Shaft is a cult-classic pick-me-up, particularly popular in Western Canada. It's essentially the espresso shot's more rebellious, cocktail-loving cousin.",
+      "tags": ["Coffee", "Pick-me-up", "Strong"],
+      "ingredients": [
+        { "name": "Vodka", "qty": 45, "unit": "ml" },
+        { "name": "Coffee liqueur", "qty": 30, "unit": "ml" },
+        { "name": "Espresso", "qty": 30, "unit": "ml" },
+        { "name": "Cream", "qty": null, "unit": "optional" }
+      ]
+    },
+    {
+      "id": "sip&Sway:manhattan",
+      "name": "Manhattan",
+      "creatorName": "George Black",
+      "glass": "coupe",
+      "garnish": "Skewered cherry",
+      "instructions": "1. Select and pre-chill a Coupe glass.\n2. Prepare garnish of orange zest twist and Luxardo Maraschino cherry.\n3. Stir all ingredients with ice.\n4. Fine Strain into chilled glass.\n5. Express orange zest twist over cocktail and discard.\n6. Garnish with skewered cherry.",
+      "story": "The Manhattan is often called the first “modern cocktail”. While some insisted it was invented for Winston Churchill’s mother, the most believable version comes from bartender William Mulhall, who claimed it was created by George Black at the Manhattan Inn on Broadway.",
+      "tags": ["Classic", "Boozy", "Whiskey"],
+      "ingredients": [
+        { "name": "Rye whiskey", "qty": 45, "unit": "ml" },
+        { "name": "Sweet vermouth", "qty": 30, "unit": "ml" },
+        { "name": "Angostura bitters", "qty": 2, "unit": "dashes" }
+      ]
+    },
+    {
+      "id": "sip&Sway:paper-plane",
+      "name": "Paper Plane",
+      "creatorName": "Sam Ross",
+      "glass": "coupe",
+      "garnish": "Miniature paper plane pegged to rim",
+      "instructions": "Select and pre-chill a Coupe glass.\nPrepare garnish of miniature paper plane pegged to rim (&/or lemon zest twist).\nShake all ingredients with ice.\nFine Strain into chilled glass.\nGarnish with miniature paper plane skewered or pegged to rim.",
+      "story": "Folded into existence in 2007 by Sam Ross for The Violet Hour in Chicago. A modern riff on the Last Word, the name is a nod to M.I.A.’s “Paper Planes”, which was on repeat all summer long while perfecting the drink.",
+      "tags": ["Modern Classic", "Bittersweet", "Equal Parts"],
+      "ingredients": [
+        { "name": "Bourbon", "qty": 22.5, "unit": "ml" },
+        { "name": "Aperol", "qty": 22.5, "unit": "ml" },
+        { "name": "Amaro Nonino", "qty": 22.5, "unit": "ml" },
+        { "name": "Lemon juice", "qty": 22.5, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "sip&Sway:paloma",
+      "name": "Paloma",
+      "creatorName": "Don Javier Delgado Corona",
+      "glass": "collins",
+      "garnish": "Salt rim (optional)",
+      "instructions": "1. Select and pre-chill a Collins glass.\n2. Shake first 3 ingredients with ice.\n3. Strain into ice-filled glass.\n4. TOP with grapefruit soda and briefly Stir.",
+      "story": "Mexico’s unofficial national cocktail. While its origin is a mystery, many credit the legendary Don Javier Delgado Corona of La Capilla in Tequila, Mexico. The Paloma likely took flight sometime in the 1950s.",
+      "tags": ["Refreshing", "Long Drink", "Tequila"],
+      "ingredients": [
+        { "name": "Blanco Tequila", "qty": 45, "unit": "ml" },
+        { "name": "Lime juice", "qty": 22.5, "unit": "ml" },
+        { "name": "Simple syrup", "qty": 22.5, "unit": "ml" },
+        { "name": "Grapefruit soda", "qty": null, "unit": "top" }
+      ]
+    },
+    {
+      "id": "gsip&Sway:french-martini",
+      "name": "French Martini",
+      "creatorName": "Dale DeGroff",
+      "glass": "martini",
+      "garnish": "Pineapple wedge or raspberry",
+      "instructions": "1. Select and pre-chill a Martini glass.\n2. Prepare garnish of pineapple wedge on raspberry.\n3. Shake all ingredients with ice.\n4. Fine Strain into chilled glass.\n5. Garnish with a pineapple wedge on rim or float raspberry in centre.",
+      "story": "Born in New York during the vodka boom, it blends vodka, Chambord, and pineapple juice. It first appeared at Pravda in 1996 thanks to Dale DeGroff, but really took off at Balthazar later that year.",
+      "tags": ["Modern Classic", "Fruity", "Vodka"],
+      "ingredients": [
+        { "name": "Vodka", "qty": 60, "unit": "ml" },
+        { "name": "Raspberry liqueur", "qty": 15, "unit": "ml" },
+        { "name": "Pineapple juice", "qty": 22.5, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "sip&Sway:daiquiri",
+      "name": "Daiquiri",
+      "creatorName": "Jennings Cox",
+      "glass": "coupe",
+      "garnish": "Lime wedge",
+      "instructions": "Select and pre-chill a Coupe glass.\nPrepare garnish of lime zest twist and lime wedge.\nShake all ingredients with ice.\nFine Strain into chilled glass.\nExpress lime zest twist over cocktail and discard.\nGarnish with lime wedge.",
+      "story": "Born in 1898 in a tiny Cuban mining town when American engineer Jennings Cox ran out of gin and had to get creative with rum, lime, and sugar.",
+      "tags": ["Classic", "Sour", "Rum"],
+      "ingredients": [
+        { "name": "White rum", "qty": 60, "unit": "ml" },
+        { "name": "Lime juice", "qty": 22.5, "unit": "ml" },
+        { "name": "Simple syrup", "qty": 22.5, "unit": "ml" },
+        { "name": "Saline Solution", "qty": 2, "unit": "drops" }
+      ]
+    },
+    {
+      "id": "sip&Sway:mai-tai",
+      "name": "Mai Tai",
+      "creatorName": "Trader Vic",
+      "glass": "double old-fashioned",
+      "garnish": "Lime husk, mint sprig, fruit stick",
+      "instructions": "1. Select and pre-chill a Double old-fashioned glass.\n2. Prepare garnish of half spent lime shell, mint sprigs and fruit stick (skewered pineapple cubes and Luxardo Maraschino Cherry).\n3. Shake all ingredients with ice.\n4. Strain into glass filled with crushed ice.\n5. Garnish with lime husk, mint sprigs bouquet and fruit stick.",
+      "story": "In 1944, Trader Vic (a.k.a. Victor Bergeron) was behind the bar at his Oakland restaurant when he shook up a new rum cocktail for two friends visiting from Tahiti. One sip in, Carrie Guild exclaimed, “Mai Tai-roa aé!” — Tahitian for “Out of this world – the best!” And just like that, the Mai Tai was born.",
+      "tags": ["Tiki", "Classic", "Rum"],
+      "ingredients": [
+        { "name": "Aged rum", "qty": 60, "unit": "ml" },
+        { "name": "Orgeat syrup", "qty": 10, "unit": "ml" },
+        { "name": "Orange curaçao", "qty": 15, "unit": "ml" },
+        { "name": "Lime juice", "qty": 20, "unit": "ml" },
+        { "name": "Simple syrup", "qty": 7.5, "unit": "ml" }
       ]
     }
   ]
