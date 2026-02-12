@@ -253,7 +253,7 @@
         { "name": "Aged Rum", "qty": 40, "unit": "ml" },
         { "name": "Lime juice", "qty": 20, "unit": "ml" },
         { "name": "Simple syrup", "qty": 20, "unit": "ml" },
-        { "name": "Mint leaves", "qty": 7, "unit": "leaves" },
+        { "name": "Mint Leaves", "qty": 7, "unit": "leaves" },
         { "name": "Prosecco", "qty": 80, "unit": "ml" }
       ]
     },
@@ -675,7 +675,7 @@
       "creatorName": "Roland Gruber",
       "glass": "wine glass",
       "garnish": "Mint bouquet and lime wedge",
-      "instructions": "1. Select and pre-chill a Wine glass.\n2. Add mint leaves to chilled glass and fill with ice.\n3. Add prosecco, elderflower liqueur, and soda.\n4. Briefly stir.\n5. Garnish with a mint sprigs bouquet and lime wedge.",
+      "instructions": "1. Select and pre-chill a Wine glass.\n2. Add Mint Leaves to chilled glass and fill with ice.\n3. Add prosecco, elderflower liqueur, and soda.\n4. Briefly stir.\n5. Garnish with a mint sprigs bouquet and lime wedge.",
       "story": "Pronounced “Ugo,” this refreshing spritz was created in 2005 by Roland “Ak” Gruber in South Tyrol. Originally named Otto, it was later renamed and became a modern classic. Today, it is best known for its mix of elderflower, mint, and prosecco.",
       "tags": ["Sparkling", "Floral", "Refreshing"],
       "ingredients": [
@@ -1051,7 +1051,7 @@
       "tags": ["Mocktail", "Fresh", "Cucumber"],
       "ingredients": [
         { "name": "Cucumber", "qty": 4, "unit": "slices" },
-        { "name": "Mint leaves", "qty": 6, "unit": "leaves" },
+        { "name": "Mint Leaves", "qty": 6, "unit": "leaves" },
         { "name": "Lime Juice", "qty": 30, "unit": "ml" },
         { "name": "Simple Syrup", "qty": 22.5, "unit": "ml" },
         { "name": "Soda Water", "qty": 75, "unit": "ml" }
@@ -1070,7 +1070,7 @@
         { "name": "Blueberries", "qty": 15, "unit": "whole" },
         { "name": "Simple Syrup", "qty": 45, "unit": "ml" },
         { "name": "Lemon juice", "qty": 30, "unit": "ml" },
-        { "name": "Mint leaves", "qty": 10, "unit": "leaves" },
+        { "name": "Mint Leaves", "qty": 10, "unit": "leaves" },
         { "name": "Ginger Beer", "qty": 100, "unit": "ml" }
       ]
     },
@@ -1148,7 +1148,7 @@
       "tags": ["Classic", "Refreshing", "Rum"],
       "ingredients": [
         { "name": "Light gold rum", "qty": 60, "unit": "ml" },
-        { "name": "Fresh mint leaves", "qty": 14, "unit": "leaves" },
+        { "name": "Fresh Mint Leaves", "qty": 14, "unit": "leaves" },
         { "name": "Lime juice", "qty": 15, "unit": "ml" },
         { "name": "Simple syrup", "qty": 20, "unit": "ml" },
         { "name": "Soda Water", "qty": null, "unit": "top" }
