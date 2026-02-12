@@ -111,7 +111,7 @@
         { "name": "Famous Grouse Blended Scotch Whisky", "qty": 1, "unit": "oz" },
         { "name": "Jameson Irish Whiskey", "qty": 1, "unit": "oz" },
         { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
-        { "name": "Kassatly Chtaura Orgeat", "qty": 0.5, "unit": "oz" }
+        { "name": "Orgeat", "qty": 0.5, "unit": "oz" }
       ]
     },
     {
@@ -456,7 +456,7 @@
     { "name": "Hine VSOP Cognac", "qty": 1, "unit": "oz" },
     { "name": "Orange Juice", "qty": 0.75, "unit": "oz" },
     { "name": "Tanqueray Gin", "qty": 0.5, "unit": "oz" },
-    { "name": "Kassatly Chtaura Orgeat", "qty": 0.5, "unit": "oz" },
+    { "name": "Orgeat", "qty": 0.5, "unit": "oz" },
     { "name": "Lustau Cream Sherry", "qty": 0.5, "unit": "oz" }
   ]
 },
