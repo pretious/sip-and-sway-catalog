@@ -1213,7 +1213,7 @@
       "ingredients": [
         { "name": "Vodka", "qty": 45, "unit": "ml" },
         { "name": "Coffee liqueur", "qty": 30, "unit": "ml" },
-        { "name": "Espresso", "qty": 30, "unit": "ml" },
+        { "name": "Fresh Espresso", "qty": 30, "unit": "ml" },
         { "name": "Cream", "qty": null, "unit": "optional" }
       ]
     },
