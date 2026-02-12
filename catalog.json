@@ -952,8 +952,8 @@
       "creatorName": "Traditional",
       "glass": "martini",
       "garnish": "Olive or lemon twist",
-      "instructions": "Stir gin, dry vermouth, and orange bitters with plenty of ice until very cold. Strain into a chilled martini glass. Garnish with an olive or an expressed lemon twist.",
-      "story": "The ultimate cocktail of sophistication. While its origin is debated, it evolved from the sweeter Martinez into the crisp, dry standard of the 20th century. The addition of orange bitters is a nod to the classic pre-Prohibition style.",
+      "instructions": "Stir gin, dry vermouth, and Orange Bitters with plenty of ice until very cold. Strain into a chilled martini glass. Garnish with an olive or an expressed lemon twist.",
+      "story": "The ultimate cocktail of sophistication. While its origin is debated, it evolved from the sweeter Martinez into the crisp, dry standard of the 20th century. The addition of Orange Bitters is a nod to the classic pre-Prohibition style.",
       "tags": ["Classic", "Boozy", "Gin"],
       "ingredients": [
         { "name": "Gin", "qty": 50, "unit": "ml" },
