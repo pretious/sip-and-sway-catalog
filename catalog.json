@@ -160,8 +160,8 @@
       "creatorName": "Unknown",
       "imageFilename": "IMG_1229.png",
       "glass": "coupe",
-      "garnish": "Salt rim and lime wedge",
-      "instructions": "Select and pre-chill an Old-fashioned glass.\nOptionally, Rim glass with salt (moisten outside edge with lime juice and dip into salt).\nPrepare garnish of lime wedge.\nShake all ingredients with ice.\nStrain into ice-filled glass.\nGarnish with lime wedge.",
+      "garnish": "Kosher Salt rim and lime wedge",
+      "instructions": "Select and pre-chill an Old-fashioned glass.\nOptionally, Rim glass with Kosher Salt (moisten outside edge with lime juice and dip into Kosher Salt).\nPrepare garnish of lime wedge.\nShake all ingredients with ice.\nStrain into ice-filled glass.\nGarnish with lime wedge.",
       "story": "A Mexican spin on the classic Daisy — a citrusy cocktail style from the 1800s — and Margarita means Daisy in Spanish. Versions like the Tequila Daisy (1936), Picador (1937), and Tequila Sour (1939) were already in the mix before the name Margarita appeared in print in 1953, beachside in Baja.",
       "tags": ["Classic", "Sour", "Tequila"],
       "ingredients": [
@@ -297,15 +297,15 @@
       "name": "Batanga",
       "creatorName": "Don Javier Delgado Corona",
       "glass": "highball",
-      "garnish": "Salt rim and lime wedge",
-      "instructions": "Rim the glass with salt. Fill with ice. Add Tequila and fresh lime juice. Top with Coca-Cola and stir with the knife used to cut the lime (traditional).",
+      "garnish": "Kosher Salt rim and lime wedge",
+      "instructions": "Rim the glass with Kosher Salt. Fill with ice. Add Tequila and fresh lime juice. Top with Coca-Cola and stir with the knife used to cut the lime (traditional).",
       "story": "Created in the 1950s at La Capilla in Mexico. The secret isn't just the ingredients, but the knife used to stir it.",
       "tags": ["Classic", "Tequila", "Highball"],
       "ingredients": [
         { "name": "Blanco Tequila", "qty": 50, "unit": "ml" },
         { "name": "Fresh lime juice", "qty": 15, "unit": "ml" },
         { "name": "Coca-Cola", "qty": null, "unit": "top" },
-        { "name": "Salt", "qty": 1, "unit": "pinch" }
+        { "name": "Kosher Salt", "qty": 1, "unit": "pinch" }
       ]
     },
     {
@@ -377,8 +377,8 @@
       "name": "Cantaritos",
       "creatorName": "Traditional",
       "glass": "clay pot (cantarito) or highball",
-      "garnish": "Salt rim and lime wedge",
-      "instructions": "Rim the clay pot or glass with salt. Add tequila, lime juice, lemon juice, and grapefruit juice. Fill with ice, top with grapefruit soda, and stir gently.",
+      "garnish": "Kosher Salt rim and lime wedge",
+      "instructions": "Rim the clay pot or glass with Kosher Salt. Add tequila, lime juice, lemon juice, and grapefruit juice. Fill with ice, top with grapefruit soda, and stir gently.",
       "story": "A beloved Mexican staple, especially in Jalisco. Unlike a Paloma, the Cantarito uses a trio of citrus—lime, lemon, and orange—and is traditionally served in a clay pot to keep the drink ice-cold in the sun.",
       "tags": ["Refreshing", "Tequila", "Citrus"],
       "ingredients": [
@@ -558,13 +558,13 @@
       "creatorName": "Toby Maloney",
       "glass": "coupe",
       "garnish": "Mint leaf, rose water, and bitters",
-      "instructions": "Select and pre-chill a Coupe glass. Muddle cucumber with salt in base of Shaker. Add other ingredients and Shake with ice. Fine Strain into chilled glass. Float 3 drops rose water and 3 drops of aromatic bitters, and peg mint leaf to rim.",
+      "instructions": "Select and pre-chill a Coupe glass. Muddle cucumber with Kosher Salt in base of Shaker. Add other ingredients and Shake with ice. Fine Strain into chilled glass. Float 3 drops rose water and 3 drops of aromatic bitters, and peg mint leaf to rim.",
       "story": "Created in 2007 by Toby Maloney for The Violet Hour in Chicago. Often referred to as the 'Juliet & Romeo,' it’s a gin-forward cocktail that balances cooling cucumber and mint with the delicate, poetic aroma of rosewater.",
       "tags": ["Modern Classic", "Floral", "Cucumber"],
       "ingredients": [
         { "name": "Dry Gin", "qty": 60, "unit": "ml" },
         { "name": "Cucumber slices", "qty": 3, "unit": "slices" },
-        { "name": "Salt", "qty": 1, "unit": "pinch" },
+        { "name": "Kosher Salt", "qty": 1, "unit": "pinch" },
         { "name": "Lime juice", "qty": 22.5, "unit": "ml" },
         { "name": "Foaming Syrup", "qty": 22.5, "unit": "ml" },
         { "name": "Rose Water", "qty": 3, "unit": "drops" },
@@ -1254,7 +1254,7 @@
       "name": "Paloma",
       "creatorName": "Don Javier Delgado Corona",
       "glass": "collins",
-      "garnish": "Salt rim (optional)",
+      "garnish": "Kosher Salt rim (optional)",
       "instructions": "1. Select and pre-chill a Collins glass.\n2. Shake first 3 ingredients with ice.\n3. Strain into ice-filled glass.\n4. TOP with grapefruit soda and briefly Stir.",
       "story": "Mexico’s unofficial national cocktail. While its origin is a mystery, many credit the legendary Don Javier Delgado Corona of La Capilla in Tequila, Mexico. The Paloma likely took flight sometime in the 1950s.",
       "tags": ["Refreshing", "Long Drink", "Tequila"],
