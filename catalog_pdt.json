@@ -127,7 +127,7 @@
         { "name": "Beefeater Gin", "qty": 1.5, "unit": "oz" },
         { "name": "Dolin Dry Vermouth", "qty": 1.5, "unit": "oz" },
         { "name": "Bénédictine", "qty": 0.5, "unit": "oz" },
-        { "name": "House Orange Bitters", "qty": 1, "unit": "dash" }
+        { "name": "Orange Bitters", "qty": 1, "unit": "dash" }
       ]
     },
     {
@@ -503,7 +503,7 @@
     { "name": "Strega", "qty": 0.25, "unit": "oz" },
     { "name": "Lustau Palo Cortado Sherry", "qty": 0.25, "unit": "oz" },
     { "name": "Sugar Cube", "qty": 1, "unit": "whole" },
-    { "name": "House Orange Bitters", "qty": 2, "unit": "dashes" }
+    { "name": "Orange Bitters", "qty": 2, "unit": "dashes" }
   ]
 },
 {
@@ -947,7 +947,7 @@
     { "name": "Plymouth Gin", "qty": 1.5, "unit": "oz" },
     { "name": "Plymouth Sloe Gin", "qty": 0.75, "unit": "oz" },
     { "name": "Carpano Antica Sweet Vermouth", "qty": 0.75, "unit": "oz" },
-    { "name": "House Orange Bitters", "qty": 2, "unit": "dashes" }
+    { "name": "Orange Bitters", "qty": 2, "unit": "dashes" }
   ]
 },
 {
@@ -1144,7 +1144,7 @@
     { "name": "Compass Box Oak Cross Blended Malt Scotch Whisky", "qty": 2, "unit": "oz" },
     { "name": "Lillet Blanc", "qty": 0.75, "unit": "oz" },
     { "name": "Drambuie", "qty": 0.5, "unit": "oz" },
-    { "name": "House Orange Bitters", "qty": 2, "unit": "dashes" }
+    { "name": "Orange Bitters", "qty": 2, "unit": "dashes" }
   ]
 },
 {
