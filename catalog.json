@@ -385,7 +385,7 @@
         { "name": "Tequila", "qty": 45, "unit": "ml" },
         { "name": "Fresh lime juice", "qty": 15, "unit": "ml" },
         { "name": "Fresh lemon juice", "qty": 15, "unit": "ml" },
-        { "name": "Fresh grapefruit juice", "qty": 15, "unit": "ml" },
+        { "name": "Grapefruit Juice", "qty": 15, "unit": "ml" },
         { "name": "Grapefruit soda", "qty": null, "unit": "top" }
       ]
     },
