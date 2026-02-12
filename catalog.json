@@ -220,7 +220,7 @@
         { "name": "Blended Scotch", "qty": 45, "unit": "ml" },
         { "name": "Peated Scotch", "qty": 7.5, "unit": "float" },
         { "name": "Ginger Liqueur", "qty": 15, "unit": "ml" },
-        { "name": "Honey Syrup", "qty": 20, "unit": "ml" },
+        { "name": "Acacia Honey Syrup", "qty": 20, "unit": "ml" },
         { "name": "Lemon juice", "qty": 20, "unit": "ml" }
       ]
     },
@@ -831,14 +831,14 @@
       "creatorName": "Unknown",
       "glass": "coupe",
       "garnish": "Mint sprig",
-      "instructions": "Shake rum, lemon, orange juice, and Honey Syrup with ice. Fine strain into a chilled glass and garnish with a mint leaf.",
+      "instructions": "Shake rum, lemon, orange juice, and Acacia Honey Syrup with ice. Fine strain into a chilled glass and garnish with a mint leaf.",
       "story": "A tropical, honey-sweetened sour that captures the essence of a warm afternoon. Using gold rum adds a touch of caramel that pairs perfectly with the floral notes of the honey.",
       "tags": ["Honey", "Tropical", "Rum"],
       "ingredients": [
         { "name": "Gold Rum", "qty": 60, "unit": "ml" },
         { "name": "Lemon Juice", "qty": 20, "unit": "ml" },
         { "name": "Orange Juice", "qty": 15, "unit": "ml" },
-        { "name": "Honey Syrup", "qty": 20, "unit": "ml" }
+        { "name": "Acacia Honey Syrup", "qty": 20, "unit": "ml" }
       ]
     },
     {
@@ -1000,11 +1000,11 @@
       "creatorName": "Unknown",
       "glass": "collins",
       "garnish": "Lime wheel",
-      "instructions": "Stir Honey Syrup and lime juice in the base of the glass until combined. Fill with ice, top with soda water, and stir gently. Garnish with a lime wheel.",
+      "instructions": "Stir Acacia Honey Syrup and lime juice in the base of the glass until combined. Fill with ice, top with soda water, and stir gently. Garnish with a lime wheel.",
       "story": "A soothing, non-alcoholic refresher. The floral notes of honey provide a more complex sweetness than standard sugar, making this a sophisticated alternative to basic lemonade.",
       "tags": ["Mocktail", "Refreshing", "Honey"],
       "ingredients": [
-        { "name": "Honey Syrup", "qty": 30, "unit": "ml" },
+        { "name": "Acacia Honey Syrup", "qty": 30, "unit": "ml" },
         { "name": "Lime Juice", "qty": 45, "unit": "ml" },
         { "name": "Soda Water", "qty": 105, "unit": "ml" }
       ]
