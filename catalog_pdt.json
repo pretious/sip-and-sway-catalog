@@ -495,14 +495,14 @@
   "creatorName": "Jim Meehan",
   "glass": "Chilled Rocks Glass",
   "garnish": null,
-  "instructions": "Add the bitters and sugar cube to a mixing glass and muddle to a paste. Add everything else, then stir with ice and strain into a chilled rocks glass. Twist an orange peel over the surface and discard.",
+  "instructions": "Add the bitters and White Sugar Cube to a mixing glass and muddle to a paste. Add everything else, then stir with ice and strain into a chilled rocks glass. Twist an orange peel over the surface and discard.",
   "story": "I tend to include witch, strega in Italian, in a drink's title whenever we mix with it.",
   "tags": ["rye", "strega", "pdt-original"],
   "ingredients": [
     { "name": "Rittenhouse Bonded Rye Whiskey", "qty": 2, "unit": "oz" },
     { "name": "Strega", "qty": 0.25, "unit": "oz" },
     { "name": "Lustau Palo Cortado Sherry", "qty": 0.25, "unit": "oz" },
-    { "name": "Sugar Cube", "qty": 1, "unit": "whole" },
+    { "name": "White Sugar Cube", "qty": 1, "unit": "whole" },
     { "name": "Orange Bitters", "qty": 2, "unit": "dashes" }
   ]
 },
@@ -696,14 +696,14 @@
   "creatorName": "Nate Dumas",
   "glass": "Chilled Rocks Glass",
   "garnish": "Orange and Lemon Twist",
-  "instructions": "Muddle the sugar cube and bitters. Add everything else, then stir with ice and strain over one large cube into a chilled rocks glass. Garnish with an orange and lemon twist.",
+  "instructions": "Muddle the White Sugar Cube and bitters. Add everything else, then stir with ice and strain over one large cube into a chilled rocks glass. Garnish with an orange and lemon twist.",
   "story": "Nate was intrigued by spirituous, old-fashioned-style cocktails at Milk & Honey that split a cocktail's base between two complementary spirits.",
   "tags": ["rhum", "apple-brandy"],
   "ingredients": [
     { "name": "Rhum Clement V.S.O.P.", "qty": 1, "unit": "oz" },
     { "name": "Lairds Bonded Apple Brandy", "qty": 1, "unit": "oz" },
     { "name": "Green Chartreuse", "qty": 0.5, "unit": "oz" },
-    { "name": "Demerara Sugar Cube", "qty": 1, "unit": "cube" },
+    { "name": "Demerara White Sugar Cube", "qty": 1, "unit": "cube" },
     { "name": "Fee Brothers Whiskey Barrel Aged Bitters", "qty": 2, "unit": "dashes" }
   ]
 },
@@ -1095,7 +1095,7 @@
     { "name": "Rittenhouse Bonded Rye Whiskey", "qty": 2, "unit": "oz" },
     { "name": "Peychauds Bitters", "qty": 3, "unit": "dashes" },
     { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" },
-    { "name": "Demerara Sugar Cube", "qty": 1, "unit": "whole" }
+    { "name": "Demerara White Sugar Cube", "qty": 1, "unit": "whole" }
   ]
 },
 {
