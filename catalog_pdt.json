@@ -217,7 +217,7 @@
       "creatorName": "Lucius Beebe",
       "glass": "Chilled Collins Glass",
       "garnish": "Cucumber Wheel",
-      "instructions": "Muddle the cucumber and simple syrup. Add Pimms and lemon juice, then shake with ice and strain into a chilled Collins glass filled with ice. Top with 1 oz. Fever-Tree Ginger Ale. Garnish with a cucumber wheel.",
+      "instructions": "Muddle the cucumber and Simple Syrup. Add Pimms and lemon juice, then shake with ice and strain into a chilled Collins glass filled with ice. Top with 1 oz. Fever-Tree Ginger Ale. Garnish with a cucumber wheel.",
       "story": "James Pimm became famous for his house cup, a gin sling with a proprietary mix of liqueurs and fruit extracts in the 19th century.",
       "tags": ["pimms", "ginger-ale", "classic"],
       "ingredients": [
@@ -235,7 +235,7 @@
   "glass": "Chilled Rocks Glass",
   "garnish": null,
   "instructions": "Shake with ice and strain into a chilled rocks glass filled with ice. No garnish.",
-  "story": "T. J. Siegal created this modern classic at Milk & Honey. It is essentially a Whiskey Sour with honey syrup instead of simple syrup.",
+  "story": "T. J. Siegal created this modern classic at Milk & Honey. It is essentially a Whiskey Sour with honey syrup instead of Simple Syrup.",
   "tags": ["bourbon", "honey", "pdt-original"],
   "ingredients": [
     { "name": "Elijah Craig 12-Year-Old Bourbon", "qty": 2, "unit": "oz" },
@@ -512,7 +512,7 @@
   "creatorName": "Jim Meehan and Lydia Reissmueller",
   "glass": "Chilled Collins Glass",
   "garnish": "Smacked Sage Leaf",
-  "instructions": "Muddle the black peppercorns with the simple syrup. Add everything else, then shake with ice and fine-strain into a chilled Collins glass filled with ice. Garnish with a smacked sage leaf.",
+  "instructions": "Muddle the black peppercorns with the Simple Syrup. Add everything else, then shake with ice and fine-strain into a chilled Collins glass filled with ice. Garnish with a smacked sage leaf.",
   "story": "We sorted all the produce and chose vanilla, black pepper, and sage to pair with the malt.",
   "tags": ["scotch", "sage", "pdt-original"],
   "ingredients": [
