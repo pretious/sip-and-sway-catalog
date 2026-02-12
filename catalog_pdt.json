@@ -29,7 +29,7 @@
       "tags": ["pdt-original", "bourbon", "fat-washed"],
       "ingredients": [
         { "name": "Benton's Bacon-Infused Four Roses Bourbon", "qty": 2, "unit": "oz" },
-        { "name": "Deep Mountain Grade B Maple Syrup", "qty": 0.25, "unit": "oz" },
+        { "name": "Maple Syrup", "qty": 0.25, "unit": "oz" },
         { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" }
       ]
     },
@@ -1076,7 +1076,7 @@
     { "name": "Laird's Bonded Apple Brandy", "qty": 1, "unit": "oz" },
     { "name": "Rittenhouse Bonded Rye Whiskey", "qty": 0.5, "unit": "oz" },
     { "name": "Lemon Juice", "qty": 0.5, "unit": "oz" },
-    { "name": "Deep Mountain Grade B Maple Syrup", "qty": 0.5, "unit": "oz" },
+    { "name": "Maple Syrup", "qty": 0.5, "unit": "oz" },
     { "name": "Libby's Pumpkin Puree", "qty": 1, "unit": "tsp" },
     { "name": "Angostura Bitters", "qty": 2, "unit": "dashes" },
     { "name": "Hot Water", "qty": 5, "unit": "oz" }
