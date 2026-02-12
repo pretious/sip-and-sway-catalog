@@ -78,7 +78,7 @@
         { "name": "Dr. Konstantin Frank Dry Riesling", "qty": 2, "unit": "oz" },
         { "name": "Clear Creek Pear Brandy", "qty": 1, "unit": "oz" },
         { "name": "Marie Brizard Orange Curacao", "qty": 0.5, "unit": "oz" },
-        { "name": "Honey Syrup", "qty": 0.25, "unit": "oz" },
+        { "name": "Acacia Honey Syrup", "qty": 0.25, "unit": "oz" },
         { "name": "Peychauds Bitters", "qty": 3, "unit": "dashes" }
       ]
     },
@@ -235,12 +235,12 @@
   "glass": "Chilled Rocks Glass",
   "garnish": null,
   "instructions": "Shake with ice and strain into a chilled rocks glass filled with ice. No garnish.",
-  "story": "T. J. Siegal created this modern classic at Milk & Honey. It is essentially a Whiskey Sour with honey syrup instead of Simple Syrup.",
+  "story": "T. J. Siegal created this modern classic at Milk & Honey. It is essentially a Whiskey Sour with Acacia Honey Syrup instead of Simple Syrup.",
   "tags": ["bourbon", "honey", "pdt-original"],
   "ingredients": [
     { "name": "Elijah Craig 12-Year-Old Bourbon", "qty": 2, "unit": "oz" },
     { "name": "Lemon Juice", "qty": 0.75, "unit": "oz" },
-    { "name": "Honey Syrup", "qty": 0.75, "unit": "oz" }
+    { "name": "Acacia Honey Syrup", "qty": 0.75, "unit": "oz" }
   ]
 },
 {
