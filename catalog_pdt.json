@@ -178,7 +178,7 @@
         { "name": "Lillet Blanc", "qty": 0.75, "unit": "oz" },
         { "name": "Green Chartreuse", "qty": 0.75, "unit": "oz" },
         { "name": "St. Germain Elderflower Liqueur", "qty": 1, "unit": "barspoon" },
-        { "name": "Regan's Orange Bitters", "qty": 1, "unit": "dash" }
+        { "name": "Orange Bitters", "qty": 1, "unit": "dash" }
       ]
     },
     {
