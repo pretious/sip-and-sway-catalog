@@ -1307,7 +1307,7 @@
       "tags": ["Tiki", "Classic", "Rum"],
       "ingredients": [
         { "name": "Aged rum", "qty": 60, "unit": "ml" },
-        { "name": "Orgeat syrup", "qty": 10, "unit": "ml" },
+        { "name": "Orgeat", "qty": 10, "unit": "ml" },
         { "name": "Orange curaçao", "qty": 15, "unit": "ml" },
         { "name": "Lime juice", "qty": 20, "unit": "ml" },
         { "name": "Simple Syrup", "qty": 7.5, "unit": "ml" }
