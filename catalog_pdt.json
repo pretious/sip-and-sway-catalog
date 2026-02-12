@@ -521,7 +521,7 @@
     { "name": "House Ginger Beer", "qty": 0.75, "unit": "oz" },
     { "name": "Simple Syrup", "qty": 0.75, "unit": "oz" },
     { "name": "Belle de Brillet", "qty": 0.5, "unit": "oz" },
-    { "name": "Eurovanille Vanilla Syrup", "qty": 0.25, "unit": "oz" },
+    { "name": "Vanilla Syrup", "qty": 0.25, "unit": "oz" },
     { "name": "Whole Black Peppercorns", "qty": 8, "unit": "whole" }
   ]
 },
